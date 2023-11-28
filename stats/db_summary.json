@@ -1,10 +1,13 @@
-[
-    {
-        "username": "cyranek",
-        "totalFollowers": 1520636
-    },
-    {
-        "username": "test",
-        "totalFollowers": 396132711
-    }
-]
+{
+    "sums": [
+        {
+            "username": "cyranek",
+            "totalFollowers": 1519637
+        },
+        {
+            "username": "test",
+            "totalFollowers": 377332755
+        }
+    ],
+    "timeRetrieved": 1701186866515
+}
