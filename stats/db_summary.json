@@ -2,16 +2,16 @@
     "sums": [
         {
             "username": "cyranek",
-            "totalFollowers": 1526731
-        },
-        {
-            "username": "mrbeast",
-            "totalFollowers": 565759424
+            "totalFollowers": 1526728
         },
         {
             "username": "test",
-            "totalFollowers": 396432918
+            "totalFollowers": 396532963
+        },
+        {
+            "username": "mrbeast",
+            "totalFollowers": 565766700
         }
     ],
-    "timeRetrieved": 1701406852654
+    "timeRetrieved": 1701446211681
 }
