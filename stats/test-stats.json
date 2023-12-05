@@ -3,7 +3,7 @@
     "displayName": "Testing",
     "youtubeStats": [
         {
-            "timeRetrieved": 1701745730787,
+            "timeRetrieved": 1701749060560,
             "link": "https://www.youtube.com/@google/",
             "displayName": "Google",
             "handle": "google",
@@ -16,7 +16,7 @@
     "instaStats": [],
     "spotifyStats": [
         {
-            "timeRetrieved": 1701745731229,
+            "timeRetrieved": 1701749061063,
             "link": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
             "artistId": "3WrFJ7ztbogyGnTHbHJFl2",
             "displayName": "The Beatles",
@@ -25,11 +25,11 @@
     ],
     "newgroundsStats": [
         {
-            "timeRetrieved": 1701745733694,
+            "timeRetrieved": 1701749063430,
             "link": "https://tomfulp.newgrounds.com/fans",
             "displayName": "TomFulp",
             "username": "tomfulp",
-            "fans": 81485,
+            "fans": 81487,
             "newsCount": 185,
             "moviesCount": 39,
             "artCount": 3,
@@ -42,7 +42,7 @@
     ],
     "soundcloudStats": [
         {
-            "timeRetrieved": 1701745739341,
+            "timeRetrieved": 1701749069435,
             "link": "https://soundcloud.com/soundcloud",
             "displayName": "SoundCloud",
             "username": "soundcloud",
@@ -55,7 +55,7 @@
     ],
     "twitterStats": [
         {
-            "timeRetrieved": 1701745744919,
+            "timeRetrieved": 1701749074948,
             "link": "https://twitter.com/elonmusk",
             "displayName": "",
             "handle": "elonmusk",
@@ -68,7 +68,7 @@
     ],
     "twitchStats": [
         {
-            "timeRetrieved": 1701745752632,
+            "timeRetrieved": 1701749082658,
             "link": "https://www.twitch.tv/ninja",
             "displayName": "Ninja",
             "username": "ninja",
@@ -79,7 +79,7 @@
     ],
     "tiktokStats": [
         {
-            "timeRetrieved": 1701745760479,
+            "timeRetrieved": 1701749089902,
             "link": "https://www.tiktok.com/@khaby.lame?lang=en",
             "displayName": "Khabane lame",
             "handle": "khaby.lame",
