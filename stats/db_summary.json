@@ -1,14 +1,39 @@
 {
     "sums": [
         {
-            "username": "caseyneistat",
-            "displayName": "Casey Neistat",
-            "totalFollowers": 16524000
+            "username": "jejkobbb",
+            "displayName": "Jejkobbb",
+            "totalFollowers": 368569
         },
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1527026
+            "totalFollowers": 1527025
+        },
+        {
+            "username": "test",
+            "displayName": "Testing",
+            "totalFollowers": 395233274
+        },
+        {
+            "username": "vsauce",
+            "displayName": "VSauce",
+            "totalFollowers": 27520000
+        },
+        {
+            "username": "zimonitrome",
+            "displayName": "ZimoNitrome",
+            "totalFollowers": 345106
+        },
+        {
+            "username": "caseyneistat",
+            "displayName": "Casey Neistat",
+            "totalFollowers": 18524000
+        },
+        {
+            "username": "rabbert",
+            "displayName": "Rabbert",
+            "totalFollowers": 13260000
         },
         {
             "username": "dunkey",
@@ -18,18 +43,8 @@
         {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 567302554
-        },
-        {
-            "username": "test",
-            "displayName": "Testing",
-            "totalFollowers": 395233217
-        },
-        {
-            "username": "vsauce",
-            "displayName": "VSauce",
-            "totalFollowers": 27520000
+            "totalFollowers": 567302559
         }
     ],
-    "timeRetrieved": 1701749115615
+    "timeRetrieved": 1701791080953
 }
