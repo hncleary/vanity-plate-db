@@ -23,17 +23,17 @@
         {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 567332562
+            "totalFollowers": 567332564
         },
         {
             "username": "rabbert",
             "displayName": "Rabbert",
-            "totalFollowers": 13280376
+            "totalFollowers": 13281376
         },
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 394933326
+            "totalFollowers": 394933336
         },
         {
             "username": "vsauce",
@@ -43,8 +43,8 @@
         {
             "username": "zimonitrome",
             "displayName": "ZimoNitrome",
-            "totalFollowers": 357629
+            "totalFollowers": 357631
         }
     ],
-    "timeRetrieved": 1701878196921
+    "timeRetrieved": 1701883383039
 }
