@@ -3,12 +3,12 @@
         {
             "username": "caseyneistat",
             "displayName": "Casey Neistat",
-            "totalFollowers": 18524500
+            "totalFollowers": 18524600
         },
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1527023
+            "totalFollowers": 1526889
         },
         {
             "username": "dunkey",
@@ -23,17 +23,17 @@
         {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 567332564
+            "totalFollowers": 568442672
         },
         {
             "username": "rabbert",
             "displayName": "Rabbert",
-            "totalFollowers": 13281376
+            "totalFollowers": 13291370
         },
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 394933336
+            "totalFollowers": 375833379
         },
         {
             "username": "vsauce",
@@ -43,8 +43,8 @@
         {
             "username": "zimonitrome",
             "displayName": "ZimoNitrome",
-            "totalFollowers": 357631
+            "totalFollowers": 357732
         }
     ],
-    "timeRetrieved": 1701883383039
+    "timeRetrieved": 1701956230681
 }
