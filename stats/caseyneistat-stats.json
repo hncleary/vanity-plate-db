@@ -3,7 +3,7 @@
     "displayName": "Casey Neistat",
     "youtubeStats": [
         {
-            "timeRetrieved": 1701996715317,
+            "timeRetrieved": 1702045521996,
             "link": "https://www.youtube.com/@casey/",
             "displayName": "CaseyNeistat",
             "handle": "casey",
@@ -15,7 +15,7 @@
     ],
     "instaStats": [
         {
-            "timeRetrieved": 1701996721472,
+            "timeRetrieved": 1702045528178,
             "link": "https://www.instagram.com/caseyneistat",
             "displayName": "CaseyNeistat",
             "handle": "caseyneistat",
@@ -30,7 +30,7 @@
     "soundcloudStats": [],
     "twitterStats": [
         {
-            "timeRetrieved": 1701996729587,
+            "timeRetrieved": 1702045536241,
             "link": "https://twitter.com/Casey",
             "displayName": "Casey Neistat",
             "handle": "Casey",
@@ -43,7 +43,7 @@
     ],
     "twitchStats": [
         {
-            "timeRetrieved": 1701996738307,
+            "timeRetrieved": 1702045544383,
             "link": "https://www.twitch.tv/caseyneistat",
             "displayName": "CASEYNEISTAT",
             "username": "caseyneistat",
@@ -54,13 +54,13 @@
     ],
     "tiktokStats": [
         {
-            "timeRetrieved": 1701996745444,
+            "timeRetrieved": 1702045549800,
             "link": "https://www.tiktok.com/@caseyneistat?lang=en",
             "displayName": "Casey Neistat",
             "handle": "caseyneistat",
             "likes": 10600000,
-            "followerCount": 848100,
-            "followingCount": 289,
+            "followerCount": 848200,
+            "followingCount": 290,
             "iconUrl": "",
             "iconBase64": ""
         }
