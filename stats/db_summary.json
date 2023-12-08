@@ -6,9 +6,14 @@
             "totalFollowers": 18524600
         },
         {
+            "username": "coldones",
+            "displayName": "Cold Ones",
+            "totalFollowers": 4886600
+        },
+        {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1526889
+            "totalFollowers": 1526622
         },
         {
             "username": "dunkey",
@@ -21,19 +26,39 @@
             "totalFollowers": 368570
         },
         {
+            "username": "mkbhd",
+            "displayName": "Marques Brownlee",
+            "totalFollowers": 31277000
+        },
+        {
+            "username": "mega64",
+            "displayName": "Mega64",
+            "totalFollowers": 745700
+        },
+        {
+            "username": "mintblitz",
+            "displayName": "Mint Blitz",
+            "totalFollowers": 400700
+        },
+        {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 568442672
+            "totalFollowers": 568443702
+        },
+        {
+            "username": "ninja",
+            "displayName": "Ninja",
+            "totalFollowers": 72231300
         },
         {
             "username": "rabbert",
             "displayName": "Rabbert",
-            "totalFollowers": 13291370
+            "totalFollowers": 13292371
         },
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 375833379
+            "totalFollowers": 394533446
         },
         {
             "username": "vsauce",
@@ -46,5 +71,5 @@
             "totalFollowers": 357732
         }
     ],
-    "timeRetrieved": 1701956230681
+    "timeRetrieved": 1701997199424
 }
