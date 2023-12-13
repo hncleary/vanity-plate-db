@@ -3,7 +3,7 @@
     "displayName": "ThrillDaWill",
     "youtubeStats": [
         {
-            "timeRetrieved": 1702484903375,
+            "timeRetrieved": 1702503757932,
             "link": "https://www.youtube.com/@ThrillDaWill/",
             "displayName": "ThrillDaWill",
             "handle": "ThrillDaWill",
@@ -19,7 +19,7 @@
     "soundcloudStats": [],
     "twitterStats": [
         {
-            "timeRetrieved": 1702484909103,
+            "timeRetrieved": 1702503763499,
             "link": "https://twitter.com/ThrillDaWill",
             "displayName": "William",
             "handle": "ThrillDaWill",
@@ -32,7 +32,7 @@
     ],
     "twitchStats": [
         {
-            "timeRetrieved": 1702484916666,
+            "timeRetrieved": 1702503771002,
             "link": "https://www.twitch.tv/thrilldawill",
             "displayName": "thrilldawill",
             "username": "thrilldawill",
@@ -43,13 +43,13 @@
     ],
     "tiktokStats": [
         {
-            "timeRetrieved": 1702484923159,
+            "timeRetrieved": 1702503777583,
             "link": "https://www.tiktok.com/@thrilldawillyt?lang=en",
-            "displayName": "Rize Tee",
+            "displayName": "",
             "handle": "thrilldawillyt",
-            "likes": 2,
-            "followerCount": 539,
-            "followingCount": 9,
+            "likes": 0,
+            "followerCount": 0,
+            "followingCount": 0,
             "iconUrl": "",
             "iconBase64": ""
         }

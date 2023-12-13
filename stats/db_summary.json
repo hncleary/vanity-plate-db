@@ -13,7 +13,7 @@
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1525013
+            "totalFollowers": 1525014
         },
         {
             "username": "dunkey",
@@ -23,7 +23,12 @@
         {
             "username": "glorb",
             "displayName": "Glorb",
-            "totalFollowers": 1370402
+            "totalFollowers": 1372219
+        },
+        {
+            "username": "gus",
+            "displayName": "Gus Johnson",
+            "totalFollowers": 4531900
         },
         {
             "username": "jejkobbb",
@@ -33,12 +38,12 @@
         {
             "username": "mkbhd",
             "displayName": "Marques Brownlee",
-            "totalFollowers": 31380000
+            "totalFollowers": 31381000
         },
         {
             "username": "maxxjamez",
             "displayName": "Maxx Jamez",
-            "totalFollowers": 99639
+            "totalFollowers": 99641
         },
         {
             "username": "mega64",
@@ -53,27 +58,27 @@
         {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 571467030
+            "totalFollowers": 571468031
         },
         {
             "username": "ninja",
             "displayName": "Ninja",
-            "totalFollowers": 53231300
+            "totalFollowers": 72331300
         },
         {
             "username": "octopox",
             "displayName": "Octopox",
-            "totalFollowers": 1219
+            "totalFollowers": 1216
         },
         {
             "username": "pinkieoats",
             "displayName": "Pinkie Oats",
-            "totalFollowers": 28903
+            "totalFollowers": 28904
         },
         {
             "username": "rabbert",
             "displayName": "Rabbert",
-            "totalFollowers": 13324358
+            "totalFollowers": 13324359
         },
         {
             "username": "ryitus",
@@ -81,19 +86,24 @@
             "totalFollowers": 18177
         },
         {
-            "username": "test",
-            "displayName": "Testing",
-            "totalFollowers": 375033863
+            "username": "sven",
+            "displayName": "Sven Johnson",
+            "totalFollowers": 1103790
         },
         {
-            "username": "thegamingcave",
+            "username": "test",
+            "displayName": "Testing",
+            "totalFollowers": 394033890
+        },
+        {
+            "username": "gamingcave",
             "displayName": "The Gaming Cave",
             "totalFollowers": 412
         },
         {
             "username": "thrilldawill",
             "displayName": "ThrillDaWill",
-            "totalFollowers": 132582
+            "totalFollowers": 132043
         },
         {
             "username": "vsauce",
@@ -103,8 +113,8 @@
         {
             "username": "zimonitrome",
             "displayName": "ZimoNitrome",
-            "totalFollowers": 357941
+            "totalFollowers": 357942
         }
     ],
-    "timeRetrieved": 1702484979651
+    "timeRetrieved": 1702503833996
 }
