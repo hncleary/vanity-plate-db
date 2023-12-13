@@ -13,7 +13,7 @@
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1526013
+            "totalFollowers": 1525013
         },
         {
             "username": "dunkey",
@@ -23,7 +23,7 @@
         {
             "username": "glorb",
             "displayName": "Glorb",
-            "totalFollowers": 1366094
+            "totalFollowers": 1370402
         },
         {
             "username": "jejkobbb",
@@ -38,7 +38,7 @@
         {
             "username": "maxxjamez",
             "displayName": "Maxx Jamez",
-            "totalFollowers": 99539
+            "totalFollowers": 99639
         },
         {
             "username": "mega64",
@@ -48,17 +48,22 @@
         {
             "username": "mintblitz",
             "displayName": "Mint Blitz",
-            "totalFollowers": 401800
+            "totalFollowers": 401900
         },
         {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 571457027
+            "totalFollowers": 571467030
         },
         {
             "username": "ninja",
             "displayName": "Ninja",
-            "totalFollowers": 72231300
+            "totalFollowers": 53231300
+        },
+        {
+            "username": "octopox",
+            "displayName": "Octopox",
+            "totalFollowers": 1219
         },
         {
             "username": "pinkieoats",
@@ -68,12 +73,27 @@
         {
             "username": "rabbert",
             "displayName": "Rabbert",
-            "totalFollowers": 13324356
+            "totalFollowers": 13324358
+        },
+        {
+            "username": "ryitus",
+            "displayName": "Ryitus",
+            "totalFollowers": 18177
         },
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 394233843
+            "totalFollowers": 375033863
+        },
+        {
+            "username": "thegamingcave",
+            "displayName": "The Gaming Cave",
+            "totalFollowers": 412
+        },
+        {
+            "username": "thrilldawill",
+            "displayName": "ThrillDaWill",
+            "totalFollowers": 132582
         },
         {
             "username": "vsauce",
@@ -83,8 +103,8 @@
         {
             "username": "zimonitrome",
             "displayName": "ZimoNitrome",
-            "totalFollowers": 357842
+            "totalFollowers": 357941
         }
     ],
-    "timeRetrieved": 1702475387275
+    "timeRetrieved": 1702484979651
 }
