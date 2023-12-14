@@ -13,22 +13,22 @@
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1525014
+            "totalFollowers": 1525015
         },
         {
             "username": "dunkey",
             "displayName": "dunkey",
-            "totalFollowers": 10353000
+            "totalFollowers": 10353100
         },
         {
             "username": "glorb",
             "displayName": "Glorb",
-            "totalFollowers": 1372219
+            "totalFollowers": 1374131
         },
         {
             "username": "gus",
             "displayName": "Gus Johnson",
-            "totalFollowers": 4531900
+            "totalFollowers": 4530900
         },
         {
             "username": "jejkobbb",
@@ -43,12 +43,12 @@
         {
             "username": "maxxjamez",
             "displayName": "Maxx Jamez",
-            "totalFollowers": 99641
+            "totalFollowers": 99644
         },
         {
             "username": "mega64",
             "displayName": "Mega64",
-            "totalFollowers": 812500
+            "totalFollowers": 746700
         },
         {
             "username": "mintblitz",
@@ -88,12 +88,12 @@
         {
             "username": "sven",
             "displayName": "Sven Johnson",
-            "totalFollowers": 1103790
+            "totalFollowers": 1103880
         },
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 394033890
+            "totalFollowers": 394033909
         },
         {
             "username": "gamingcave",
@@ -103,7 +103,7 @@
         {
             "username": "thrilldawill",
             "displayName": "ThrillDaWill",
-            "totalFollowers": 132043
+            "totalFollowers": 132582
         },
         {
             "username": "vsauce",
@@ -116,5 +116,5 @@
             "totalFollowers": 357942
         }
     ],
-    "timeRetrieved": 1702503833996
+    "timeRetrieved": 1702529190003
 }
