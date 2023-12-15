@@ -3,42 +3,57 @@
         {
             "username": "caseyneistat",
             "displayName": "Casey Neistat",
-            "totalFollowers": 18579907
+            "totalFollowers": 18579824
         },
         {
             "username": "coldones",
             "displayName": "Cold Ones",
-            "totalFollowers": 4941971
+            "totalFollowers": 4951959
         },
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1524941
+            "totalFollowers": 1524925
+        },
+        {
+            "username": "doladark",
+            "displayName": "Dolan Dark",
+            "totalFollowers": 5551775
         },
         {
             "username": "dunkey",
             "displayName": "dunkey",
-            "totalFollowers": 10354351
+            "totalFollowers": 10354284
         },
         {
             "username": "glorb",
             "displayName": "Glorb",
-            "totalFollowers": 1382558
+            "totalFollowers": 1385288
+        },
+        {
+            "username": "grandayy",
+            "displayName": "Grandayy",
+            "totalFollowers": 7688665
         },
         {
             "username": "gus",
             "displayName": "Gus Johnson",
-            "totalFollowers": 4530957
+            "totalFollowers": 4530905
         },
         {
             "username": "jejkobbb",
             "displayName": "Jejkobbb",
-            "totalFollowers": 368583
+            "totalFollowers": 368577
+        },
+        {
+            "username": "kadz",
+            "displayName": "kadz",
+            "totalFollowers": 1571034
         },
         {
             "username": "mkbhd",
             "displayName": "Marques Brownlee",
-            "totalFollowers": 31467376
+            "totalFollowers": 31467110
         },
         {
             "username": "maxxjamez",
@@ -48,22 +63,22 @@
         {
             "username": "mega64",
             "displayName": "Mega64",
-            "totalFollowers": 812597
+            "totalFollowers": 812598
         },
         {
             "username": "mintblitz",
             "displayName": "Mint Blitz",
-            "totalFollowers": 401944
+            "totalFollowers": 402036
         },
         {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 571513237
+            "totalFollowers": 571513116
         },
         {
             "username": "ninja",
             "displayName": "Ninja",
-            "totalFollowers": 72381145
+            "totalFollowers": 53380461
         },
         {
             "username": "octopox",
@@ -73,12 +88,12 @@
         {
             "username": "pinkieoats",
             "displayName": "Pinkie Oats",
-            "totalFollowers": 28906
+            "totalFollowers": 28907
         },
         {
             "username": "rabbert",
             "displayName": "Rabbert",
-            "totalFollowers": 13325351
+            "totalFollowers": 13335348
         },
         {
             "username": "ryitus",
@@ -88,12 +103,12 @@
         {
             "username": "sven",
             "displayName": "Sven Johnson",
-            "totalFollowers": 1103772
+            "totalFollowers": 1103767
         },
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 394047291
+            "totalFollowers": 375163108
         },
         {
             "username": "gamingcave",
@@ -108,13 +123,13 @@
         {
             "username": "vsauce",
             "displayName": "VSauce",
-            "totalFollowers": 27613772
+            "totalFollowers": 27613714
         },
         {
             "username": "zimonitrome",
             "displayName": "ZimoNitrome",
-            "totalFollowers": 358085
+            "totalFollowers": 358115
         }
     ],
-    "timeRetrieved": 1702598940850
+    "timeRetrieved": 1702653788198
 }
