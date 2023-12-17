@@ -3,7 +3,7 @@
     "displayName": "The Gaming Cave",
     "youtubeStats": [
         {
-            "timeRetrieved": 1702745838577,
+            "timeRetrieved": 1702768635882,
             "link": "https://www.youtube.com/@TheGamingCaveYT/",
             "displayName": "The Gaming Cave",
             "handle": "TheGamingCaveYT",
@@ -15,7 +15,7 @@
     ],
     "instaStats": [
         {
-            "timeRetrieved": 1702745844251,
+            "timeRetrieved": 1702768641714,
             "link": "https://www.instagram.com/thegamingcaveyt",
             "displayName": "Tyler",
             "handle": "thegamingcaveyt",
@@ -29,7 +29,7 @@
     "newgroundsStats": [],
     "soundcloudStats": [
         {
-            "timeRetrieved": 1702745849935,
+            "timeRetrieved": 1702768647903,
             "link": "https://soundcloud.com/thegamingcave",
             "displayName": "TheGamingCave",
             "username": "thegamingcave",
@@ -42,11 +42,11 @@
     ],
     "twitterStats": [
         {
-            "timeRetrieved": 1702745870578,
+            "timeRetrieved": 1702768670160,
             "link": "https://twitter.com/TheGamingCaveYT",
             "displayName": "The Gaming Cave",
             "handle": "TheGamingCaveYT",
-            "totalTweets": 6876,
+            "totalTweets": 6878,
             "followerCount": 69,
             "followingCount": 497,
             "iconUrl": "https://nitter.net/pic/pbs.twimg.com%2Fprofile_images%2F1407903650362531842%2FAZGA3c_Q_400x400.jpg",
@@ -55,18 +55,18 @@
     ],
     "twitchStats": [
         {
-            "timeRetrieved": 1702745880828,
+            "timeRetrieved": 1702768682598,
             "link": "https://www.twitch.tv/TheGamingCave",
             "displayName": "TheGamingCave",
             "username": "TheGamingCave",
-            "followers": 11,
+            "followers": 10,
             "iconUrl": "",
             "iconBas64": ""
         }
     ],
     "tiktokStats": [
         {
-            "timeRetrieved": 1702745887471,
+            "timeRetrieved": 1702768690556,
             "link": "https://www.tiktok.com/@thegamingcave?lang=en",
             "displayName": "The Gaming Cave",
             "handle": "thegamingcave",
