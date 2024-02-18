@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708229767661,
+            "timeRetrieved": 1708298584611,
             "link": "https://www.youtube.com/@maxxjamez/",
             "displayName": "maxxjamez",
             "username": "maxxjamez",
@@ -22,11 +22,11 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708229789821,
+            "timeRetrieved": 1708298601475,
             "link": "https://open.spotify.com/artist/6PRwwlb78ZBWpWZiIVqdq7",
             "displayName": "MAXXJAMEZ",
             "username": "",
-            "followerCount": 19000,
+            "followerCount": 19200,
             "followerLabel": "Monthly Listeners",
             "followingCount": -1,
             "iconBase64": "",
@@ -36,11 +36,11 @@
     ],
     "newgroundsStats": [
         {
-            "timeRetrieved": 1708229792066,
+            "timeRetrieved": 1708298603259,
             "link": "https://maxxjamez.newgrounds.com/fans",
             "displayName": "maxxjamez",
             "username": "maxxjamez",
-            "fans": 933,
+            "fans": 934,
             "newsCount": 28,
             "moviesCount": 9,
             "artCount": 0,
@@ -54,7 +54,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708229797588,
+            "timeRetrieved": 1708298608873,
             "link": "https://soundcloud.com/MAXXJAMEZ",
             "displayName": "Blaconator",
             "username": "MAXXJAMEZ",
@@ -69,7 +69,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708229802879,
+            "timeRetrieved": 1708298614161,
             "link": "https://twitter.com/MaximumJamez",
             "displayName": "",
             "username": "MaximumJamez",
@@ -82,7 +82,7 @@
         },
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708229808075,
+            "timeRetrieved": 1708298619340,
             "link": "https://twitter.com/maxxjamez",
             "displayName": "",
             "username": "maxxjamez",
@@ -98,7 +98,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708229814688,
+            "timeRetrieved": 1708298625999,
             "link": "https://www.tiktok.com/@maximumjamez?lang=en",
             "displayName": "Log in",
             "username": "maximumjamez",
