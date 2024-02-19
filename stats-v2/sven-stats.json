@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708304988727,
+            "timeRetrieved": 1708350314869,
             "link": "https://www.youtube.com/@SvenJohnsonBestYoutuber/",
             "displayName": "Sven Johnson",
             "username": "Sven Johnson",
@@ -34,7 +34,7 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708305005780,
+            "timeRetrieved": 1708350326480,
             "link": "https://open.spotify.com/artist/1gXUApzdDBn2QRaxhUTYhg",
             "displayName": "Sven Johnson",
             "username": "",
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708305010977,
+            "timeRetrieved": 1708350331671,
             "link": "https://twitter.com/swembo2000",
             "displayName": "",
             "username": "swembo2000",
@@ -66,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708305018517,
+            "timeRetrieved": 1708350339370,
             "link": "https://www.twitch.tv/svenjohnson7",
             "displayName": "svenjohnson7",
             "username": "svenjohnson7",
@@ -80,11 +80,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708305025180,
+            "timeRetrieved": 1708350346514,
             "link": "https://www.tiktok.com/@sven.johnson?lang=en",
-            "displayName": "Log in",
+            "displayName": "Sven Johnson",
             "username": "sven.johnson",
-            "followerCount": 253600,
+            "followerCount": 253700,
             "followerLabel": "Followers",
             "followingCount": 164,
             "iconBase64": "",

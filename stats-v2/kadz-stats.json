@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708304491640,
+            "timeRetrieved": 1708349898807,
             "link": "https://www.youtube.com/@kadz/",
             "displayName": "Kadz",
             "username": "Kadz",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708304495763,
+            "timeRetrieved": 1708349900787,
             "link": "https://www.youtube.com/@zdak/",
             "displayName": "Zdak",
             "username": "Zdak",
@@ -50,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708304517483,
+            "timeRetrieved": 1708349917004,
             "link": "https://twitter.com/KadzYT",
             "displayName": "",
             "username": "KadzYT",
@@ -66,16 +66,16 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708304524126,
+            "timeRetrieved": 1708349923616,
             "link": "https://www.tiktok.com/@kadz.yt?lang=en",
-            "displayName": "Log in",
+            "displayName": "Kadz",
             "username": "kadz.yt",
             "followerCount": 26400,
             "followerLabel": "Followers",
             "followingCount": 110,
             "iconBase64": "",
             "iconUrl": "",
-            "likes": 880900
+            "likes": 881200
         }
     ]
 }

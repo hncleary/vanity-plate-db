@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708305079511,
+            "timeRetrieved": 1708350400628,
             "link": "https://www.youtube.com/@vsauce/",
             "displayName": "Vsauce",
             "username": "Vsauce",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708305081604,
+            "timeRetrieved": 1708350402792,
             "link": "https://www.youtube.com/@dingsauce/",
             "displayName": "D!NG",
             "username": "D!NG",
@@ -50,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708305103446,
+            "timeRetrieved": 1708350419059,
             "link": "https://twitter.com/tweetsauce",
             "displayName": "",
             "username": "tweetsauce",
@@ -66,9 +66,9 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708305110213,
+            "timeRetrieved": 1708350426151,
             "link": "https://www.tiktok.com/@corndogwilly?lang=en",
-            "displayName": "Log in",
+            "displayName": "corndogwilly",
             "username": "corndogwilly",
             "followerCount": 1700000,
             "followerLabel": "Followers",

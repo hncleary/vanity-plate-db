@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708304926561,
+            "timeRetrieved": 1708350264478,
             "link": "https://www.youtube.com/@rabbert/",
             "displayName": "Rabbert",
             "username": "Rabbert",
@@ -50,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708304964921,
+            "timeRetrieved": 1708350291623,
             "link": "https://twitter.com/rabbertOfficial",
             "displayName": "",
             "username": "rabbertOfficial",
@@ -66,9 +66,9 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708304971682,
+            "timeRetrieved": 1708350298209,
             "link": "https://www.tiktok.com/@rabbert?lang=en",
-            "displayName": "Log in",
+            "displayName": "Rabbert",
             "username": "rabbert",
             "followerCount": 7500000,
             "followerLabel": "Followers",
