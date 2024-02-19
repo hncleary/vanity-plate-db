@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708297941758,
+            "timeRetrieved": 1708303934697,
             "link": "https://www.youtube.com/@casey/",
             "displayName": "CaseyNeistat",
             "username": "CaseyNeistat",
@@ -17,7 +17,19 @@
         }
     ],
     "instaStats": [
-        null
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/caseyneistat",
+            "displayName": "",
+            "username": "caseyneistat",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
     ],
     "spotifyStats": [],
     "newgroundsStats": [],
@@ -25,7 +37,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708297963498,
+            "timeRetrieved": 1708303956450,
             "link": "https://twitter.com/Casey",
             "displayName": "",
             "username": "Casey",
@@ -40,7 +52,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708297971007,
+            "timeRetrieved": 1708303964076,
             "link": "https://www.twitch.tv/caseyneistat",
             "displayName": "CASEYNEISTAT",
             "username": "caseyneistat",
@@ -54,7 +66,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708297977708,
+            "timeRetrieved": 1708303970656,
             "link": "https://www.tiktok.com/@caseyneistat?lang=en",
             "displayName": "Log in",
             "username": "caseyneistat",

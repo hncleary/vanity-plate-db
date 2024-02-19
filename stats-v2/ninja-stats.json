@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298819614,
+            "timeRetrieved": 1708304805502,
             "link": "https://www.youtube.com/@Ninja/",
             "displayName": "Ninja",
             "username": "Ninja",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298822935,
+            "timeRetrieved": 1708304807284,
             "link": "https://www.youtube.com/@AFKWNINJA/",
             "displayName": "AFKWNINJA",
             "username": "AFKWNINJA",
@@ -30,7 +30,19 @@
         }
     ],
     "instaStats": [
-        null
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/Ninja",
+            "displayName": "",
+            "username": "Ninja",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
     ],
     "spotifyStats": [],
     "newgroundsStats": [],
@@ -38,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298844682,
+            "timeRetrieved": 1708304828992,
             "link": "https://twitter.com/Ninja",
             "displayName": "",
             "username": "Ninja",
@@ -53,7 +65,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708298852245,
+            "timeRetrieved": 1708304836555,
             "link": "https://www.twitch.tv/ninja",
             "displayName": "Ninja",
             "username": "ninja",
@@ -67,7 +79,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708298859366,
+            "timeRetrieved": 1708304843491,
             "link": "https://www.tiktok.com/@ninja?lang=en",
             "displayName": "Log in",
             "username": "ninja",

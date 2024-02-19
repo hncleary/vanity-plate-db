@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708299003879,
+            "timeRetrieved": 1708304988727,
             "link": "https://www.youtube.com/@SvenJohnsonBestYoutuber/",
             "displayName": "Sven Johnson",
             "username": "Sven Johnson",
@@ -17,12 +17,24 @@
         }
     ],
     "instaStats": [
-        null
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/sven_johnson_",
+            "displayName": "",
+            "username": "sven_johnson_",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
     ],
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708299020904,
+            "timeRetrieved": 1708305005780,
             "link": "https://open.spotify.com/artist/1gXUApzdDBn2QRaxhUTYhg",
             "displayName": "Sven Johnson",
             "username": "",
@@ -39,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708299026088,
+            "timeRetrieved": 1708305010977,
             "link": "https://twitter.com/swembo2000",
             "displayName": "",
             "username": "swembo2000",
@@ -54,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708299033625,
+            "timeRetrieved": 1708305018517,
             "link": "https://www.twitch.tv/svenjohnson7",
             "displayName": "svenjohnson7",
             "username": "svenjohnson7",
@@ -68,7 +80,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708299040595,
+            "timeRetrieved": 1708305025180,
             "link": "https://www.tiktok.com/@sven.johnson?lang=en",
             "displayName": "Log in",
             "username": "sven.johnson",

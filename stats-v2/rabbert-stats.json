@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298942186,
+            "timeRetrieved": 1708304926561,
             "link": "https://www.youtube.com/@rabbert/",
             "displayName": "Rabbert",
             "username": "Rabbert",
@@ -17,8 +17,32 @@
         }
     ],
     "instaStats": [
-        null,
-        null
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/rabbertanimations",
+            "displayName": "",
+            "username": "rabbertanimations",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        },
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/rabbertsecond",
+            "displayName": "",
+            "username": "rabbertsecond",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
     ],
     "spotifyStats": [],
     "newgroundsStats": [],
@@ -26,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298980242,
+            "timeRetrieved": 1708304964921,
             "link": "https://twitter.com/rabbertOfficial",
             "displayName": "",
             "username": "rabbertOfficial",
@@ -42,7 +66,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708298987090,
+            "timeRetrieved": 1708304971682,
             "link": "https://www.tiktok.com/@rabbert?lang=en",
             "displayName": "Log in",
             "username": "rabbert",

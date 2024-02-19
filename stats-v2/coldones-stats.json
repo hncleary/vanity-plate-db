@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708297981618,
+            "timeRetrieved": 1708303972701,
             "link": "https://www.youtube.com/@coldones/",
             "displayName": "Cold Ones",
             "username": "Cold Ones",
@@ -17,8 +17,32 @@
         }
     ],
     "instaStats": [
-        null,
-        null
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/coldones",
+            "displayName": "",
+            "username": "coldones",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        },
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/drinkgrog",
+            "displayName": "",
+            "username": "drinkgrog",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
     ],
     "spotifyStats": [],
     "newgroundsStats": [],
@@ -26,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298019927,
+            "timeRetrieved": 1708304010912,
             "link": "https://twitter.com/ColdOnes",
             "displayName": "",
             "username": "ColdOnes",
@@ -42,7 +66,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708298028355,
+            "timeRetrieved": 1708304017554,
             "link": "https://www.tiktok.com/@coldonestv?lang=en",
             "displayName": "Log in",
             "username": "coldonestv",

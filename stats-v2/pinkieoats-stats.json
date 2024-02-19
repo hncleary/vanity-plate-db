@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298899362,
+            "timeRetrieved": 1708304883438,
             "link": "https://www.youtube.com/@PinkieOats/",
             "displayName": "PinkieOats",
             "username": "PinkieOats",
@@ -17,14 +17,26 @@
         }
     ],
     "instaStats": [
-        null
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/pinkieoats",
+            "displayName": "",
+            "username": "pinkieoats",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
     ],
     "spotifyStats": [],
     "newgroundsStats": [],
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708298921611,
+            "timeRetrieved": 1708304905846,
             "link": "https://soundcloud.com/pinkieoats",
             "displayName": "stereonuke",
             "username": "pinkieoats",
@@ -37,7 +49,7 @@
         },
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708298927456,
+            "timeRetrieved": 1708304911532,
             "link": "https://soundcloud.com/pinkiealts",
             "displayName": "PinkieAlts",
             "username": "pinkiealts",
@@ -52,7 +64,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298932743,
+            "timeRetrieved": 1708304916835,
             "link": "https://twitter.com/PinkieOats",
             "displayName": "",
             "username": "PinkieOats",
@@ -67,7 +79,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708298940166,
+            "timeRetrieved": 1708304924514,
             "link": "https://www.twitch.tv/pinkieoats",
             "displayName": "PinkieOats",
             "username": "pinkieoats",

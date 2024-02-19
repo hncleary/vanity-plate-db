@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298223993,
+            "timeRetrieved": 1708304211102,
             "link": "https://www.youtube.com/@TheGamingCaveYT/",
             "displayName": "The Gaming Cave",
             "username": "The Gaming Cave",
@@ -17,14 +17,26 @@
         }
     ],
     "instaStats": [
-        null
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/thegamingcaveyt",
+            "displayName": "",
+            "username": "thegamingcaveyt",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
     ],
     "spotifyStats": [],
     "newgroundsStats": [],
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708298246272,
+            "timeRetrieved": 1708304233300,
             "link": "https://soundcloud.com/thegamingcave",
             "displayName": "TheGamingCave",
             "username": "thegamingcave",
@@ -39,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298251580,
+            "timeRetrieved": 1708304238642,
             "link": "https://twitter.com/TheGamingCaveYT",
             "displayName": "",
             "username": "TheGamingCaveYT",
@@ -54,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708298259320,
+            "timeRetrieved": 1708304246021,
             "link": "https://www.twitch.tv/TheGamingCave",
             "displayName": "TheGamingCave",
             "username": "TheGamingCave",
@@ -68,7 +80,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708298265652,
+            "timeRetrieved": 1708304252646,
             "link": "https://www.tiktok.com/@thegamingcave?lang=en",
             "displayName": "Log in",
             "username": "thegamingcave",

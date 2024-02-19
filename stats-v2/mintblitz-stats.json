@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298663339,
+            "timeRetrieved": 1708304652506,
             "link": "https://www.youtube.com/@MintBlitz/",
             "displayName": "Mint Blitz",
             "username": "Mint Blitz",
@@ -17,7 +17,19 @@
         }
     ],
     "instaStats": [
-        null
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/mintblitz",
+            "displayName": "",
+            "username": "mintblitz",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
     ],
     "spotifyStats": [],
     "newgroundsStats": [],
@@ -25,7 +37,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298685113,
+            "timeRetrieved": 1708304674174,
             "link": "https://twitter.com/MintBlitz",
             "displayName": "",
             "username": "MintBlitz",
@@ -40,7 +52,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708298692840,
+            "timeRetrieved": 1708304681624,
             "link": "https://www.twitch.tv/MintBlitz",
             "displayName": "MintBlitz",
             "username": "MintBlitz",
@@ -54,7 +66,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708298699571,
+            "timeRetrieved": 1708304688389,
             "link": "https://www.tiktok.com/@mintblitz?lang=en",
             "displayName": "Log in",
             "username": "mintblitz",

@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298422941,
+            "timeRetrieved": 1708304407544,
             "link": "https://www.youtube.com/@jschlatt/",
             "displayName": "jschlatt",
             "username": "jschlatt",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298425016,
+            "timeRetrieved": 1708304409618,
             "link": "https://www.youtube.com/@jschlattLIVE/",
             "displayName": "jschlattLIVE",
             "username": "jschlattLIVE",
@@ -30,7 +30,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298426990,
+            "timeRetrieved": 1708304411635,
             "link": "https://www.youtube.com/@SleepDeprived/",
             "displayName": "Sleep Deprived",
             "username": "Sleep Deprived",
@@ -43,7 +43,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298428726,
+            "timeRetrieved": 1708304413566,
             "link": "https://www.youtube.com/@ChuckleSandwich/",
             "displayName": "Chuckle Sandwich",
             "username": "Chuckle Sandwich",
@@ -56,7 +56,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298430724,
+            "timeRetrieved": 1708304415486,
             "link": "https://www.youtube.com/@schlagg/",
             "displayName": "Schlagg",
             "username": "Schlagg",
@@ -69,7 +69,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298432731,
+            "timeRetrieved": 1708304417484,
             "link": "https://www.youtube.com/@bigmanschlatt/",
             "displayName": "Big guy",
             "username": "Big guy",
@@ -82,7 +82,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298434437,
+            "timeRetrieved": 1708304419211,
             "link": "https://www.youtube.com/@ludandschlattsmusicalempor6746/",
             "displayName": "Lud and Schlatts Musical Emporium ",
             "username": "Lud and Schlatts Musical Emporium ",
@@ -95,7 +95,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298436357,
+            "timeRetrieved": 1708304421253,
             "link": "https://www.youtube.com/@theweeklyslap/",
             "displayName": "theweeklyslap",
             "username": "theweeklyslap",
@@ -108,7 +108,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298438038,
+            "timeRetrieved": 1708304422943,
             "link": "https://www.youtube.com/@didschlattwin/",
             "displayName": "DID SCHLATT WIN?",
             "username": "DID SCHLATT WIN?",
@@ -121,7 +121,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708298440020,
+            "timeRetrieved": 1708304425255,
             "link": "https://www.youtube.com/@jschlattvods/",
             "displayName": "jschlattVODS",
             "username": "jschlattVODS",
@@ -134,14 +134,26 @@
         }
     ],
     "instaStats": [
-        null
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/jschlatt",
+            "displayName": "",
+            "username": "jschlatt",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
     ],
     "spotifyStats": [],
     "newgroundsStats": [],
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708298462060,
+            "timeRetrieved": 1708304447204,
             "link": "https://soundcloud.com/jschlatt",
             "displayName": "jschlatt",
             "username": "jschlatt",
@@ -156,7 +168,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298467402,
+            "timeRetrieved": 1708304452505,
             "link": "https://twitter.com/jschlatt",
             "displayName": "",
             "username": "jschlatt",
@@ -169,7 +181,7 @@
         },
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298472596,
+            "timeRetrieved": 1708304457697,
             "link": "https://twitter.com/sleepdeprived",
             "displayName": "",
             "username": "sleepdeprived",
@@ -182,7 +194,7 @@
         },
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298477798,
+            "timeRetrieved": 1708304462891,
             "link": "https://twitter.com/ChuckleSandwich",
             "displayName": "",
             "username": "ChuckleSandwich",
@@ -195,7 +207,7 @@
         },
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298482975,
+            "timeRetrieved": 1708304468091,
             "link": "https://twitter.com/rammie",
             "displayName": "",
             "username": "rammie",
@@ -208,7 +220,7 @@
         },
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708298488167,
+            "timeRetrieved": 1708304473318,
             "link": "https://twitter.com/schlatt",
             "displayName": "",
             "username": "schlatt",
@@ -223,7 +235,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708298495509,
+            "timeRetrieved": 1708304480809,
             "link": "https://www.twitch.tv/schlatt",
             "displayName": "Schlatt",
             "username": "schlatt",
@@ -237,7 +249,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708298502586,
+            "timeRetrieved": 1708304489286,
             "link": "https://www.tiktok.com/@bigmanschlatt?lang=en",
             "displayName": "Log in",
             "username": "bigmanschlatt",
