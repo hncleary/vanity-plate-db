@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708435678771,
+            "timeRetrieved": 1708464450723,
             "link": "https://www.youtube.com/@SvenJohnsonBestYoutuber/",
             "displayName": "Sven Johnson",
             "username": "Sven Johnson",
@@ -19,7 +19,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708435684377,
+            "timeRetrieved": 1708464456320,
             "link": "https://www.instagram.com/sven_johnson_",
             "displayName": "SvenJohnson",
             "username": "sven_johnson_",
@@ -34,7 +34,7 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708435684827,
+            "timeRetrieved": 1708464456734,
             "link": "https://open.spotify.com/artist/1gXUApzdDBn2QRaxhUTYhg",
             "displayName": "Sven Johnson",
             "username": "1gXUApzdDBn2QRaxhUTYhg",
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708435690041,
+            "timeRetrieved": 1708464461928,
             "link": "https://twitter.com/swembo2000",
             "displayName": "",
             "username": "swembo2000",
@@ -66,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708435697584,
+            "timeRetrieved": 1708464469344,
             "link": "https://www.twitch.tv/svenjohnson7",
             "displayName": "svenjohnson7",
             "username": "svenjohnson7",
@@ -80,11 +80,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708435704193,
+            "timeRetrieved": 1708464475865,
             "link": "https://www.tiktok.com/@sven.johnson?lang=en",
             "displayName": "Sven Johnson",
             "username": "sven.johnson",
-            "followerCount": 253700,
+            "followerCount": 253800,
             "followerLabel": "Followers",
             "followingCount": 164,
             "iconBase64": "",
