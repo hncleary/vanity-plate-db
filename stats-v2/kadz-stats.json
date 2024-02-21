@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708464105631,
+            "timeRetrieved": 1708525595270,
             "link": "https://www.youtube.com/@kadz/",
             "displayName": "Kadz",
             "username": "Kadz",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708464107534,
+            "timeRetrieved": 1708525597170,
             "link": "https://www.youtube.com/@zdak/",
             "displayName": "Zdak",
             "username": "Zdak",
@@ -32,7 +32,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708464114194,
+            "timeRetrieved": 1708525602767,
             "link": "https://www.instagram.com/kadz.yt",
             "displayName": "Kadz",
             "username": "kadz.yt",
@@ -50,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708464119374,
+            "timeRetrieved": 1708525607958,
             "link": "https://twitter.com/KadzYT",
             "displayName": "",
             "username": "KadzYT",
@@ -66,7 +66,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708464126034,
+            "timeRetrieved": 1708525614525,
             "link": "https://www.tiktok.com/@kadz.yt?lang=en",
             "displayName": "Kadz",
             "username": "kadz.yt",
@@ -75,7 +75,7 @@
             "followingCount": 110,
             "iconBase64": "",
             "iconUrl": "",
-            "likes": 881700
+            "likes": 882000
         }
     ]
 }

@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708463981182,
+            "timeRetrieved": 1708525475988,
             "link": "https://www.youtube.com/@gustoonz/",
             "displayName": "Gus Johnson",
             "username": "Gus Johnson",
@@ -19,11 +19,11 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708463986826,
+            "timeRetrieved": 1708525481651,
             "link": "https://www.instagram.com/johnsongus",
             "displayName": "GusJohnson",
             "username": "johnsongus",
-            "followerCount": 288000,
+            "followerCount": 287000,
             "followerLabel": "Followers",
             "followingCount": 350,
             "iconBase64": "",
@@ -34,7 +34,7 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708463987259,
+            "timeRetrieved": 1708525481994,
             "link": "https://open.spotify.com/artist/32WwgDfzPkwsTgGxkL2DwI",
             "displayName": "Gus Johnson",
             "username": "32WwgDfzPkwsTgGxkL2DwI",
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708463992442,
+            "timeRetrieved": 1708525487183,
             "link": "https://twitter.com/gusbuckets",
             "displayName": "",
             "username": "gusbuckets",
@@ -66,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708463999975,
+            "timeRetrieved": 1708525494756,
             "link": "https://www.twitch.tv/gusjohnson",
             "displayName": "gusjohnson",
             "username": "gusjohnson",
@@ -80,7 +80,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708464006579,
+            "timeRetrieved": 1708525501405,
             "link": "https://www.tiktok.com/@gusjohnson_?lang=en",
             "displayName": "Gus Johnson",
             "username": "gusjohnson_",

@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708464450723,
+            "timeRetrieved": 1708525938085,
             "link": "https://www.youtube.com/@SvenJohnsonBestYoutuber/",
             "displayName": "Sven Johnson",
             "username": "Sven Johnson",
@@ -19,7 +19,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708464456320,
+            "timeRetrieved": 1708525943730,
             "link": "https://www.instagram.com/sven_johnson_",
             "displayName": "SvenJohnson",
             "username": "sven_johnson_",
@@ -34,11 +34,11 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708464456734,
+            "timeRetrieved": 1708525944082,
             "link": "https://open.spotify.com/artist/1gXUApzdDBn2QRaxhUTYhg",
             "displayName": "Sven Johnson",
             "username": "1gXUApzdDBn2QRaxhUTYhg",
-            "followerCount": 12000,
+            "followerCount": 12600,
             "followerLabel": "Monthly Listeners",
             "followingCount": -1,
             "iconBase64": "",
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708464461928,
+            "timeRetrieved": 1708525949278,
             "link": "https://twitter.com/swembo2000",
             "displayName": "",
             "username": "swembo2000",
@@ -66,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708464469344,
+            "timeRetrieved": 1708525957315,
             "link": "https://www.twitch.tv/svenjohnson7",
             "displayName": "svenjohnson7",
             "username": "svenjohnson7",
@@ -80,7 +80,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708464475865,
+            "timeRetrieved": 1708525963917,
             "link": "https://www.tiktok.com/@sven.johnson?lang=en",
             "displayName": "Sven Johnson",
             "username": "sven.johnson",

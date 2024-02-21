@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708463698363,
+            "timeRetrieved": 1708525193096,
             "link": "https://www.youtube.com/@casey/",
             "displayName": "CaseyNeistat",
             "username": "CaseyNeistat",
@@ -19,13 +19,13 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708463704558,
+            "timeRetrieved": 1708525199049,
             "link": "https://www.instagram.com/caseyneistat",
             "displayName": "CaseyNeistat",
             "username": "caseyneistat",
             "followerCount": 3000000,
             "followerLabel": "Followers",
-            "followingCount": 3735,
+            "followingCount": 3736,
             "iconBase64": "",
             "iconUrl": "",
             "totalPosts": 2002
@@ -37,7 +37,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708463709760,
+            "timeRetrieved": 1708525204245,
             "link": "https://twitter.com/Casey",
             "displayName": "",
             "username": "Casey",
@@ -52,7 +52,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708463717230,
+            "timeRetrieved": 1708525211692,
             "link": "https://www.twitch.tv/caseyneistat",
             "displayName": "CASEYNEISTAT",
             "username": "caseyneistat",
@@ -66,7 +66,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708463723827,
+            "timeRetrieved": 1708525218318,
             "link": "https://www.tiktok.com/@caseyneistat?lang=en",
             "displayName": "Casey Neistat",
             "username": "caseyneistat",
