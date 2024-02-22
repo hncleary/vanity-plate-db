@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708525865720,
+            "timeRetrieved": 1708567172098,
             "link": "https://www.youtube.com/@PinkieOats/",
             "displayName": "PinkieOats",
             "username": "PinkieOats",
@@ -19,16 +19,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708525871492,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/pinkieoats",
-            "displayName": "PinkieOats",
+            "displayName": "",
             "username": "pinkieoats",
-            "followerCount": 176,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 333,
+            "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 92
+            "totalPosts": -1
         }
     ],
     "spotifyStats": [],
@@ -36,7 +36,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708525877089,
+            "timeRetrieved": 1708567188785,
             "link": "https://soundcloud.com/pinkieoats",
             "displayName": "stereonuke",
             "username": "pinkieoats",
@@ -49,7 +49,7 @@
         },
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708525882759,
+            "timeRetrieved": 1708567194475,
             "link": "https://soundcloud.com/pinkiealts",
             "displayName": "PinkieAlts",
             "username": "pinkiealts",
@@ -64,7 +64,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708525888019,
+            "timeRetrieved": 1708567199721,
             "link": "https://twitter.com/PinkieOats",
             "displayName": "",
             "username": "PinkieOats",
@@ -79,7 +79,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708525895484,
+            "timeRetrieved": 1708567207124,
             "link": "https://www.twitch.tv/pinkieoats",
             "displayName": "PinkieOats",
             "username": "pinkieoats",

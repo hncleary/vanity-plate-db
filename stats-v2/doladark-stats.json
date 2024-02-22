@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708525320738,
+            "timeRetrieved": 1708566566518,
             "link": "https://www.youtube.com/@DolanDark/",
             "displayName": "Dolan Dark",
             "username": "Dolan Dark",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708525322725,
+            "timeRetrieved": 1708566568380,
             "link": "https://www.youtube.com/@DolanDarker/",
             "displayName": "Dolan Darker",
             "username": "Dolan Darker",
@@ -30,7 +30,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708525324631,
+            "timeRetrieved": 1708566570266,
             "link": "https://www.youtube.com/@DolanDarkest/",
             "displayName": "Dolan Darkest",
             "username": "Dolan Darkest",
@@ -45,14 +45,14 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708525330287,
+            "timeRetrieved": 1708566575952,
             "link": "https://www.instagram.com/darkdolan",
             "displayName": "DolanDark",
             "username": "darkdolan",
             "followerCount": 1000000,
             "followerLabel": "Followers",
             "followingCount": 455,
-            "iconBase64": "",
+            "iconBase64": "data:image/jpeg;base64,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",
             "iconUrl": "",
             "totalPosts": 343
         }
@@ -62,7 +62,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708525335933,
+            "timeRetrieved": 1708566581839,
             "link": "https://soundcloud.com/dolan-dark",
             "displayName": "Dolan Dark",
             "username": "dolan-dark",
@@ -77,7 +77,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708525341221,
+            "timeRetrieved": 1708566587172,
             "link": "https://twitter.com/DolanDark",
             "displayName": "",
             "username": "DolanDark",
@@ -92,7 +92,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708525348726,
+            "timeRetrieved": 1708566594469,
             "link": "https://www.twitch.tv/DolanDark420",
             "displayName": "DolanDark420",
             "username": "DolanDark420",

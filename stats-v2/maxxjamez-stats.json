@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708525652468,
+            "timeRetrieved": 1708566902341,
             "link": "https://www.youtube.com/@maxxjamez/",
             "displayName": "maxxjamez",
             "username": "maxxjamez",
@@ -19,26 +19,26 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708525658217,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/maximumjamez",
-            "displayName": "Maxx",
+            "displayName": "",
             "username": "maximumjamez",
-            "followerCount": 5144,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 1571,
+            "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 117
+            "totalPosts": -1
         }
     ],
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708525658615,
+            "timeRetrieved": 1708566914029,
             "link": "https://open.spotify.com/artist/6PRwwlb78ZBWpWZiIVqdq7",
             "displayName": "MAXXJAMEZ",
             "username": "6PRwwlb78ZBWpWZiIVqdq7",
-            "followerCount": 19800,
+            "followerCount": 19900,
             "followerLabel": "Monthly Listeners",
             "followingCount": -1,
             "iconBase64": "",
@@ -49,7 +49,7 @@
     "newgroundsStats": [
         {
             "platformName": "Newgrounds",
-            "timeRetrieved": 1708525660137,
+            "timeRetrieved": 1708566915492,
             "link": "https://maxxjamez.newgrounds.com/fans",
             "displayName": "maxxjamez",
             "username": "maxxjamez",
@@ -71,7 +71,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708525665685,
+            "timeRetrieved": 1708566921186,
             "link": "https://soundcloud.com/MAXXJAMEZ",
             "displayName": "Blaconator",
             "username": "MAXXJAMEZ",
@@ -86,7 +86,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708525670990,
+            "timeRetrieved": 1708566926523,
             "link": "https://twitter.com/MaximumJamez",
             "displayName": "",
             "username": "MaximumJamez",
@@ -99,7 +99,7 @@
         },
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708525676172,
+            "timeRetrieved": 1708566931704,
             "link": "https://twitter.com/maxxjamez",
             "displayName": "",
             "username": "maxxjamez",
@@ -115,13 +115,13 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708525682753,
+            "timeRetrieved": 1708566938347,
             "link": "https://www.tiktok.com/@maximumjamez?lang=en",
             "displayName": "Maxx",
             "username": "maximumjamez",
             "followerCount": 76400,
             "followerLabel": "Followers",
-            "followingCount": 100,
+            "followingCount": 101,
             "iconBase64": "",
             "iconUrl": "",
             "likes": 3000000
