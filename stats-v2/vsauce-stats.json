@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708567344611,
+            "timeRetrieved": 1708608691083,
             "link": "https://www.youtube.com/@vsauce/",
             "displayName": "Vsauce",
             "username": "Vsauce",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708567346617,
+            "timeRetrieved": 1708608693098,
             "link": "https://www.youtube.com/@dingsauce/",
             "displayName": "D!NG",
             "username": "D!NG",
@@ -32,16 +32,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": -1,
+            "timeRetrieved": 1708608698709,
             "link": "https://www.instagram.com/electricpants",
-            "displayName": "",
+            "displayName": "MichaelStevens",
             "username": "electricpants",
-            "followerCount": -1,
+            "followerCount": 2000000,
             "followerLabel": "Followers",
-            "followingCount": -1,
+            "followingCount": 733,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": -1
+            "totalPosts": 1184
         }
     ],
     "spotifyStats": [],
@@ -50,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708567362828,
+            "timeRetrieved": 1708608703897,
             "link": "https://twitter.com/tweetsauce",
             "displayName": "",
             "username": "tweetsauce",
@@ -66,7 +66,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708567369617,
+            "timeRetrieved": 1708608710694,
             "link": "https://www.tiktok.com/@corndogwilly?lang=en",
             "displayName": "corndogwilly",
             "username": "corndogwilly",

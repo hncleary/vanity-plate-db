@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708567259658,
+            "timeRetrieved": 1708608610141,
             "link": "https://www.youtube.com/@SvenJohnsonBestYoutuber/",
             "displayName": "Sven Johnson",
             "username": "Sven Johnson",
@@ -19,22 +19,22 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": -1,
+            "timeRetrieved": 1708608615734,
             "link": "https://www.instagram.com/sven_johnson_",
-            "displayName": "",
+            "displayName": "SvenJohnson",
             "username": "sven_johnson_",
-            "followerCount": -1,
+            "followerCount": 167000,
             "followerLabel": "Followers",
-            "followingCount": -1,
+            "followingCount": 831,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": -1
+            "totalPosts": 344
         }
     ],
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708567271108,
+            "timeRetrieved": 1708608616329,
             "link": "https://open.spotify.com/artist/1gXUApzdDBn2QRaxhUTYhg",
             "displayName": "Sven Johnson",
             "username": "1gXUApzdDBn2QRaxhUTYhg",
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708567276296,
+            "timeRetrieved": 1708608621525,
             "link": "https://twitter.com/swembo2000",
             "displayName": "",
             "username": "swembo2000",
@@ -66,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708567283717,
+            "timeRetrieved": 1708608628901,
             "link": "https://www.twitch.tv/svenjohnson7",
             "displayName": "svenjohnson7",
             "username": "svenjohnson7",
@@ -80,11 +80,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708567290568,
+            "timeRetrieved": 1708608635589,
             "link": "https://www.tiktok.com/@sven.johnson?lang=en",
             "displayName": "Sven Johnson",
             "username": "sven.johnson",
-            "followerCount": 253900,
+            "followerCount": 254000,
             "followerLabel": "Followers",
             "followingCount": 164,
             "iconBase64": "",

@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708566724089,
+            "timeRetrieved": 1708608152329,
             "link": "https://www.youtube.com/@gustoonz/",
             "displayName": "Gus Johnson",
             "username": "Gus Johnson",
@@ -19,7 +19,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708566729844,
+            "timeRetrieved": 1708608158031,
             "link": "https://www.instagram.com/johnsongus",
             "displayName": "GusJohnson",
             "username": "johnsongus",
@@ -34,7 +34,7 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708566730259,
+            "timeRetrieved": 1708608158528,
             "link": "https://open.spotify.com/artist/32WwgDfzPkwsTgGxkL2DwI",
             "displayName": "Gus Johnson",
             "username": "32WwgDfzPkwsTgGxkL2DwI",
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708566735437,
+            "timeRetrieved": 1708608163710,
             "link": "https://twitter.com/gusbuckets",
             "displayName": "",
             "username": "gusbuckets",
@@ -66,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708566742894,
+            "timeRetrieved": 1708608171044,
             "link": "https://www.twitch.tv/gusjohnson",
             "displayName": "gusjohnson",
             "username": "gusjohnson",
@@ -80,11 +80,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708566749789,
+            "timeRetrieved": 1708608176400,
             "link": "https://www.tiktok.com/@gusjohnson_?lang=en",
             "displayName": "Gus Johnson",
             "username": "gusjohnson_",
-            "followerCount": 546800,
+            "followerCount": 546700,
             "followerLabel": "Followers",
             "followingCount": 9,
             "iconBase64": "",
