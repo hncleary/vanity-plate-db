@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708607870991,
+            "timeRetrieved": 1708700332374,
             "link": "https://www.youtube.com/@casey/",
             "displayName": "CaseyNeistat",
             "username": "CaseyNeistat",
@@ -19,14 +19,14 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708607876722,
+            "timeRetrieved": 1708700338015,
             "link": "https://www.instagram.com/caseyneistat",
             "displayName": "CaseyNeistat",
             "username": "caseyneistat",
             "followerCount": 3000000,
             "followerLabel": "Followers",
-            "followingCount": 3736,
-            "iconBase64": "data:image/jpeg;base64,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",
+            "followingCount": 3738,
+            "iconBase64": "",
             "iconUrl": "",
             "totalPosts": 2002
         }
@@ -37,7 +37,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708607881902,
+            "timeRetrieved": 1708700343197,
             "link": "https://twitter.com/Casey",
             "displayName": "",
             "username": "Casey",
@@ -52,7 +52,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708607889846,
+            "timeRetrieved": 1708700350766,
             "link": "https://www.twitch.tv/caseyneistat",
             "displayName": "CASEYNEISTAT",
             "username": "caseyneistat",
@@ -66,11 +66,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708607896516,
+            "timeRetrieved": 1708700357667,
             "link": "https://www.tiktok.com/@caseyneistat?lang=en",
             "displayName": "Casey Neistat",
             "username": "caseyneistat",
-            "followerCount": 857900,
+            "followerCount": 858000,
             "followerLabel": "Followers",
             "followingCount": 293,
             "iconBase64": "",
