@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708700998622,
+            "timeRetrieved": 1708731858753,
             "link": "https://www.youtube.com/@DolanDark/",
             "displayName": "Dolan Dark",
             "username": "Dolan Dark",
@@ -13,11 +13,11 @@
             "followingCount": -1,
             "iconBase64": "data:image/jpeg;base64,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",
             "iconUrl": "https://yt3.googleusercontent.com/ytc/AIf8zZQ7fnPYW-22y1s5vbT0zrKt7hAmN0FqXOj2qFqKrQ=s176-c-k-c0x00ffffff-no-rj",
-            "totalViews": 71884399
+            "totalViews": 71884721
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708701000618,
+            "timeRetrieved": 1708731860751,
             "link": "https://www.youtube.com/@DolanDarker/",
             "displayName": "Dolan Darker",
             "username": "Dolan Darker",
@@ -30,7 +30,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708701002523,
+            "timeRetrieved": 1708731862649,
             "link": "https://www.youtube.com/@DolanDarkest/",
             "displayName": "Dolan Darkest",
             "username": "Dolan Darkest",
@@ -45,13 +45,13 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1708701008097,
+            "timeRetrieved": 1708731868577,
             "link": "https://www.instagram.com/darkdolan",
             "displayName": "DolanDark",
             "username": "darkdolan",
             "followerCount": 1000000,
             "followerLabel": "Followers",
-            "followingCount": 455,
+            "followingCount": 456,
             "iconBase64": "",
             "iconUrl": "",
             "totalPosts": 343
@@ -62,7 +62,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708701013666,
+            "timeRetrieved": 1708731874160,
             "link": "https://soundcloud.com/dolan-dark",
             "displayName": "Dolan Dark",
             "username": "dolan-dark",
@@ -77,7 +77,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708701018934,
+            "timeRetrieved": 1708731879467,
             "link": "https://twitter.com/DolanDark",
             "displayName": "",
             "username": "DolanDark",
@@ -92,7 +92,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708701026920,
+            "timeRetrieved": 1708731886835,
             "link": "https://www.twitch.tv/DolanDark420",
             "displayName": "DolanDark420",
             "username": "DolanDark420",
