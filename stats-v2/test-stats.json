@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1708732181408,
+            "timeRetrieved": 1708784943343,
             "link": "https://www.youtube.com/@google/",
             "displayName": "Google",
             "username": "Google",
@@ -20,7 +20,7 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1708732181918,
+            "timeRetrieved": 1708784943763,
             "link": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
             "displayName": "The Beatles",
             "username": "3WrFJ7ztbogyGnTHbHJFl2",
@@ -35,11 +35,11 @@
     "newgroundsStats": [
         {
             "platformName": "Newgrounds",
-            "timeRetrieved": 1708732184160,
+            "timeRetrieved": 1708784949348,
             "link": "https://tomfulp.newgrounds.com/fans",
             "displayName": "TomFulp",
             "username": "tomfulp",
-            "followerCount": 82559,
+            "followerCount": 82574,
             "followerLabel": "Fans",
             "followingCount": -1,
             "iconBase64": "",
@@ -57,11 +57,11 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1708732189672,
+            "timeRetrieved": 1708784954865,
             "link": "https://soundcloud.com/soundcloud",
             "displayName": "SoundCloud",
             "username": "soundcloud",
-            "followerCount": 2555313,
+            "followerCount": 2555332,
             "followerLabel": "Followers",
             "followingCount": 250,
             "iconBase64": "data:image/jpeg;base64,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",
@@ -72,7 +72,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1708732195041,
+            "timeRetrieved": 1708784960150,
             "link": "https://twitter.com/elonmusk",
             "displayName": "",
             "username": "elonmusk",
@@ -87,7 +87,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1708732202643,
+            "timeRetrieved": 1708784967822,
             "link": "https://www.twitch.tv/ninja",
             "displayName": "Ninja",
             "username": "ninja",
@@ -101,7 +101,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1708732208032,
+            "timeRetrieved": 1708784974553,
             "link": "https://www.tiktok.com/@khaby.lame?lang=en",
             "displayName": "Khabane lame",
             "username": "khaby.lame",
