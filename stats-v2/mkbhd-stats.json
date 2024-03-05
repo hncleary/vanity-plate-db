@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1709559285486,
+            "timeRetrieved": 1709568079639,
             "link": "https://www.youtube.com/@mkbhd/",
             "displayName": "Marques Brownlee",
             "username": "Marques Brownlee",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1709559287234,
+            "timeRetrieved": 1709568081284,
             "link": "https://www.youtube.com/@TheStudio/",
             "displayName": "The Studio",
             "username": "The Studio",
@@ -30,7 +30,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1709559288856,
+            "timeRetrieved": 1709568082858,
             "link": "https://www.youtube.com/@AutoFocus/",
             "displayName": "Auto Focus",
             "username": "Auto Focus",
@@ -43,7 +43,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1709559292753,
+            "timeRetrieved": 1709568084754,
             "link": "https://www.youtube.com/@Waveform/",
             "displayName": "WVFRM Podcast",
             "username": "WVFRM Podcast",
@@ -56,7 +56,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1709559294487,
+            "timeRetrieved": 1709568088359,
             "link": "https://www.youtube.com/@WaveformClips/",
             "displayName": "Waveform Clips",
             "username": "Waveform Clips",
@@ -71,7 +71,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1709559300244,
+            "timeRetrieved": 1709568094090,
             "link": "https://www.instagram.com/MKBHD",
             "displayName": "MarquesBrownlee",
             "username": "MKBHD",
@@ -86,7 +86,7 @@
     "threadsStats": [
         {
             "platformName": "Threads",
-            "timeRetrieved": 1709559307485,
+            "timeRetrieved": 1709568100871,
             "link": "https://www.threads.net/@MKBHD",
             "displayName": "Marques Brownlee (@mkbhd) on Threads\">",
             "username": "MKBHD",
@@ -103,7 +103,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1709559312679,
+            "timeRetrieved": 1709568106070,
             "link": "https://twitter.com/MKBHD",
             "displayName": "",
             "username": "MKBHD",

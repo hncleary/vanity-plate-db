@@ -18,7 +18,7 @@
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1470776
+            "totalFollowers": 1470775
         },
         {
             "username": "doladark",
@@ -33,12 +33,12 @@
         {
             "username": "glorb",
             "displayName": "Glorb",
-            "totalFollowers": 2162446
+            "totalFollowers": 2162552
         },
         {
             "username": "grandayy",
             "displayName": "Grandayy",
-            "totalFollowers": 6416223
+            "totalFollowers": 6416123
         },
         {
             "username": "gus",
@@ -53,7 +53,7 @@
         {
             "username": "jschlatt",
             "displayName": "jschlatt",
-            "totalFollowers": 18342018
+            "totalFollowers": 18343018
         },
         {
             "username": "kadz",
@@ -123,7 +123,7 @@
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 227538178
+            "totalFollowers": 227538179
         },
         {
             "username": "gamingcave",
@@ -133,7 +133,7 @@
         {
             "username": "thrilldawill",
             "displayName": "ThrillDaWill",
-            "totalFollowers": 136255
+            "totalFollowers": 136254
         },
         {
             "username": "vsauce",
@@ -146,5 +146,5 @@
             "totalFollowers": 350343
         }
     ],
-    "timeRetrieved": 1709559406948
+    "timeRetrieved": 1709568669430
 }
