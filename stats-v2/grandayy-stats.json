@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1710419102466,
+            "timeRetrieved": 1710457629562,
             "link": "https://www.youtube.com/@grandayy/",
             "displayName": "Grandayy",
             "username": "Grandayy",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1710419104538,
+            "timeRetrieved": 1710457631632,
             "link": "https://www.youtube.com/@grande1899/",
             "displayName": "grande1899",
             "username": "grande1899",
@@ -32,27 +32,27 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1710419110506,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/grandayyyyyy",
-            "displayName": "Grandayy",
+            "displayName": "",
             "username": "grandayyyyyy",
-            "followerCount": 2000000,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 250,
+            "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 702
+            "totalPosts": -1
         }
     ],
     "threadsStats": [],
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1710419110892,
+            "timeRetrieved": 1710457643209,
             "link": "https://open.spotify.com/artist/5SpHs4OAjck5i6GiCUlyBV",
             "displayName": "Grandayy",
             "username": "5SpHs4OAjck5i6GiCUlyBV",
-            "followerCount": 374500,
+            "followerCount": 373900,
             "followerLabel": "Monthly Listeners",
             "followingCount": -1,
             "iconBase64": "",
@@ -61,11 +61,11 @@
         },
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1710419111279,
+            "timeRetrieved": 1710457643539,
             "link": "https://open.spotify.com/artist/5mgQtxR15wa4x3sOQwiqls",
             "displayName": "grande1899",
             "username": "5mgQtxR15wa4x3sOQwiqls",
-            "followerCount": 248800,
+            "followerCount": 246800,
             "followerLabel": "Monthly Listeners",
             "followingCount": -1,
             "iconBase64": "",
@@ -77,7 +77,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1710419116902,
+            "timeRetrieved": 1710457649081,
             "link": "https://soundcloud.com/grandayy",
             "displayName": "",
             "username": "grandayy",
@@ -92,7 +92,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1710419122297,
+            "timeRetrieved": 1710457654349,
             "link": "https://twitter.com/grandayy",
             "displayName": "",
             "username": "grandayy",
@@ -107,7 +107,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1710419129829,
+            "timeRetrieved": 1710457662480,
             "link": "https://www.twitch.tv/grandayyy",
             "displayName": "grandayyy",
             "username": "grandayyy",
@@ -121,7 +121,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1710419136992,
+            "timeRetrieved": 1710457669183,
             "link": "https://www.tiktok.com/@grandayy?lang=en",
             "displayName": "grandayy",
             "username": "grandayy",

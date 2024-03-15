@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1710419306970,
+            "timeRetrieved": 1710457986411,
             "link": "https://www.youtube.com/@Ninja/",
             "displayName": "Ninja",
             "username": "Ninja",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1710419308859,
+            "timeRetrieved": 1710457989451,
             "link": "https://www.youtube.com/@AFKWNINJA/",
             "displayName": "AFKWNINJA",
             "username": "AFKWNINJA",
@@ -32,26 +32,26 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1710419314463,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/Ninja",
-            "displayName": "Tyler“Ninja”Blevins",
+            "displayName": "",
             "username": "Ninja",
-            "followerCount": 12000000,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 349,
+            "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 1957
+            "totalPosts": -1
         }
     ],
     "threadsStats": [
         {
             "platformName": "Threads",
-            "timeRetrieved": 1710419322305,
+            "timeRetrieved": 1710458006987,
             "link": "https://www.threads.net/@Ninja",
             "displayName": "Tyler “Ninja” Blevins (@ninja) on Threads\">",
             "username": "Ninja",
-            "followerCount": 866000,
+            "followerCount": 867000,
             "followerLabel": "Followers",
             "followingCount": -1,
             "iconBase64": "",
@@ -64,7 +64,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1710419327493,
+            "timeRetrieved": 1710458012172,
             "link": "https://twitter.com/Ninja",
             "displayName": "",
             "username": "Ninja",
@@ -79,7 +79,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1710419335980,
+            "timeRetrieved": 1710458019722,
             "link": "https://www.twitch.tv/ninja",
             "displayName": "Ninja",
             "username": "ninja",
@@ -93,7 +93,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1710419343896,
+            "timeRetrieved": 1710458026726,
             "link": "https://www.tiktok.com/@ninja?lang=en",
             "displayName": "Ninja",
             "username": "ninja",

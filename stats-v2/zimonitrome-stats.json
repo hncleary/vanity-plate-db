@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1710419141171,
+            "timeRetrieved": 1710456855164,
             "link": "https://www.youtube.com/@zimonitrome/",
             "displayName": "ZimoNitrome",
             "username": "ZimoNitrome",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1710419142936,
+            "timeRetrieved": 1710456856858,
             "link": "https://www.youtube.com/@zimonitrome2/",
             "displayName": "ZimoNitrome 2",
             "username": "ZimoNitrome 2",
@@ -32,23 +32,23 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1710419148601,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/zimonitrome",
-            "displayName": "zimonitrome",
+            "displayName": "",
             "username": "zimonitrome",
-            "followerCount": 80,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 6,
+            "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 1
+            "totalPosts": -1
         }
     ],
     "threadsStats": [],
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1710419149020,
+            "timeRetrieved": 1710456868644,
             "link": "https://open.spotify.com/artist/25OGR08t9GnBJG1d57dFuQ",
             "displayName": "ZimoNitrome",
             "username": "25OGR08t9GnBJG1d57dFuQ",
@@ -64,7 +64,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1710419154968,
+            "timeRetrieved": 1710456874254,
             "link": "https://soundcloud.com/zimonitrome",
             "displayName": "zimonitrome",
             "username": "zimonitrome",
@@ -79,7 +79,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1710419160347,
+            "timeRetrieved": 1710456879597,
             "link": "https://twitter.com/zimonitrome",
             "displayName": "",
             "username": "zimonitrome",
@@ -94,7 +94,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1710419168621,
+            "timeRetrieved": 1710456886967,
             "link": "https://www.twitch.tv/zimonitrome",
             "displayName": "zimonitrome",
             "username": "zimonitrome",
@@ -108,7 +108,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1710419175466,
+            "timeRetrieved": 1710456892416,
             "link": "https://www.tiktok.com/@zimonitrome?lang=en",
             "displayName": "ZimoNitrome",
             "username": "zimonitrome",
