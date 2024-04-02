@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1712061870784,
+            "timeRetrieved": 1712070074712,
             "link": "https://www.youtube.com/@rabbert/",
             "displayName": "Rabbert",
             "username": "Rabbert",
@@ -19,29 +19,29 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1712061876427,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/rabbertanimations",
-            "displayName": "Rabbert",
+            "displayName": "",
             "username": "rabbertanimations",
-            "followerCount": 1000000,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 170,
+            "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 40
+            "totalPosts": -1
         },
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1712061882013,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/rabbertsecond",
-            "displayName": "Rabbert2",
+            "displayName": "",
             "username": "rabbertsecond",
-            "followerCount": 207000,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 5,
+            "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 20
+            "totalPosts": -1
         }
     ],
     "threadsStats": [],
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1712061887211,
+            "timeRetrieved": 1712070102448,
             "link": "https://twitter.com/rabbertOfficial",
             "displayName": "",
             "username": "rabbertOfficial",
@@ -67,7 +67,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1712061894054,
+            "timeRetrieved": 1712070109205,
             "link": "https://www.tiktok.com/@rabbert?lang=en",
             "displayName": "Rabbert",
             "username": "rabbert",
