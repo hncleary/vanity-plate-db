@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1712069820128,
+            "timeRetrieved": 1712094383869,
             "link": "https://www.youtube.com/@jejkobbb/",
             "displayName": "Jejkobbb",
             "username": "Jejkobbb",
@@ -19,16 +19,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1712069825721,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/jejkobbb",
             "displayName": "",
             "username": "jejkobbb",
-            "followerCount": 29000,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 503,
+            "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 45
+            "totalPosts": -1
         }
     ],
     "threadsStats": [],
@@ -36,7 +36,7 @@
     "newgroundsStats": [
         {
             "platformName": "Newgrounds",
-            "timeRetrieved": 1712069827081,
+            "timeRetrieved": 1712094396812,
             "link": "https://jejkobb.newgrounds.com/fans",
             "displayName": "jejkobb",
             "username": "jejkobb",
@@ -59,7 +59,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1712069832262,
+            "timeRetrieved": 1712094401997,
             "link": "https://twitter.com/Jejkobbb",
             "displayName": "",
             "username": "Jejkobbb",
@@ -75,7 +75,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1712069838963,
+            "timeRetrieved": 1712094408631,
             "link": "https://www.tiktok.com/@Jejkobbb?lang=en",
             "displayName": "Jejkobbb",
             "username": "Jejkobbb",
