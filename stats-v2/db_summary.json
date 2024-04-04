@@ -18,7 +18,7 @@
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1462681
+            "totalFollowers": 1462680
         },
         {
             "username": "doladark",
@@ -73,7 +73,7 @@
         {
             "username": "maxxjamez",
             "displayName": "Maxx Jamez",
-            "totalFollowers": 100984
+            "totalFollowers": 100983
         },
         {
             "username": "mega64",
@@ -118,12 +118,12 @@
         {
             "username": "sven",
             "displayName": "Sven Johnson",
-            "totalFollowers": 1088199
+            "totalFollowers": 1088299
         },
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 230239238
+            "totalFollowers": 230239243
         },
         {
             "username": "gamingcave",
@@ -146,5 +146,5 @@
             "totalFollowers": 351217
         }
     ],
-    "timeRetrieved": 1712236173932
+    "timeRetrieved": 1712238262827
 }
