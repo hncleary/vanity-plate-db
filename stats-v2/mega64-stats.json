@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1712842295351,
+            "timeRetrieved": 1712875484004,
             "link": "https://www.youtube.com/@mega64/",
             "displayName": "Mega64",
             "username": "Mega64",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1712842297341,
+            "timeRetrieved": 1712875487661,
             "link": "https://www.youtube.com/@Mega64Archives/",
             "displayName": "Mega64 Archives",
             "username": "Mega64 Archives",
@@ -32,7 +32,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1712842302977,
+            "timeRetrieved": 1712875493308,
             "link": "https://www.instagram.com/mega64official",
             "displayName": "Mega64",
             "username": "mega64official",
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1712842308166,
+            "timeRetrieved": 1712875498498,
             "link": "https://twitter.com/mega64",
             "displayName": "",
             "username": "mega64",
@@ -66,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1712842315815,
+            "timeRetrieved": 1712875505883,
             "link": "https://www.twitch.tv/mega64podcast",
             "displayName": "Mega64Podcast",
             "username": "mega64podcast",
