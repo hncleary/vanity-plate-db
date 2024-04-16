@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1713185572631,
+            "timeRetrieved": 1713219152857,
             "link": "https://www.youtube.com/@zimonitrome/",
             "displayName": "ZimoNitrome",
             "username": "ZimoNitrome",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1713185574305,
+            "timeRetrieved": 1713219154541,
             "link": "https://www.youtube.com/@zimonitrome2/",
             "displayName": "ZimoNitrome 2",
             "username": "ZimoNitrome 2",
@@ -32,14 +32,14 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1713185580209,
+            "timeRetrieved": 1713219160177,
             "link": "https://www.instagram.com/zimonitrome",
             "displayName": "zimonitrome",
             "username": "zimonitrome",
             "followerCount": 80,
             "followerLabel": "Followers",
             "followingCount": 6,
-            "iconBase64": "data:image/jpeg;base64,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",
+            "iconBase64": "",
             "iconUrl": "",
             "totalPosts": 1
         }
@@ -48,7 +48,7 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1713185580683,
+            "timeRetrieved": 1713219160657,
             "link": "https://open.spotify.com/artist/25OGR08t9GnBJG1d57dFuQ",
             "displayName": "ZimoNitrome",
             "username": "25OGR08t9GnBJG1d57dFuQ",
@@ -64,7 +64,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1713185586269,
+            "timeRetrieved": 1713219166460,
             "link": "https://soundcloud.com/zimonitrome",
             "displayName": "zimonitrome",
             "username": "zimonitrome",
@@ -79,7 +79,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1713185591557,
+            "timeRetrieved": 1713219171749,
             "link": "https://twitter.com/zimonitrome",
             "displayName": "",
             "username": "zimonitrome",
@@ -94,7 +94,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1713185598940,
+            "timeRetrieved": 1713219179166,
             "link": "https://www.twitch.tv/zimonitrome",
             "displayName": "zimonitrome",
             "username": "zimonitrome",
@@ -108,11 +108,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1713185605643,
+            "timeRetrieved": 1713219185806,
             "link": "https://www.tiktok.com/@zimonitrome?lang=en",
             "displayName": "ZimoNitrome",
             "username": "zimonitrome",
-            "followerCount": 9022,
+            "followerCount": 9020,
             "followerLabel": "Followers",
             "followingCount": 32,
             "iconBase64": "",

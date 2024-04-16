@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1713185622455,
+            "timeRetrieved": 1713218913018,
             "link": "https://www.youtube.com/@videogamedunkey/",
             "displayName": "videogamedunkey",
             "username": "videogamedunkey",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1713185624356,
+            "timeRetrieved": 1713218914955,
             "link": "https://www.youtube.com/@DunkTank/",
             "displayName": "Dunk Tank",
             "username": "Dunk Tank",
@@ -30,7 +30,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1713185626027,
+            "timeRetrieved": 1713218916507,
             "link": "https://www.youtube.com/@BIGMODE/",
             "displayName": "BIGMODE Games Official",
             "username": "BIGMODE Games Official",
@@ -50,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1713185631213,
+            "timeRetrieved": 1713218921709,
             "link": "https://twitter.com/vgdunkey",
             "displayName": "",
             "username": "vgdunkey",
@@ -63,7 +63,7 @@
         },
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1713185636403,
+            "timeRetrieved": 1713218926890,
             "link": "https://twitter.com/BIGMODEgames",
             "displayName": "",
             "username": "BIGMODEgames",
@@ -78,7 +78,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1713185643847,
+            "timeRetrieved": 1713218934492,
             "link": "https://www.twitch.tv/dunkstream",
             "displayName": "dunkstream",
             "username": "dunkstream",
@@ -90,7 +90,7 @@
         },
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1713185651558,
+            "timeRetrieved": 1713218942147,
             "link": "https://www.twitch.tv/bigmodegames",
             "displayName": "bigmodegames",
             "username": "bigmodegames",
