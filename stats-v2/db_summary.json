@@ -3,22 +3,22 @@
         {
             "username": "aztrosist",
             "displayName": "aztrosist",
-            "totalFollowers": 1182622
+            "totalFollowers": 1182635
         },
         {
             "username": "caseyneistat",
             "displayName": "Casey Neistat",
-            "totalFollowers": 16935899
+            "totalFollowers": 16936899
         },
         {
             "username": "coldones",
             "displayName": "Cold Ones",
-            "totalFollowers": 4510946
+            "totalFollowers": 4791999
         },
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1461771
+            "totalFollowers": 1461773
         },
         {
             "username": "doladark",
@@ -33,7 +33,7 @@
         {
             "username": "glorb",
             "displayName": "Glorb",
-            "totalFollowers": 2548989
+            "totalFollowers": 2549200
         },
         {
             "username": "grandayy",
@@ -53,7 +53,7 @@
         {
             "username": "jschlatt",
             "displayName": "jschlatt",
-            "totalFollowers": 18818009
+            "totalFollowers": 18828009
         },
         {
             "username": "kadz",
@@ -68,7 +68,7 @@
         {
             "username": "mkbhd",
             "displayName": "Marques Brownlee",
-            "totalFollowers": 27402999
+            "totalFollowers": 27403999
         },
         {
             "username": "maxxjamez",
@@ -78,7 +78,7 @@
         {
             "username": "mega64",
             "displayName": "Mega64",
-            "totalFollowers": 693299
+            "totalFollowers": 759599
         },
         {
             "username": "mintblitz",
@@ -88,7 +88,7 @@
         {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 549629998
+            "totalFollowers": 549830998
         },
         {
             "username": "ninja",
@@ -123,7 +123,7 @@
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 249539967
+            "totalFollowers": 249539979
         },
         {
             "username": "gamingcave",
@@ -146,5 +146,5 @@
             "totalFollowers": 350200
         }
     ],
-    "timeRetrieved": 1714012589874
+    "timeRetrieved": 1714050061796
 }
