@@ -4,16 +4,16 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1714481683511,
+            "timeRetrieved": 1714569129743,
             "link": "https://www.youtube.com/@ThrillDaWill/",
             "displayName": "ThrillDaWill",
             "username": "ThrillDaWill",
-            "followerCount": 135000,
+            "followerCount": 136000,
             "followerLabel": "Subscribers",
             "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalViews": 20135001
+            "totalViews": 20140731
         }
     ],
     "instaStats": [],
@@ -24,7 +24,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1714481688689,
+            "timeRetrieved": 1714569134928,
             "link": "https://twitter.com/ThrillDaWill",
             "displayName": "",
             "username": "ThrillDaWill",
@@ -39,11 +39,11 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1714481696084,
+            "timeRetrieved": 1714569142491,
             "link": "https://www.twitch.tv/thrilldawill",
             "displayName": "thrilldawill",
             "username": "thrilldawill",
-            "followerCount": 714,
+            "followerCount": 716,
             "followerLabel": "Followers",
             "followingCount": -1,
             "iconBase64": "",
@@ -53,7 +53,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1714481702818,
+            "timeRetrieved": 1714569149242,
             "link": "https://www.tiktok.com/@thrilldawillyt?lang=en",
             "displayName": "Rize Tee",
             "username": "thrilldawillyt",

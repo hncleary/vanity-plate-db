@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1714480890671,
+            "timeRetrieved": 1714569185947,
             "link": "https://www.youtube.com/@mkbhd/",
             "displayName": "Marques Brownlee",
             "username": "Marques Brownlee",
@@ -13,37 +13,37 @@
             "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalViews": 4200944078
+            "totalViews": 4206930893
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1714480892402,
+            "timeRetrieved": 1714569187647,
             "link": "https://www.youtube.com/@TheStudio/",
             "displayName": "The Studio",
             "username": "The Studio",
-            "followerCount": 798000,
+            "followerCount": 799000,
             "followerLabel": "Subscribers",
             "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalViews": 44321760
+            "totalViews": 44466272
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1714480894097,
+            "timeRetrieved": 1714569189330,
             "link": "https://www.youtube.com/@AutoFocus/",
             "displayName": "Auto Focus",
             "username": "Auto Focus",
-            "followerCount": 967000,
+            "followerCount": 968000,
             "followerLabel": "Subscribers",
             "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalViews": 75675868
+            "totalViews": 75832857
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1714480895791,
+            "timeRetrieved": 1714569190983,
             "link": "https://www.youtube.com/@Waveform/",
             "displayName": "WVFRM Podcast",
             "username": "WVFRM Podcast",
@@ -52,26 +52,26 @@
             "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalViews": 54348448
+            "totalViews": 54435866
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1714480897465,
+            "timeRetrieved": 1714569192612,
             "link": "https://www.youtube.com/@WaveformClips/",
             "displayName": "Waveform Clips",
             "username": "Waveform Clips",
-            "followerCount": 466000,
+            "followerCount": 467000,
             "followerLabel": "Subscribers",
             "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalViews": 83641717
+            "totalViews": 83677652
         }
     ],
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1714480903563,
+            "timeRetrieved": 1714569198235,
             "link": "https://www.instagram.com/MKBHD",
             "displayName": "MarquesBrownlee",
             "username": "MKBHD",
@@ -86,7 +86,7 @@
     "threadsStats": [
         {
             "platformName": "Threads",
-            "timeRetrieved": 1714480910614,
+            "timeRetrieved": 1714569204672,
             "link": "https://www.threads.net/@MKBHD",
             "displayName": "Marques Brownlee (@mkbhd) on Threads\">",
             "username": "MKBHD",
@@ -103,7 +103,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1714480916074,
+            "timeRetrieved": 1714569209857,
             "link": "https://twitter.com/MKBHD",
             "displayName": "",
             "username": "MKBHD",

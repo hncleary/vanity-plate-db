@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1714481489112,
+            "timeRetrieved": 1714569115082,
             "link": "https://www.youtube.com/@Ryitus/",
             "displayName": "Ryitus",
             "username": "Ryitus",
@@ -13,7 +13,7 @@
             "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalViews": 1532522
+            "totalViews": 1532535
         }
     ],
     "instaStats": [],
@@ -24,7 +24,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1714481494296,
+            "timeRetrieved": 1714569120276,
             "link": "https://twitter.com/NotRyitus",
             "displayName": "",
             "username": "NotRyitus",
@@ -39,7 +39,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1714481501739,
+            "timeRetrieved": 1714569127968,
             "link": "https://www.twitch.tv/Ryitus",
             "displayName": "Ryitus",
             "username": "Ryitus",
