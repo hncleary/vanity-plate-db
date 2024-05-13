@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1715553839251,
+            "timeRetrieved": 1715558871427,
             "link": "https://www.youtube.com/@mega64/",
             "displayName": "Mega64",
             "username": "mega64",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1715553845894,
+            "timeRetrieved": 1715558875797,
             "link": "https://www.youtube.com/@Mega64Archives/",
             "displayName": "Mega64 Archives",
             "username": "Mega64Archives",
@@ -32,16 +32,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1715553851575,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/mega64official",
-            "displayName": "Mega64",
+            "displayName": "",
             "username": "mega64official",
-            "followerCount": 15000,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 18,
-            "iconBase64": "data:image/jpeg;base64,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",
+            "followingCount": -1,
+            "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 919
+            "totalPosts": -1
         }
     ],
     "threadsStats": [],
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1715553856803,
+            "timeRetrieved": 1715558892030,
             "link": "https://twitter.com/mega64",
             "displayName": "",
             "username": "mega64",
@@ -66,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1715553864790,
+            "timeRetrieved": 1715558899403,
             "link": "https://www.twitch.tv/mega64podcast",
             "displayName": "Mega64Podcast",
             "username": "mega64podcast",

@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1715554229917,
+            "timeRetrieved": 1715558663658,
             "link": "https://www.youtube.com/@gustoonz/",
             "displayName": "Gus Johnson",
             "username": "gustoonz",
@@ -19,23 +19,23 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1715554235553,
+            "timeRetrieved": -1,
             "link": "https://www.instagram.com/johnsongus",
-            "displayName": "GusJohnson",
+            "displayName": "",
             "username": "johnsongus",
-            "followerCount": 282000,
+            "followerCount": -1,
             "followerLabel": "Followers",
-            "followingCount": 373,
+            "followingCount": -1,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": 963
+            "totalPosts": -1
         }
     ],
     "threadsStats": [],
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1715554235933,
+            "timeRetrieved": 1715558675090,
             "link": "https://open.spotify.com/artist/32WwgDfzPkwsTgGxkL2DwI",
             "displayName": "Gus Johnson",
             "username": "32WwgDfzPkwsTgGxkL2DwI",
@@ -52,7 +52,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1715554241141,
+            "timeRetrieved": 1715558680295,
             "link": "https://twitter.com/gusbuckets",
             "displayName": "",
             "username": "gusbuckets",
@@ -67,7 +67,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1715554248766,
+            "timeRetrieved": 1715558687892,
             "link": "https://www.twitch.tv/gusjohnson",
             "displayName": "gusjohnson",
             "username": "gusjohnson",
@@ -81,7 +81,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1715554256711,
+            "timeRetrieved": 1715558694720,
             "link": "https://www.tiktok.com/@gusjohnson_?lang=en",
             "displayName": "Gus Johnson",
             "username": "gusjohnson_",
