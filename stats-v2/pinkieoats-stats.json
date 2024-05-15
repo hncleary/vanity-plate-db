@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1715777072665,
+            "timeRetrieved": 1715807442538,
             "link": "https://www.youtube.com/@PinkieOats/",
             "displayName": "PinkieOats",
             "username": "PinkieOats",
@@ -19,7 +19,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1715777078189,
+            "timeRetrieved": 1715807448194,
             "link": "https://www.instagram.com/pinkieoats",
             "displayName": "PinkieOats",
             "username": "pinkieoats",
@@ -50,7 +50,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1715777091215,
+            "timeRetrieved": 1715807462211,
             "link": "https://soundcloud.com/pinkieoats",
             "displayName": "stereonuke",
             "username": "pinkieoats",
@@ -63,7 +63,7 @@
         },
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1715777099027,
+            "timeRetrieved": 1715807468389,
             "link": "https://soundcloud.com/pinkiealts",
             "displayName": "PinkieAlts",
             "username": "pinkiealts",
@@ -78,7 +78,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1715777104288,
+            "timeRetrieved": 1715807473676,
             "link": "https://twitter.com/PinkieOats",
             "displayName": "",
             "username": "PinkieOats",
@@ -93,7 +93,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1715777111848,
+            "timeRetrieved": 1715807481064,
             "link": "https://www.twitch.tv/pinkieoats",
             "displayName": "PinkieOats",
             "username": "pinkieoats",
@@ -104,5 +104,6 @@
             "iconUrl": ""
         }
     ],
-    "tiktokStats": []
+    "tiktokStats": [],
+    "facebookStats": []
 }

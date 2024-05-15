@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1715776846503,
+            "timeRetrieved": 1715807665760,
             "link": "https://www.youtube.com/@coldones/",
             "displayName": "Cold Ones",
             "username": "coldones",
@@ -19,7 +19,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1715776852557,
+            "timeRetrieved": 1715807671351,
             "link": "https://www.instagram.com/coldones",
             "displayName": "ColdOnes",
             "username": "coldones",
@@ -32,7 +32,7 @@
         },
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1715776858285,
+            "timeRetrieved": 1715807676997,
             "link": "https://www.instagram.com/drinkgrog",
             "displayName": "Grog|AlcoholicJapaneseSodaByColdOnes",
             "username": "drinkgrog",
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1715776863690,
+            "timeRetrieved": 1715807682183,
             "link": "https://twitter.com/ColdOnes",
             "displayName": "",
             "username": "ColdOnes",
@@ -67,7 +67,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1715776871797,
+            "timeRetrieved": 1715807688927,
             "link": "https://www.tiktok.com/@coldonestv?lang=en",
             "displayName": "COLD ONES 🍺",
             "username": "coldonestv",
@@ -78,5 +78,6 @@
             "iconUrl": "",
             "likes": 40200000
         }
-    ]
+    ],
+    "facebookStats": []
 }
