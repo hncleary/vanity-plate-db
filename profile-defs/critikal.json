@@ -1,13 +1,13 @@
 {
-    "id": "critikal",
-    "displayName": "Critikal",
-    "youtubeHandles": ["penguinz0"],
-    "instagramHandles": ["bigmoistcr1tikal"],
-    "spotifyArtistIds": ["3NTvftovapkDsi2pc7eeS0"],
-    "newgroundsUsernames": [],
-    "soundcloudUsernames": [],
-    "twitterHandles": ["moistcr1tikal"],
-    "twitchUsernames": ["moistcr1tikal"],
-    "tiktokUsernames": ["moistycr1tikal", ],
-    "facebookUsernames": []
+  "id": "critikal",
+  "displayName": "Critikal",
+  "youtubeHandles": ["penguinz0"],
+  "instagramHandles": ["bigmoistcr1tikal"],
+  "spotifyArtistIds": ["3NTvftovapkDsi2pc7eeS0"],
+  "newgroundsUsernames": [],
+  "soundcloudUsernames": [],
+  "twitterHandles": ["moistcr1tikal"],
+  "twitchUsernames": ["moistcr1tikal"],
+  "tiktokUsernames": ["moistycr1tikal"],
+  "facebookUsernames": []
 }
