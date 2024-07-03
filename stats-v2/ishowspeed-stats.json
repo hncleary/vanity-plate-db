@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1719924917716,
+            "timeRetrieved": 1719959364541,
             "link": "https://twitter.com/ishowspeedsui",
             "displayName": "Speed⭐️",
             "username": "ishowspeedsui",
@@ -53,11 +53,11 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1719924941049,
+            "timeRetrieved": 1719959373984,
             "link": "https://www.twitch.tv/ishowspeed",
             "displayName": "IShowSpeed",
             "username": "ishowspeed",
-            "followerCount": 314000,
+            "followerCount": 315000,
             "followerLabel": "Followers",
             "followingCount": -1,
             "iconBase64": "",
@@ -67,7 +67,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1719924949513,
+            "timeRetrieved": 1719959382478,
             "link": "https://www.tiktok.com/@ishowspeed?lang=en",
             "displayName": "IShowSpeed",
             "username": "ishowspeed",
