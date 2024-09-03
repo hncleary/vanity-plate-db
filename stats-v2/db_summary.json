@@ -3,17 +3,22 @@
         {
             "username": "airrack",
             "displayName": "airrack",
-            "totalFollowers": 19836100
+            "totalFollowers": 19836000
         },
         {
             "username": "aztrosist",
             "displayName": "aztrosist",
-            "totalFollowers": 1335362
+            "totalFollowers": 1335298
+        },
+        {
+            "username": "blorg",
+            "displayName": "Blorg",
+            "totalFollowers": 11600
         },
         {
             "username": "caseyneistat",
             "displayName": "Casey Neistat",
-            "totalFollowers": 19899200
+            "totalFollowers": 19900100
         },
         {
             "username": "coldones",
@@ -21,14 +26,19 @@
             "totalFollowers": 5312600
         },
         {
+            "username": "corridor",
+            "displayName": "Corridor",
+            "totalFollowers": 17970800
+        },
+        {
             "username": "critikal",
             "displayName": "Critikal",
-            "totalFollowers": 20784100
+            "totalFollowers": 26284100
         },
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1554788
+            "totalFollowers": 1554584
         },
         {
             "username": "dailydose",
@@ -38,27 +48,27 @@
         {
             "username": "doladark",
             "displayName": "Dolan Dark",
-            "totalFollowers": 5600708
+            "totalFollowers": 5600707
         },
         {
             "username": "dunkey",
             "displayName": "dunkey",
-            "totalFollowers": 10327000
+            "totalFollowers": 10327100
         },
         {
             "username": "glorb",
             "displayName": "Glorb",
-            "totalFollowers": 2395197
+            "totalFollowers": 2394049
         },
         {
             "username": "grandayy",
             "displayName": "Grandayy",
-            "totalFollowers": 7651221
+            "totalFollowers": 7654821
         },
         {
             "username": "gus",
             "displayName": "Gus Johnson",
-            "totalFollowers": 4488700
+            "totalFollowers": 4489600
         },
         {
             "username": "ishowspeed",
@@ -73,37 +83,42 @@
         {
             "username": "jschlatt",
             "displayName": "jschlatt",
-            "totalFollowers": 24620188
+            "totalFollowers": 24622188
         },
         {
             "username": "kadz",
             "displayName": "kadz",
-            "totalFollowers": 2011028
+            "totalFollowers": 2018127
+        },
+        {
+            "username": "kostamoinen",
+            "displayName": "Kostamoinen",
+            "totalFollowers": 3727400
         },
         {
             "username": "lazar",
             "displayName": "Lazar Beam",
-            "totalFollowers": 32724000
+            "totalFollowers": 32725000
         },
         {
             "username": "ludwig",
             "displayName": "ludwig",
-            "totalFollowers": 17939000
+            "totalFollowers": 17951000
         },
         {
             "username": "markrober",
             "displayName": "Mark Rober",
-            "totalFollowers": 67100000
+            "totalFollowers": 67200000
         },
         {
             "username": "mkbhd",
             "displayName": "Marques Brownlee",
-            "totalFollowers": 35513000
+            "totalFollowers": 35614000
         },
         {
             "username": "maxxjamez",
             "displayName": "Maxx Jamez",
-            "totalFollowers": 108713
+            "totalFollowers": 107912
         },
         {
             "username": "mega64",
@@ -123,7 +138,7 @@
         {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 694633934
+            "totalFollowers": 694633938
         },
         {
             "username": "ninja",
@@ -131,19 +146,24 @@
             "totalFollowers": 74221100
         },
         {
+            "username": "oboeshoesgames",
+            "displayName": "oboeshoesgames",
+            "totalFollowers": 425957
+        },
+        {
             "username": "octopox",
             "displayName": "Octopox",
-            "totalFollowers": 2908
+            "totalFollowers": 2914
         },
         {
             "username": "pewdiepie",
             "displayName": "PewDiePie",
-            "totalFollowers": 132858499
+            "totalFollowers": 132857799
         },
         {
             "username": "pinkieoats",
             "displayName": "Pinkie Oats",
-            "totalFollowers": 29046
+            "totalFollowers": 29044
         },
         {
             "username": "rabbert",
@@ -156,24 +176,29 @@
             "totalFollowers": 17390
         },
         {
+            "username": "scottthewoz",
+            "displayName": "ScottTheWoz",
+            "totalFollowers": 3167100
+        },
+        {
             "username": "smosh",
             "displayName": "Smosh",
-            "totalFollowers": 67200800
+            "totalFollowers": 67199700
         },
         {
             "username": "sven",
             "displayName": "Sven Johnson",
-            "totalFollowers": 1187399
+            "totalFollowers": 1189599
         },
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 453147164
+            "totalFollowers": 453247239
         },
         {
             "username": "gametheory",
             "displayName": "The Game Theorists",
-            "totalFollowers": 45411000
+            "totalFollowers": 45412600
         },
         {
             "username": "gamingcave",
@@ -188,7 +213,7 @@
         {
             "username": "trevorwallace",
             "displayName": "Trevor Wallace",
-            "totalFollowers": 22158661
+            "totalFollowers": 22158656
         },
         {
             "username": "vsauce",
@@ -198,8 +223,8 @@
         {
             "username": "zimonitrome",
             "displayName": "ZimoNitrome",
-            "totalFollowers": 355957
+            "totalFollowers": 355850
         }
     ],
-    "timeRetrieved": 1725209630204
+    "timeRetrieved": 1725322535497
 }
