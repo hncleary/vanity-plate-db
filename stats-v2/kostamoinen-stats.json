@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1726577695972,
+            "timeRetrieved": 1726620262887,
             "link": "https://www.youtube.com/@Kostamoinen/",
             "displayName": "Kostamoinen",
             "username": "Kostamoinen",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1726577707039,
+            "timeRetrieved": 1726620279243,
             "link": "https://twitter.com/KostamoinenSFM",
             "displayName": "Kostamoinen",
             "username": "KostamoinenSFM",
@@ -54,11 +54,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1726577713330,
+            "timeRetrieved": 1726620285975,
             "link": "https://www.tiktok.com/@kostamoinen?lang=en",
             "displayName": "Kostamoinen",
             "username": "kostamoinen",
-            "followerCount": 485500,
+            "followerCount": 485600,
             "followerLabel": "Followers",
             "followingCount": 2,
             "iconBase64": "",

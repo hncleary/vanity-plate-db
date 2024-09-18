@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1726577418100,
+            "timeRetrieved": 1726619986497,
             "link": "https://www.youtube.com/@pewdiepie/",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
@@ -19,7 +19,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1726577423548,
+            "timeRetrieved": 1726619992065,
             "link": "https://www.instagram.com/pewdiepie",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
@@ -35,11 +35,11 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1726577424712,
+            "timeRetrieved": 1726619992829,
             "link": "https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr",
             "displayName": "pewdiepie",
             "username": "1JOdUvDAzNy3L37rZ4Nigr",
-            "followerCount": 255200,
+            "followerCount": 254500,
             "followerLabel": "Monthly Listeners",
             "followingCount": -1,
             "iconBase64": "",
@@ -52,7 +52,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1726577430206,
+            "timeRetrieved": 1726619998287,
             "link": "https://twitter.com/pewdiepie",
             "displayName": "",
             "username": "pewdiepie",
@@ -67,7 +67,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1726577438143,
+            "timeRetrieved": 1726620006125,
             "link": "https://www.twitch.tv/pewdiepie",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
@@ -81,11 +81,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1726577444572,
+            "timeRetrieved": 1726620012414,
             "link": "https://www.tiktok.com/@pewdiepie?lang=en",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
-            "followerCount": 614900,
+            "followerCount": 616200,
             "followerLabel": "Followers",
             "followingCount": 0,
             "iconBase64": "",
