@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1727962456961,
+            "timeRetrieved": 1728011236618,
             "link": "https://www.youtube.com/@penguinz0/",
             "displayName": "penguinz0",
             "username": "penguinz0",
@@ -35,11 +35,11 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1727962463783,
+            "timeRetrieved": 1728011249475,
             "link": "https://open.spotify.com/artist/3NTvftovapkDsi2pc7eeS0",
             "displayName": "MoistCr1tikal",
             "username": "3NTvftovapkDsi2pc7eeS0",
-            "followerCount": 11000,
+            "followerCount": 10900,
             "followerLabel": "Monthly Listeners",
             "followingCount": -1,
             "iconBase64": "",
@@ -52,7 +52,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1727962469311,
+            "timeRetrieved": 1728011254973,
             "link": "https://twitter.com/moistcr1tikal",
             "displayName": "Charlie",
             "username": "moistcr1tikal",
@@ -67,7 +67,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1727962477084,
+            "timeRetrieved": 1728011262115,
             "link": "https://www.twitch.tv/moistcr1tikal",
             "displayName": "moistcr1tikal",
             "username": "moistcr1tikal",
@@ -81,7 +81,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1727962483459,
+            "timeRetrieved": 1728011268652,
             "link": "https://www.tiktok.com/@moistycr1tikal?lang=en",
             "displayName": "Moistcritikal",
             "username": "moistycr1tikal",
