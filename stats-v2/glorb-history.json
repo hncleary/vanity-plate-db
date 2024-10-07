@@ -1,0 +1,81 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 840000,
+                    "timestamp": 1728329669711
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 124000,
+                    "timestamp": 1728329669711
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 17093,
+                    "timestamp": 1728329669711
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "6YeB9qnbI47owfAXWhctih",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 681500,
+                    "timestamp": 1728329669711
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 703500,
+                    "timestamp": 1728329669711
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4479,
+                    "timestamp": 1728329669711
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "glorbworldwide",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 220519891,
+                    "timestamp": 1728329669711
+                }
+            ]
+        }
+    ]
+}

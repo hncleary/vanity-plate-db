@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "airrack",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 15400000,
+                    "timestamp": 1728330659479
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Houseparty.",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 643000,
+                    "timestamp": 1728330659479
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "airrack",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 920000,
+                    "timestamp": 1728330659479
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "airrack",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2100000,
+                    "timestamp": 1728330659479
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "airrack",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 120500,
+                    "timestamp": 1728330659479
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "Airrack",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 872000,
+                    "timestamp": 1728330659479
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "airrack",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3263306172,
+                    "timestamp": 1728330659479
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Houseparty.",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 28195550,
+                    "timestamp": 1728330659479
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Kostamoinen",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3280000,
+                    "timestamp": 1728329853363
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "kostamoinensfm",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 78000,
+                    "timestamp": 1728329853363
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "kostamoinen",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 546100,
+                    "timestamp": 1728329853363
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "KostamoinenSFM",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 37800,
+                    "timestamp": 1728329853363
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Kostamoinen",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1305232995,
+                    "timestamp": 1728329853363
+                }
+            ]
+        }
+    ]
+}

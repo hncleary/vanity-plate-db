@@ -1,0 +1,48 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "oboeshoesgames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 379000,
+                    "timestamp": 1728329604256
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "oboeshoesgames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 42400,
+                    "timestamp": 1728329604256
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "oboeshoesgames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5678,
+                    "timestamp": 1728329604256
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "oboeshoesgames",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 75637854,
+                    "timestamp": 1728329604256
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "dailydoseofinternet",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 19300000,
+                    "timestamp": 1728330732637
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "dailydoseofinternet",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 978000,
+                    "timestamp": 1728330732637
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "ddofinternet",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 546600,
+                    "timestamp": 1728330732637
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "dailydoseofinternet",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 12305360425,
+                    "timestamp": 1728330732637
+                }
+            ]
+        }
+    ]
+}

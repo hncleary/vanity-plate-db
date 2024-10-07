@@ -1,0 +1,81 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "LazarBeam",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 22400000,
+                    "timestamp": 1728330760160
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LazarLazar",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4560000,
+                    "timestamp": 1728330760161
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "lazarbeamyt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1728330760161
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "lazarbeam",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 376000,
+                    "timestamp": 1728330760161
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Lazarbeam",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2500000,
+                    "timestamp": 1728330760161
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LazarBeam",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 9541325516,
+                    "timestamp": 1728330760161
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LazarLazar",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 373429086,
+                    "timestamp": 1728330760161
+                }
+            ]
+        }
+    ]
+}

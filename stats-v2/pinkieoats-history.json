@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "PinkieOats",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 23900,
+                    "timestamp": 1728330203353
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "pinkieoats",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 196,
+                    "timestamp": 1728330203353
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "pinkieoats",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2098,
+                    "timestamp": 1728330203353
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "pinkiealts",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 55,
+                    "timestamp": 1728330203353
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "pinkieoats",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": null,
+                    "timestamp": 1728330203353
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "pinkieoats",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 114,
+                    "timestamp": 1728330203353
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "PinkieOats",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2687,
+                    "timestamp": 1728330203353
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "PinkieOats",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 17265805,
+                    "timestamp": 1728330203353
+                }
+            ]
+        }
+    ]
+}

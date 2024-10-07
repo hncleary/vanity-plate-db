@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Mikopath",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 60800,
+                    "timestamp": 1728330119660
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "_mikopath_",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 944,
+                    "timestamp": 1728330119660
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "mikopath",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 300,
+                    "timestamp": 1728330119660
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "Mikopath",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 223,
+                    "timestamp": 1728330119660
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "_Mikopath_",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1522,
+                    "timestamp": 1728330119660
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Mikopath",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 9799737,
+                    "timestamp": 1728330119660
+                }
+            ]
+        }
+    ]
+}

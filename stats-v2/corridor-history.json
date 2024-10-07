@@ -1,0 +1,114 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Corridor",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 9970000,
+                    "timestamp": 1728330438246
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "CorridorCrew",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6570000,
+                    "timestamp": 1728330438246
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "corridorcast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 166000,
+                    "timestamp": 1728330438246
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "thecorridorcrew",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 37000,
+                    "timestamp": 1728330438246
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "corridordigital",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 393000,
+                    "timestamp": 1728330438246
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "CorridorDigital",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 202400,
+                    "timestamp": 1728330438246
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "corridordigital",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 696000,
+                    "timestamp": 1728330438246
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Corridor",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 2038033826,
+                    "timestamp": 1728330438246
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "CorridorCrew",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1772822957,
+                    "timestamp": 1728330438246
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "corridorcast",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 10141070,
+                    "timestamp": 1728330438246
+                }
+            ]
+        }
+    ]
+}

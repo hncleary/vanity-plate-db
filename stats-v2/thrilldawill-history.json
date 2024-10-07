@@ -1,0 +1,59 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "ThrillDaWill",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 136000,
+                    "timestamp": 1728331404989
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "thrilldawillyt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 540,
+                    "timestamp": 1728331404989
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "thrilldawill",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 715,
+                    "timestamp": 1728331404989
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "ThrillDaWill",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": -1,
+                    "timestamp": 1728331404989
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ThrillDaWill",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 20387308,
+                    "timestamp": 1728331404989
+                }
+            ]
+        }
+    ]
+}

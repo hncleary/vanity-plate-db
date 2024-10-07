@@ -1,0 +1,81 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 51400,
+                    "timestamp": 1728329830409
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 55000,
+                    "timestamp": 1728329830409
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 686,
+                    "timestamp": 1728329830409
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "2IvNkB1MfnjQKzx5W0i048",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 45800,
+                    "timestamp": 1728329830409
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 47000,
+                    "timestamp": 1728329830409
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": -1,
+                    "timestamp": 1728329830409
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Blorgworldwide",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 2481201,
+                    "timestamp": 1728329830409
+                }
+            ]
+        }
+    ]
+}

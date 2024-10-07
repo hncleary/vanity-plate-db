@@ -1,0 +1,81 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "penguinz0",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 16000000,
+                    "timestamp": 1728330042875
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "bigmoistcr1tikal",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1728330042875
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "3NTvftovapkDsi2pc7eeS0",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 10800,
+                    "timestamp": 1728330042875
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "moistycr1tikal",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 273000,
+                    "timestamp": 1728330042875
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "moistcr1tikal",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5500000,
+                    "timestamp": 1728330042875
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "moistcr1tikal",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2700000,
+                    "timestamp": 1728330042875
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "penguinz0",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 10331699902,
+                    "timestamp": 1728330042875
+                }
+            ]
+        }
+    ]
+}

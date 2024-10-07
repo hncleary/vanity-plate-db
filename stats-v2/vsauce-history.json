@@ -1,0 +1,103 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "vsauce",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 22800000,
+                    "timestamp": 1728330857079
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "dingsauce",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1830000,
+                    "timestamp": 1728330857079
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "electricpants",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1728330857079
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "electricpants",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": null,
+                    "timestamp": 1728330857079
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "corndogwilly",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1728330857079
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "tweetsauce",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1200000,
+                    "timestamp": 1728330857079
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "VsauceHQ",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1100000,
+                    "timestamp": 1728330857079
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "vsauce",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 4869841977,
+                    "timestamp": 1728330857079
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "dingsauce",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 200498726,
+                    "timestamp": 1728330857079
+                }
+            ]
+        }
+    ]
+}

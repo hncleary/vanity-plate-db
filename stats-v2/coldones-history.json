@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "coldones",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3060000,
+                    "timestamp": 1728331238075
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "coldones",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 306000,
+                    "timestamp": 1728331238075
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "drinkgrog",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 99000,
+                    "timestamp": 1728331238075
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "coldonestv",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1500000,
+                    "timestamp": 1728331238075
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "ColdOnes",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 374700,
+                    "timestamp": 1728331238075
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "coldones",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 457015891,
+                    "timestamp": 1728331238075
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "videogamedunkey",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7510000,
+                    "timestamp": 1728330158141
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DunkTank",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 443000,
+                    "timestamp": 1728330158141
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "BIGMODE",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 60300,
+                    "timestamp": 1728330158141
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "dunkstream",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 967000,
+                    "timestamp": 1728330158141
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "bigmodegames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3500,
+                    "timestamp": 1728330158141
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "vgdunkey",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1200000,
+                    "timestamp": 1728330158141
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "BIGMODEgames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 143900,
+                    "timestamp": 1728330158141
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "videogamedunkey",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 4021419703,
+                    "timestamp": 1728330158141
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DunkTank",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 26286654,
+                    "timestamp": 1728330158141
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "BIGMODE",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 720519,
+                    "timestamp": 1728330158141
+                }
+            ]
+        }
+    ]
+}

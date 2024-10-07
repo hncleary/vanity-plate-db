@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "SvenJohnsonBestYoutuber",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 659000,
+                    "timestamp": 1728330893919
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "sven_johnson_",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 206000,
+                    "timestamp": 1728330893919
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "1gXUApzdDBn2QRaxhUTYhg",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7100,
+                    "timestamp": 1728330893919
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "sven_johnson_",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 29000,
+                    "timestamp": 1728330893919
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "sven.johnson",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 290800,
+                    "timestamp": 1728330893919
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "svenjohnson7",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 14900,
+                    "timestamp": 1728330893919
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "swembo2000",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": -1,
+                    "timestamp": 1728330893919
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "SvenJohnsonBestYoutuber",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 183922805,
+                    "timestamp": 1728330893919
+                }
+            ]
+        }
+    ]
+}

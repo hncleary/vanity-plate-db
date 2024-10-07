@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "mega64",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 657000,
+                    "timestamp": 1728331178629
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Mega64Archives",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 27400,
+                    "timestamp": 1728331178629
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "mega64official",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 15000,
+                    "timestamp": 1728331178629
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "mega64podcast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 66600,
+                    "timestamp": 1728331178629
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "mega64",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 63300,
+                    "timestamp": 1728331178629
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "Mega64",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 90000,
+                    "timestamp": 1728331178629
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "mega64",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 230082803,
+                    "timestamp": 1728331178629
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Mega64Archives",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 22016578,
+                    "timestamp": 1728331178629
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "smosh",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 26700000,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "smoshpit",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 8359999.999999999,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "SmoshGames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7770000,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "smoshcast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 605000,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "elsmosh",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3770000,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "smosh",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4000000,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "1s3M7xKyIAVVBxDEXJ1dT3",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 144900,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "smosh",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3100000,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "smoshgames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 227000,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "smosh",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2600000,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "smosh",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 10000000,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "smosh",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 10900002748,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "smoshpit",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3732086304,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "SmoshGames",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3153176463,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "smoshcast",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 101860588,
+                    "timestamp": 1728330990751
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "elsmosh",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1058152944,
+                    "timestamp": 1728330990751
+                }
+            ]
+        }
+    ]
+}

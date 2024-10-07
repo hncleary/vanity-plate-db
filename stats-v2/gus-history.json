@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "gustoonz",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1728330400285
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "johnsongus",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 337000,
+                    "timestamp": 1728330400285
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "32WwgDfzPkwsTgGxkL2DwI",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3600,
+                    "timestamp": 1728330400285
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "gusjohnson_",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 539900,
+                    "timestamp": 1728330400285
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "gusjohnson",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 204000,
+                    "timestamp": 1728330400285
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "gusbuckets",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 408600,
+                    "timestamp": 1728330400285
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "gustoonz",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 26000,
+                    "timestamp": 1728330400285
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "gustoonz",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1004776896,
+                    "timestamp": 1728330400285
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "GameTheory",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 19400000,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "FilmTheory",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 13200000,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "FoodTheory",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5480000,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "GTLive",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3710000,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "StyleTheorists",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2770000,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "teamtheorist",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 270000,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "gametheoristofficial",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 422000,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "filmtheoristofficial",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 169300,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "TeamTheorist",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 49700,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "GameTheory",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 4314912934,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "FilmTheory",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3210590925,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "FoodTheory",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1023011823,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "GTLive",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 896871992,
+                    "timestamp": 1728330340765
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "StyleTheorists",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 345813477,
+                    "timestamp": 1728330340765
+                }
+            ]
+        }
+    ]
+}

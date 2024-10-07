@@ -1,0 +1,114 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Ninja",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 23800000,
+                    "timestamp": 1728330090421
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "AFKWNINJA",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 31100,
+                    "timestamp": 1728330090421
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "Ninja",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 12000000,
+                    "timestamp": 1728330090421
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "Ninja",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1100000,
+                    "timestamp": 1728330090421
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "ninja",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 10800000,
+                    "timestamp": 1728330090421
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "ninja",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 19100000,
+                    "timestamp": 1728330090421
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Ninja",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6500000,
+                    "timestamp": 1728330090421
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "NinjaTB",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 888000,
+                    "timestamp": 1728330090421
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Ninja",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 2699113479,
+                    "timestamp": 1728330090421
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "AFKWNINJA",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 38430,
+                    "timestamp": 1728330090421
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "rabbert",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 10900000,
+                    "timestamp": 1728330549231
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "rabbertanimations",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1728330549231
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "rabbertsecond",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 202000,
+                    "timestamp": 1728330549231
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "rabbert",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7600000,
+                    "timestamp": 1728330549231
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "rabbertOfficial",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 21200,
+                    "timestamp": 1728330549231
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "Rabbert-100094507220330",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 270000,
+                    "timestamp": 1728330549231
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "rabbert",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3578680821,
+                    "timestamp": 1728330549231
+                }
+            ]
+        }
+    ]
+}
