@@ -7,6 +7,102 @@
             "historicalCounts": [
                 {
                     "count": 3000000,
+                    "timestamp": 1725367734753
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1725632649998
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1725848437829
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1725940416591
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1725970601225
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1726054788326
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1726108352849
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1726577381708
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1726621025049
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1726662510786
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1726756189265
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1726836505684
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727056653514
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727095106419
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727181292789
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727271095509
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727356441289
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727442602234
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727637591340
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727699562533
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727895704225
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1727963730415
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1728010245404
+                },
+                {
+                    "count": 3000000,
+                    "timestamp": 1728044463018
+                },
+                {
+                    "count": 3000000,
                     "timestamp": 1728330400285
                 }
             ]
@@ -16,6 +112,86 @@
             "username": "johnsongus",
             "countUnits": 0,
             "historicalCounts": [
+                {
+                    "count": 305000,
+                    "timestamp": 1725367740214
+                },
+                {
+                    "count": 306000,
+                    "timestamp": 1725632655563
+                },
+                {
+                    "count": 309000,
+                    "timestamp": 1725848443318
+                },
+                {
+                    "count": 310000,
+                    "timestamp": 1725940422168
+                },
+                {
+                    "count": 310000,
+                    "timestamp": 1725970606631
+                },
+                {
+                    "count": 311000,
+                    "timestamp": 1726054793835
+                },
+                {
+                    "count": 311000,
+                    "timestamp": 1726108358310
+                },
+                {
+                    "count": 313000,
+                    "timestamp": 1726577387202
+                },
+                {
+                    "count": 313000,
+                    "timestamp": 1726662516376
+                },
+                {
+                    "count": 314000,
+                    "timestamp": 1726756194762
+                },
+                {
+                    "count": 314000,
+                    "timestamp": 1726836511193
+                },
+                {
+                    "count": 316000,
+                    "timestamp": 1727056659042
+                },
+                {
+                    "count": 316000,
+                    "timestamp": 1727095111876
+                },
+                {
+                    "count": 317000,
+                    "timestamp": 1727181298390
+                },
+                {
+                    "count": 318000,
+                    "timestamp": 1727271101056
+                },
+                {
+                    "count": 320000,
+                    "timestamp": 1727442607920
+                },
+                {
+                    "count": 322000,
+                    "timestamp": 1727637597006
+                },
+                {
+                    "count": 323000,
+                    "timestamp": 1727699568114
+                },
+                {
+                    "count": 324000,
+                    "timestamp": 1727895709729
+                },
+                {
+                    "count": 326000,
+                    "timestamp": 1727963736190
+                },
                 {
                     "count": 337000,
                     "timestamp": 1728330400285
@@ -29,6 +205,102 @@
             "historicalCounts": [
                 {
                     "count": 3600,
+                    "timestamp": 1725367741496
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1725632657017
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1725848444947
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1725940424281
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1725970608483
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1726054795327
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1726108360522
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1726577388505
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1726621036804
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1726662519530
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1726756198232
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1726836512797
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727056660534
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727095112727
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727181301566
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727271101977
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727356453825
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727442614578
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727637597877
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727699569563
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727895711090
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1727963756349
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1728010257513
+                },
+                {
+                    "count": 3600,
+                    "timestamp": 1728044475156
+                },
+                {
+                    "count": 3600,
                     "timestamp": 1728330400285
                 }
             ]
@@ -38,6 +310,102 @@
             "username": "gusjohnson_",
             "countUnits": 0,
             "historicalCounts": [
+                {
+                    "count": 540700,
+                    "timestamp": 1725367760023
+                },
+                {
+                    "count": 540600,
+                    "timestamp": 1725632675876
+                },
+                {
+                    "count": 540500,
+                    "timestamp": 1725848464642
+                },
+                {
+                    "count": 540500,
+                    "timestamp": 1725940444966
+                },
+                {
+                    "count": 540500,
+                    "timestamp": 1725970627466
+                },
+                {
+                    "count": 540500,
+                    "timestamp": 1726054814853
+                },
+                {
+                    "count": 540500,
+                    "timestamp": 1726108380625
+                },
+                {
+                    "count": 540500,
+                    "timestamp": 1726577407787
+                },
+                {
+                    "count": 540400,
+                    "timestamp": 1726621055689
+                },
+                {
+                    "count": 540400,
+                    "timestamp": 1726662539270
+                },
+                {
+                    "count": 540400,
+                    "timestamp": 1726756217701
+                },
+                {
+                    "count": 540400,
+                    "timestamp": 1726836532157
+                },
+                {
+                    "count": 540300,
+                    "timestamp": 1727056680117
+                },
+                {
+                    "count": 540300,
+                    "timestamp": 1727095131777
+                },
+                {
+                    "count": 540200,
+                    "timestamp": 1727181320717
+                },
+                {
+                    "count": 540200,
+                    "timestamp": 1727271120640
+                },
+                {
+                    "count": 540200,
+                    "timestamp": 1727356473095
+                },
+                {
+                    "count": 540100,
+                    "timestamp": 1727442636070
+                },
+                {
+                    "count": 540100,
+                    "timestamp": 1727637617131
+                },
+                {
+                    "count": 540100,
+                    "timestamp": 1727699589676
+                },
+                {
+                    "count": 540000,
+                    "timestamp": 1727895730543
+                },
+                {
+                    "count": 540000,
+                    "timestamp": 1727963777046
+                },
+                {
+                    "count": 540000,
+                    "timestamp": 1728010276895
+                },
+                {
+                    "count": 540000,
+                    "timestamp": 1728044494945
+                },
                 {
                     "count": 539900,
                     "timestamp": 1728330400285
@@ -51,6 +419,102 @@
             "historicalCounts": [
                 {
                     "count": 204000,
+                    "timestamp": 1725367753811
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1725632669388
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1725848458123
+                },
+                {
+                    "count": 0,
+                    "timestamp": 1725940438565
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1725970621009
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1726054808234
+                },
+                {
+                    "count": 0,
+                    "timestamp": 1726108374147
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1726577401650
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1726621049313
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1726662532940
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1726756211011
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1726836525909
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727056673793
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727095125613
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727181314357
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727271114518
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727356466982
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727442628725
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727637610741
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727699582888
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727895724105
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1727963769770
+                },
+                {
+                    "count": 0,
+                    "timestamp": 1728010270553
+                },
+                {
+                    "count": 204000,
+                    "timestamp": 1728044488776
+                },
+                {
+                    "count": 204000,
                     "timestamp": 1728330400285
                 }
             ]
@@ -60,6 +524,102 @@
             "username": "gusbuckets",
             "countUnits": 0,
             "historicalCounts": [
+                {
+                    "count": 410300,
+                    "timestamp": 1725367746891
+                },
+                {
+                    "count": 410100,
+                    "timestamp": 1725632662553
+                },
+                {
+                    "count": 410000,
+                    "timestamp": 1725848450371
+                },
+                {
+                    "count": 409900,
+                    "timestamp": 1725940429792
+                },
+                {
+                    "count": 409900,
+                    "timestamp": 1725970614001
+                },
+                {
+                    "count": 409900,
+                    "timestamp": 1726054800748
+                },
+                {
+                    "count": 409800,
+                    "timestamp": 1726108366001
+                },
+                {
+                    "count": 409600,
+                    "timestamp": 1726577394023
+                },
+                {
+                    "count": 409500,
+                    "timestamp": 1726621042266
+                },
+                {
+                    "count": 409500,
+                    "timestamp": 1726662524958
+                },
+                {
+                    "count": 409500,
+                    "timestamp": 1726756203641
+                },
+                {
+                    "count": 409400,
+                    "timestamp": 1726836518318
+                },
+                {
+                    "count": 409400,
+                    "timestamp": 1727056665967
+                },
+                {
+                    "count": 409300,
+                    "timestamp": 1727095118264
+                },
+                {
+                    "count": 409200,
+                    "timestamp": 1727181307215
+                },
+                {
+                    "count": 409200,
+                    "timestamp": 1727271107426
+                },
+                {
+                    "count": 409100,
+                    "timestamp": 1727356459232
+                },
+                {
+                    "count": 409100,
+                    "timestamp": 1727442620244
+                },
+                {
+                    "count": 409000,
+                    "timestamp": 1727637603338
+                },
+                {
+                    "count": 408900,
+                    "timestamp": 1727699575102
+                },
+                {
+                    "count": 408800,
+                    "timestamp": 1727895716606
+                },
+                {
+                    "count": 408800,
+                    "timestamp": 1727963761979
+                },
+                {
+                    "count": 408800,
+                    "timestamp": 1728010262983
+                },
+                {
+                    "count": 408800,
+                    "timestamp": 1728044480765
+                },
                 {
                     "count": 408600,
                     "timestamp": 1728330400285
@@ -73,6 +633,102 @@
             "historicalCounts": [
                 {
                     "count": 26000,
+                    "timestamp": 1725367766243
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1725632681950
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1725848470684
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1725940450955
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1725970633413
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1726054820927
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1726108387382
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1726577413960
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1726621062086
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1726662545331
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1726756223700
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1726836538284
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727056686130
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727095137832
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727181326842
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727271126560
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727356479241
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727442642180
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727637623488
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727699595420
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727895736323
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1727963783961
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1728010282834
+                },
+                {
+                    "count": 26000,
+                    "timestamp": 1728044501042
+                },
+                {
+                    "count": 26000,
                     "timestamp": 1728330400285
                 }
             ]
@@ -82,6 +738,102 @@
             "username": "gustoonz",
             "countUnits": 1,
             "historicalCounts": [
+                {
+                    "count": 997827029,
+                    "timestamp": 1725367734753
+                },
+                {
+                    "count": 998009989,
+                    "timestamp": 1725632649998
+                },
+                {
+                    "count": 998403024,
+                    "timestamp": 1725848437829
+                },
+                {
+                    "count": 998403024,
+                    "timestamp": 1725940416591
+                },
+                {
+                    "count": 998752270,
+                    "timestamp": 1725970601225
+                },
+                {
+                    "count": 999475688,
+                    "timestamp": 1726054788326
+                },
+                {
+                    "count": 999475688,
+                    "timestamp": 1726108352849
+                },
+                {
+                    "count": 1001642213,
+                    "timestamp": 1726577381708
+                },
+                {
+                    "count": 1001642213,
+                    "timestamp": 1726621025049
+                },
+                {
+                    "count": 1001742176,
+                    "timestamp": 1726662510786
+                },
+                {
+                    "count": 1001826019,
+                    "timestamp": 1726756189265
+                },
+                {
+                    "count": 1001926023,
+                    "timestamp": 1726836505684
+                },
+                {
+                    "count": 1002273500,
+                    "timestamp": 1727056653514
+                },
+                {
+                    "count": 1002418671,
+                    "timestamp": 1727095106419
+                },
+                {
+                    "count": 1002518312,
+                    "timestamp": 1727181292789
+                },
+                {
+                    "count": 1002706939,
+                    "timestamp": 1727271095509
+                },
+                {
+                    "count": 1002955882,
+                    "timestamp": 1727356441289
+                },
+                {
+                    "count": 1003033374,
+                    "timestamp": 1727442602234
+                },
+                {
+                    "count": 1003414866,
+                    "timestamp": 1727637591340
+                },
+                {
+                    "count": 1003733543,
+                    "timestamp": 1727699562533
+                },
+                {
+                    "count": 1004025775,
+                    "timestamp": 1727895704225
+                },
+                {
+                    "count": 1004083935,
+                    "timestamp": 1727963730415
+                },
+                {
+                    "count": 1004332945,
+                    "timestamp": 1728010245404
+                },
+                {
+                    "count": 1004332945,
+                    "timestamp": 1728044463018
+                },
                 {
                     "count": 1004776896,
                     "timestamp": 1728330400285
