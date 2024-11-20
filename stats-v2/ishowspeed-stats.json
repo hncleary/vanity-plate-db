@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1732023531411,
+            "timeRetrieved": 1732078566560,
             "link": "https://www.youtube.com/@ishowspeed/",
             "displayName": "IShowSpeed",
             "username": "ishowspeed",
@@ -19,7 +19,7 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1732023536893,
+            "timeRetrieved": 1732078572245,
             "link": "https://www.instagram.com/ishowspeed",
             "displayName": "IShowSpeed",
             "username": "ishowspeed",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1732023542268,
+            "timeRetrieved": 1732078577623,
             "link": "https://twitter.com/ishowspeedsui",
             "displayName": "Speed⭐️",
             "username": "ishowspeedsui",
@@ -53,7 +53,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1732023549882,
+            "timeRetrieved": 1732078584694,
             "link": "https://www.twitch.tv/ishowspeed",
             "displayName": "IShowSpeed",
             "username": "ishowspeed",
@@ -67,7 +67,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1732023556035,
+            "timeRetrieved": 1732078591141,
             "link": "https://www.tiktok.com/@ishowspeed?lang=en",
             "displayName": "IShowSpeed",
             "username": "ishowspeed",
@@ -76,7 +76,7 @@
             "followingCount": 36,
             "iconBase64": "",
             "iconUrl": "",
-            "likes": 265800000
+            "likes": 265899999.99999997
         }
     ],
     "facebookStats": []

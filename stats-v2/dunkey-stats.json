@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1732022848856,
+            "timeRetrieved": 1732078457588,
             "link": "https://www.youtube.com/@videogamedunkey/",
             "displayName": "videogamedunkey",
             "username": "videogamedunkey",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1732022853279,
+            "timeRetrieved": 1732078461991,
             "link": "https://www.youtube.com/@DunkTank/",
             "displayName": "Dunk Tank",
             "username": "DunkTank",
@@ -30,7 +30,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1732022857532,
+            "timeRetrieved": 1732078466381,
             "link": "https://www.youtube.com/@BIGMODE/",
             "displayName": "BIGMODE Games Official",
             "username": "BIGMODE",
@@ -50,7 +50,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1732022862923,
+            "timeRetrieved": 1732078471777,
             "link": "https://twitter.com/vgdunkey",
             "displayName": "dunkey",
             "username": "vgdunkey",
@@ -59,26 +59,26 @@
             "followingCount": 138,
             "iconBase64": "",
             "iconUrl": "",
-            "totalTweets": 1540
+            "totalTweets": 1541
         },
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1732022868318,
+            "timeRetrieved": 1732078477176,
             "link": "https://twitter.com/BIGMODEgames",
             "displayName": "BIGMODE Games",
             "username": "BIGMODEgames",
-            "followerCount": 141400,
+            "followerCount": 141300,
             "followerLabel": "Followers",
             "followingCount": 2,
             "iconBase64": "",
             "iconUrl": "",
-            "totalTweets": 175
+            "totalTweets": 177
         }
     ],
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1732022875411,
+            "timeRetrieved": 1732078483872,
             "link": "https://www.twitch.tv/dunkstream",
             "displayName": "dunkstream",
             "username": "dunkstream",
@@ -90,7 +90,7 @@
         },
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1732022882602,
+            "timeRetrieved": 1732078490691,
             "link": "https://www.twitch.tv/bigmodegames",
             "displayName": "bigmodegames",
             "username": "bigmodegames",
