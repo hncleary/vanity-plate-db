@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1738763982551,
+            "timeRetrieved": 1738770360100,
             "link": "https://www.youtube.com/@pewdiepie/",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
@@ -35,7 +35,7 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1738763995254,
+            "timeRetrieved": 1738770371732,
             "link": "https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr",
             "displayName": "pewdiepie",
             "username": "1JOdUvDAzNy3L37rZ4Nigr",
@@ -52,7 +52,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1738764000603,
+            "timeRetrieved": 1738770377163,
             "link": "https://twitter.com/pewdiepie",
             "displayName": "",
             "username": "pewdiepie",
@@ -67,7 +67,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1738764008036,
+            "timeRetrieved": 1738770383771,
             "link": "https://www.twitch.tv/pewdiepie",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
@@ -81,11 +81,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1738764014030,
+            "timeRetrieved": 1738770389761,
             "link": "https://www.tiktok.com/@pewdiepie?lang=en",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
-            "followerCount": 828300,
+            "followerCount": 828400,
             "followerLabel": "Followers",
             "followingCount": 0,
             "iconBase64": "",
