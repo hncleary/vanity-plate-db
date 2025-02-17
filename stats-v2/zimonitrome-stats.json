@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1739684281096,
+            "timeRetrieved": 1739760890166,
             "link": "https://www.youtube.com/@zimonitrome/",
             "displayName": "ZimoNitrome",
             "username": "zimonitrome",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1739684285342,
+            "timeRetrieved": 1739760893912,
             "link": "https://www.youtube.com/@zimonitrome2/",
             "displayName": "ZimoNitrome 2",
             "username": "zimonitrome2",
@@ -48,7 +48,7 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1739684296711,
+            "timeRetrieved": 1739760906321,
             "link": "https://open.spotify.com/artist/25OGR08t9GnBJG1d57dFuQ",
             "displayName": "ZimoNitrome",
             "username": "25OGR08t9GnBJG1d57dFuQ",
@@ -64,7 +64,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1739684302303,
+            "timeRetrieved": 1739760912660,
             "link": "https://soundcloud.com/zimonitrome",
             "displayName": "zimonitrome",
             "username": "zimonitrome",
@@ -79,7 +79,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1739684307867,
+            "timeRetrieved": 1739760918174,
             "link": "https://twitter.com/zimonitrome",
             "displayName": "Zimo",
             "username": "zimonitrome",
@@ -94,7 +94,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1739684315145,
+            "timeRetrieved": 1739760926009,
             "link": "https://www.twitch.tv/zimonitrome",
             "displayName": "zimonitrome",
             "username": "zimonitrome",
@@ -108,11 +108,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1739684320968,
+            "timeRetrieved": 1739760931959,
             "link": "https://www.tiktok.com/@zimonitrome?lang=en",
             "displayName": "ZimoNitrome",
             "username": "zimonitrome",
-            "followerCount": 8836,
+            "followerCount": 8834,
             "followerLabel": "Followers",
             "followingCount": 34,
             "iconBase64": "",

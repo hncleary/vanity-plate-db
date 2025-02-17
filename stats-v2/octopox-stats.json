@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1739683165874,
+            "timeRetrieved": 1739761755634,
             "link": "https://www.youtube.com/@octopox/",
             "displayName": "octopox",
             "username": "octopox",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1739683176878,
+            "timeRetrieved": 1739761772815,
             "link": "https://twitter.com/OctopoxYT",
             "displayName": "octopox",
             "username": "OctopoxYT",
@@ -53,7 +53,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1739683183706,
+            "timeRetrieved": 1739761779817,
             "link": "https://www.twitch.tv/octopox",
             "displayName": "octopox",
             "username": "octopox",
@@ -67,11 +67,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1739683189474,
+            "timeRetrieved": 1739761785659,
             "link": "https://www.tiktok.com/@octopoxx?lang=en",
             "displayName": "Octopox",
             "username": "octopoxx",
-            "followerCount": 590,
+            "followerCount": 591,
             "followerLabel": "Followers",
             "followingCount": 170,
             "iconBase64": "",
