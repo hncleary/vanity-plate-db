@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1741239546914,
+            "timeRetrieved": 1741396121380,
             "link": "https://www.youtube.com/@Mikopath/",
             "displayName": "Mikopath",
             "username": "Mikopath",
@@ -19,11 +19,11 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1741239553871,
+            "timeRetrieved": 1741396127293,
             "link": "https://www.instagram.com/_mikopath_",
             "displayName": "Mikopath",
             "username": "_mikopath_",
-            "followerCount": 919,
+            "followerCount": 916,
             "followerLabel": "Followers",
             "followingCount": 1400,
             "iconBase64": "data:image/jpeg;base64,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",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1741239560284,
+            "timeRetrieved": 1741396132940,
             "link": "https://twitter.com/_Mikopath_",
             "displayName": "Mikopath",
             "username": "_Mikopath_",
@@ -53,7 +53,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1741239568206,
+            "timeRetrieved": 1741396140023,
             "link": "https://www.twitch.tv/Mikopath",
             "displayName": "Mikopath",
             "username": "Mikopath",
@@ -67,13 +67,13 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1741239574040,
+            "timeRetrieved": 1741396145872,
             "link": "https://www.tiktok.com/@mikopath?lang=en",
             "displayName": "Mikopath",
             "username": "mikopath",
             "followerCount": 304,
             "followerLabel": "Followers",
-            "followingCount": 24,
+            "followingCount": 25,
             "iconBase64": "",
             "iconUrl": "",
             "likes": 4661
