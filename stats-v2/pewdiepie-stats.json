@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1741446610366,
+            "timeRetrieved": 1741532326789,
             "link": "https://www.youtube.com/@pewdiepie/",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
@@ -35,11 +35,11 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1741446622764,
+            "timeRetrieved": 1741532338596,
             "link": "https://open.spotify.com/artist/1JOdUvDAzNy3L37rZ4Nigr",
             "displayName": "pewdiepie",
             "username": "1JOdUvDAzNy3L37rZ4Nigr",
-            "followerCount": 241800,
+            "followerCount": 241700,
             "followerLabel": "Monthly Listeners",
             "followingCount": -1,
             "iconBase64": "",
@@ -52,7 +52,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1741446628523,
+            "timeRetrieved": 1741532344588,
             "link": "https://twitter.com/pewdiepie",
             "displayName": "",
             "username": "pewdiepie",
@@ -67,7 +67,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1741446636155,
+            "timeRetrieved": 1741532352454,
             "link": "https://www.twitch.tv/pewdiepie",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
@@ -81,16 +81,16 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1741446642536,
+            "timeRetrieved": 1741532358576,
             "link": "https://www.tiktok.com/@pewdiepie?lang=en",
             "displayName": "PewDiePie",
             "username": "pewdiepie",
-            "followerCount": 858700,
+            "followerCount": 859300,
             "followerLabel": "Followers",
             "followingCount": 0,
             "iconBase64": "",
             "iconUrl": "",
-            "likes": 9900000
+            "likes": 10000000
         }
     ],
     "facebookStats": []
