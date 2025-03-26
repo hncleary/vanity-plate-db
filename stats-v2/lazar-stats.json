@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1742872470851,
+            "timeRetrieved": 1742951111111,
             "link": "https://www.youtube.com/@LazarBeam/",
             "displayName": "LazarBeam",
             "username": "LazarBeam",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1742872475250,
+            "timeRetrieved": 1742951115508,
             "link": "https://www.youtube.com/@LazarLazar/",
             "displayName": "LazarLazar",
             "username": "LazarLazar",
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1742872491725,
+            "timeRetrieved": 1742951132187,
             "link": "https://twitter.com/Lazarbeam",
             "displayName": "LAZAR",
             "username": "Lazarbeam",
@@ -66,7 +66,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1742872499067,
+            "timeRetrieved": 1742951139275,
             "link": "https://www.twitch.tv/lazarbeam",
             "displayName": "lazarbeam",
             "username": "lazarbeam",
