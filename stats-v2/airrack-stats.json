@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1749784327808,
+            "timeRetrieved": 1749823343936,
             "link": "https://www.youtube.com/@airrack/",
             "displayName": "Airrack",
             "username": "airrack",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1749784331868,
+            "timeRetrieved": 1749823348092,
             "link": "https://www.youtube.com/@Houseparty./",
             "displayName": "Houseparty!",
             "username": "Houseparty.",
@@ -32,13 +32,13 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": 1749392958437,
+            "timeRetrieved": 1749823353669,
             "link": "https://www.instagram.com/airrack",
             "displayName": "EricDecker",
             "username": "airrack",
             "followerCount": 1000000,
             "followerLabel": "Followers",
-            "followingCount": 539,
+            "followingCount": 542,
             "iconBase64": "data:image/jpeg;base64,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",
             "iconUrl": "",
             "totalPosts": 403
@@ -51,7 +51,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1749784348756,
+            "timeRetrieved": 1749823359484,
             "link": "https://twitter.com/airrack",
             "displayName": "Airrack",
             "username": "airrack",
@@ -67,7 +67,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1749784355147,
+            "timeRetrieved": 1749823365335,
             "link": "https://www.tiktok.com/@airrack?lang=en",
             "displayName": "Eric Decker",
             "username": "airrack",

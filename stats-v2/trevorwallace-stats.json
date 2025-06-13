@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1749783786967,
+            "timeRetrieved": 1749824283371,
             "link": "https://www.youtube.com/@TrevorWallace/",
             "displayName": "Trevor Wallace",
             "username": "TrevorWallace",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1749783791615,
+            "timeRetrieved": 1749824287737,
             "link": "https://www.youtube.com/@wrevortallace5917/",
             "displayName": "Wrevor Tallace",
             "username": "wrevortallace5917",
@@ -30,7 +30,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1749783796128,
+            "timeRetrieved": 1749824292282,
             "link": "https://www.youtube.com/@StiffSocks/",
             "displayName": "Stiff Socks Podcast",
             "username": "StiffSocks",
@@ -80,7 +80,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1749783814889,
+            "timeRetrieved": 1749824315048,
             "link": "https://www.tiktok.com/@trevorwallace?lang=en",
             "displayName": "trevor wallace",
             "username": "trevorwallace",
@@ -89,7 +89,7 @@
             "followingCount": 197,
             "iconBase64": "",
             "iconUrl": "",
-            "likes": 397200000
+            "likes": 397300000
         }
     ],
     "facebookStats": [
