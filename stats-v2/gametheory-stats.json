@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1752770617965,
+            "timeRetrieved": 1752800542359,
             "link": "https://www.youtube.com/@GameTheory/",
             "displayName": "The Game Theorists",
             "username": "GameTheory",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1752770622173,
+            "timeRetrieved": 1752800546734,
             "link": "https://www.youtube.com/@FilmTheory/",
             "displayName": "The Film Theorists",
             "username": "FilmTheory",
@@ -30,7 +30,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1752770626586,
+            "timeRetrieved": 1752800551042,
             "link": "https://www.youtube.com/@FoodTheory/",
             "displayName": "The Food Theorists",
             "username": "FoodTheory",
@@ -43,7 +43,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1752770630860,
+            "timeRetrieved": 1752800555481,
             "link": "https://www.youtube.com/@GTLive/",
             "displayName": "GTLive",
             "username": "GTLive",
@@ -56,7 +56,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1752770635544,
+            "timeRetrieved": 1752800559936,
             "link": "https://www.youtube.com/@StyleTheorists/",
             "displayName": "The Style Theorists",
             "username": "StyleTheorists",
@@ -90,7 +90,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1752770652370,
+            "timeRetrieved": 1752800576572,
             "link": "https://twitter.com/TeamTheorist",
             "displayName": "Team Theorist",
             "username": "TeamTheorist",
@@ -106,7 +106,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1752770658490,
+            "timeRetrieved": 1752800582736,
             "link": "https://www.tiktok.com/@gametheoristofficial?lang=en",
             "displayName": "GameTheory",
             "username": "gametheoristofficial",
@@ -119,7 +119,7 @@
         },
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1752770664095,
+            "timeRetrieved": 1752800588574,
             "link": "https://www.tiktok.com/@filmtheoristofficial?lang=en",
             "displayName": "FilmTheory",
             "username": "filmtheoristofficial",
