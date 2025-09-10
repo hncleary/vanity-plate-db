@@ -1,0 +1,125 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "google",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 13400000,
+                    "timestamp": 1757473150093
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "zuck",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 16000000,
+                    "timestamp": 1756587061629
+                }
+            ]
+        },
+        {
+            "platformName": "Newgrounds",
+            "username": "tomfulp",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 93900,
+                    "timestamp": 1757473185976
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "soundcloud",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2371114,
+                    "timestamp": 1757473193809
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "3WrFJ7ztbogyGnTHbHJFl2",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1757473180301
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "zuck",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5100000,
+                    "timestamp": 1757473174426
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "khaby.lame",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 161500000,
+                    "timestamp": 1757473214656
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "ninja",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 19200000,
+                    "timestamp": 1757473207719
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "elonmusk",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 225500000,
+                    "timestamp": 1757473200755
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "Meta",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 94000000,
+                    "timestamp": 1757473222284
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "google",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 5030084499,
+                    "timestamp": 1757473150093
+                }
+            ]
+        }
+    ]
+}

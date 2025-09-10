@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "casey",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 12600000,
+                    "timestamp": 1757473497962
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "caseyneistat",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1756587117556
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "caseyneistat",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 464300,
+                    "timestamp": 1757473520180
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "caseyneistat",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 866100,
+                    "timestamp": 1757473541361
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "caseyneistat",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 75200,
+                    "timestamp": 1757473534574
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Casey",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1900000,
+                    "timestamp": 1757473527181
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "cneistat",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 893000,
+                    "timestamp": 1757473548058
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "casey",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3223126898,
+                    "timestamp": 1757473497962
+                }
+            ]
+        }
+    ]
+}

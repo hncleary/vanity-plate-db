@@ -1,0 +1,103 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "ScottTheWoz",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1757473606549
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "scottsstash",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 554000,
+                    "timestamp": 1757473612424
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ScottsSnippets",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 155000,
+                    "timestamp": 1757473617942
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "scottthewoz",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 136000,
+                    "timestamp": 1757394153548
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "ScottTheWoz",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 509000,
+                    "timestamp": 1757473639698
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "ScottTheWoz",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 9200,
+                    "timestamp": 1757473647154
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ScottTheWoz",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 771408647,
+                    "timestamp": 1757473606549
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "scottsstash",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 106365246,
+                    "timestamp": 1757473612424
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ScottsSnippets",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 45401400,
+                    "timestamp": 1757473617942
+                }
+            ]
+        }
+    ]
+}

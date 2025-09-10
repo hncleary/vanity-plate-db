@@ -1,0 +1,323 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "LinusTechTips",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 16500000,
+                    "timestamp": 1757473357460
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ShortCircuit",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2480000,
+                    "timestamp": 1757473363614
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "techquickie",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4330000,
+                    "timestamp": 1757473369381
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "techlinked",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1980000,
+                    "timestamp": 1757473374815
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "GameLinked",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 468000,
+                    "timestamp": 1757473380062
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "macaddress",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 607000,
+                    "timestamp": 1757473385410
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LMGClips",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 620000,
+                    "timestamp": 1757473390754
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ChannelSuperFun",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1260000,
+                    "timestamp": 1757473396259
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TheyreJustMovies",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 138000,
+                    "timestamp": 1757473401656
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "linustech",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1757394373551
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "linustech",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1300000,
+                    "timestamp": 1757473483541
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "LinusTech",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 655000,
+                    "timestamp": 1757473475913
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "LinusTech",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1800000,
+                    "timestamp": 1757473424140
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "linusgsebastian",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 591300,
+                    "timestamp": 1757473431764
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "ShrtCrctYT",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 42700,
+                    "timestamp": 1757473438936
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "TechLinkedYT",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 67300,
+                    "timestamp": 1757473446249
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "GameLinkedYT",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6262,
+                    "timestamp": 1757473453782
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "MacAddressYT",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 17000,
+                    "timestamp": 1757473460992
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "channelsuperfun",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 37200,
+                    "timestamp": 1757473468104
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "LinusTech",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1700000,
+                    "timestamp": 1757473491518
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LinusTechTips",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 8954689384,
+                    "timestamp": 1757473357460
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ShortCircuit",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 698125629,
+                    "timestamp": 1757473363614
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "techquickie",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 909837124,
+                    "timestamp": 1757473369381
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "techlinked",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 615831686,
+                    "timestamp": 1757473374815
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "GameLinked",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 33157175,
+                    "timestamp": 1757473380062
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "macaddress",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 130713075,
+                    "timestamp": 1757473385410
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LMGClips",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 329202644,
+                    "timestamp": 1757473390754
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ChannelSuperFun",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 385841693,
+                    "timestamp": 1757473396259
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TheyreJustMovies",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 4781540,
+                    "timestamp": 1757473401656
+                }
+            ]
+        }
+    ]
+}

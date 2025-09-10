@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "TheGamingCaveYT",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 198,
+                    "timestamp": 1757473293573
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "thegamingcaveyt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 78,
+                    "timestamp": 1756587488456
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "thegamingcave",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1757473322437
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "thegamingcaveyt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 12,
+                    "timestamp": 1757473315466
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "thegamingcave",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 137,
+                    "timestamp": 1757473344269
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "TheGamingCave",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 12,
+                    "timestamp": 1757473336799
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "TheGamingCaveYT",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 76,
+                    "timestamp": 1757473329258
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TheGamingCaveYT",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 63371,
+                    "timestamp": 1757473293573
+                }
+            ]
+        }
+    ]
+}

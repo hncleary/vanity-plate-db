@@ -1,0 +1,114 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "zimonitrome",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 342000,
+                    "timestamp": 1757472748183
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "zimonitrome2",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2300,
+                    "timestamp": 1757472753073
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "zimonitrome",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 95,
+                    "timestamp": 1756587636231
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "zimonitrome",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 95,
+                    "timestamp": 1757472780426
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "25OGR08t9GnBJG1d57dFuQ",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1757472773264
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "zimonitrome",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 8761,
+                    "timestamp": 1757472801346
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "zimonitrome",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 18,
+                    "timestamp": 1757472794272
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "zimonitrome",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6127,
+                    "timestamp": 1757472787231
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "zimonitrome",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 140268870,
+                    "timestamp": 1757472748183
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "zimonitrome2",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 469845,
+                    "timestamp": 1757472753073
+                }
+            ]
+        }
+    ]
+}

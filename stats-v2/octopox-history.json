@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "octopox",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 595,
+                    "timestamp": 1757473357464
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "octopoxen",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 200,
+                    "timestamp": 1757394115070
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "octopoxx",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 602,
+                    "timestamp": 1757473394099
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "octopox",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 36,
+                    "timestamp": 1757473386458
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "OctopoxYT",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1430,
+                    "timestamp": 1757473379010
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "octopox",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 152884,
+                    "timestamp": 1757473357464
+                }
+            ]
+        }
+    ]
+}

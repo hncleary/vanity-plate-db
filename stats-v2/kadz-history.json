@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "kadz",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1580000,
+                    "timestamp": 1757473228718
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "zdak",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2190000,
+                    "timestamp": 1757473233920
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "kadz.yt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 203000,
+                    "timestamp": 1757394223818
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "kadz.yt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 10700,
+                    "timestamp": 1757473256147
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "kadz.yt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 139300,
+                    "timestamp": 1757473270377
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "KadzYT",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5053,
+                    "timestamp": 1757473263687
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "kadz",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 577623204,
+                    "timestamp": 1757473228718
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "zdak",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 6826342058,
+                    "timestamp": 1757473233920
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "jejkobbb",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 285000,
+                    "timestamp": 1757473228690
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "jejkobbb",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 25000,
+                    "timestamp": 1757394005495
+                }
+            ]
+        },
+        {
+            "platformName": "Newgrounds",
+            "username": "jejkobb",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 69,
+                    "timestamp": 1757473249383
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "Jejkobbb",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 31200,
+                    "timestamp": 1757473263343
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Jejkobbb",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 16600,
+                    "timestamp": 1757473256131
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jejkobbb",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 151294141,
+                    "timestamp": 1757473228690
+                }
+            ]
+        }
+    ]
+}

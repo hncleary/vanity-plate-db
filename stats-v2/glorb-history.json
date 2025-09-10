@@ -1,0 +1,81 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1020000,
+                    "timestamp": 1757472875925
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 174000,
+                    "timestamp": 1756587192020
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 21179,
+                    "timestamp": 1757472904440
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "6YeB9qnbI47owfAXWhctih",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1757472896538
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 851700,
+                    "timestamp": 1757472918871
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "glorbworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3599,
+                    "timestamp": 1757472911954
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "glorbworldwide",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 316922009,
+                    "timestamp": 1757472875925
+                }
+            ]
+        }
+    ]
+}

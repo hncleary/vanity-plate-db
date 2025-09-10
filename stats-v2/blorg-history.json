@@ -1,0 +1,76 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 212000,
+                    "timestamp": 1757473292937
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 217000,
+                    "timestamp": 1756585835458
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3446,
+                    "timestamp": 1757473320184
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "2IvNkB1MfnjQKzx5W0i048",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1757473311843
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 166200,
+                    "timestamp": 1757473334220
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "blorgworldwide",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Blorgworldwide",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 40464242,
+                    "timestamp": 1757473292937
+                }
+            ]
+        }
+    ]
+}

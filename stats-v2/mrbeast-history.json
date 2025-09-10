@@ -1,0 +1,224 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "MrBeast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 433000000,
+                    "timestamp": 1757472747905
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "MrBeastGaming",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 49000000,
+                    "timestamp": 1757472753366
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "BeastPhilanthropy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 28300000,
+                    "timestamp": 1757472759107
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "BeastReacts",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 36100000,
+                    "timestamp": 1757472764100
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "MrBeast2",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 52000000,
+                    "timestamp": 1757472769377
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "mrbeast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 77000000,
+                    "timestamp": 1756586195861
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "beastphilanthropy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 638000,
+                    "timestamp": 1756586201735
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "mrbeastburger",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1756586207791
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "mrbeast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 11200000,
+                    "timestamp": 1757472824014
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "beastphilanthropy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 113700,
+                    "timestamp": 1757472832674
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "mrbeast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 119300000,
+                    "timestamp": 1757472861123
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "mrbeast6000",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 583000,
+                    "timestamp": 1757472854568
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "MrBeast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 33200000.000000004,
+                    "timestamp": 1757472839875
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "BeastPhilanthr",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 8248,
+                    "timestamp": 1757472847440
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "MrBeast6000",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1400000,
+                    "timestamp": 1757472868687
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "MrBeast",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 94553048452,
+                    "timestamp": 1757472747905
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "MrBeastGaming",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 9315949847,
+                    "timestamp": 1757472753366
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "BeastPhilanthropy",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1178767938,
+                    "timestamp": 1757472759107
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "BeastReacts",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 6615314049,
+                    "timestamp": 1757472764100
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "MrBeast2",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 8427522709,
+                    "timestamp": 1757472769377
+                }
+            ]
+        }
+    ]
+}

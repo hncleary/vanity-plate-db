@@ -1,0 +1,334 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "jschlatt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1430000,
+                    "timestamp": 1757472612479
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jschlattLIVE",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4580000,
+                    "timestamp": 1757472617776
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "SleepDeprived",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 743000,
+                    "timestamp": 1757472623364
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ChuckleSandwich",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1090000,
+                    "timestamp": 1757472628622
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "schlattco",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1320000,
+                    "timestamp": 1757472634150
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "bigmanschlatt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3820000,
+                    "timestamp": 1757472639629
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ludandschlattsmusicalempor6746",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 349000,
+                    "timestamp": 1757472644946
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "theweeklyslap",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 996000,
+                    "timestamp": 1757472650139
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "didschlattwin",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 431000,
+                    "timestamp": 1757472655606
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jschlattvods",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 795000,
+                    "timestamp": 1757472660962
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "jschlatt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1756586993683
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "jschlatt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2921,
+                    "timestamp": 1757472690652
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "jschlatt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 269600,
+                    "timestamp": 1757472683118
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "bigmanschlatt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1800000,
+                    "timestamp": 1757472741684
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "schlatt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2200000,
+                    "timestamp": 1757472734571
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "jschlatt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3100000,
+                    "timestamp": 1757472697611
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "sleepdeprived",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 99300,
+                    "timestamp": 1757394821462
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "ChuckleSandwich",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 211000,
+                    "timestamp": 1757472712058
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "rammie",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 82300,
+                    "timestamp": 1757472719620
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "schlatt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1200000,
+                    "timestamp": 1757472726718
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jschlatt",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 63472356,
+                    "timestamp": 1757472612479
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jschlattLIVE",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 678263145,
+                    "timestamp": 1757472617776
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "SleepDeprived",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 219339911,
+                    "timestamp": 1757472623364
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ChuckleSandwich",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 171364546,
+                    "timestamp": 1757472628622
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "schlattco",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 163691266,
+                    "timestamp": 1757472634150
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "bigmanschlatt",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 5565844098,
+                    "timestamp": 1757472639629
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ludandschlattsmusicalempor6746",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 6670683,
+                    "timestamp": 1757472644946
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "theweeklyslap",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 24853024,
+                    "timestamp": 1757472650139
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "didschlattwin",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 58323517,
+                    "timestamp": 1757472655606
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jschlattvods",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 118965029,
+                    "timestamp": 1757472660962
+                }
+            ]
+        }
+    ]
+}

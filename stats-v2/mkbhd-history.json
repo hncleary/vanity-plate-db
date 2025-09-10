@@ -1,0 +1,158 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "mkbhd",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 20200000,
+                    "timestamp": 1757473293051
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TheStudio",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 964000,
+                    "timestamp": 1757473298423
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "AutoFocus",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1160000,
+                    "timestamp": 1757473304087
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Waveform",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 479000,
+                    "timestamp": 1757473310186
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "WaveformClips",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 509000,
+                    "timestamp": 1757473315709
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "MKBHD",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5000000,
+                    "timestamp": 1756585886928
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "MKBHD",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1500000,
+                    "timestamp": 1757473336507
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "MKBHD",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6200000,
+                    "timestamp": 1757473343280
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "MKBHD",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1200000,
+                    "timestamp": 1757473350870
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "mkbhd",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 4920146170,
+                    "timestamp": 1757473293051
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TheStudio",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 79260686,
+                    "timestamp": 1757473298423
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "AutoFocus",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 135772973,
+                    "timestamp": 1757473304087
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Waveform",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 95801918,
+                    "timestamp": 1757473310186
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "WaveformClips",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 103619890,
+                    "timestamp": 1757473315709
+                }
+            ]
+        }
+    ]
+}

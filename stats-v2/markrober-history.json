@@ -1,0 +1,59 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "markrober",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 71000000,
+                    "timestamp": 1757472876108
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "markrober",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1757393798963
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "markrober",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3800000,
+                    "timestamp": 1757472897535
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "MarkRoberYouTube",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5500000,
+                    "timestamp": 1757472904463
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "markrober",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 14110223507,
+                    "timestamp": 1757472876108
+                }
+            ]
+        }
+    ]
+}

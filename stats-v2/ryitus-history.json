@@ -1,0 +1,59 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Ryitus",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 11400,
+                    "timestamp": 1757472948278
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "Ryitus",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5600,
+                    "timestamp": 1757472962554
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "NotRyitus",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1019,
+                    "timestamp": 1757472955212
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "RyitusV2",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 285,
+                    "timestamp": 1757472970190
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Ryitus",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1542610,
+                    "timestamp": 1757472948278
+                }
+            ]
+        }
+    ]
+}

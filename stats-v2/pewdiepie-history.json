@@ -1,0 +1,81 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "pewdiepie",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 110000000,
+                    "timestamp": 1757472748100
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "pewdiepie",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 20000000,
+                    "timestamp": 1757394083087
+                }
+            ]
+        },
+        {
+            "platformName": "Spotify",
+            "username": "1JOdUvDAzNy3L37rZ4Nigr",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1757472767735
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "pewdiepie",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 958600,
+                    "timestamp": 1757472789881
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "pewdiepie",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1757472782835
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "pewdiepie",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 507100,
+                    "timestamp": 1757472775160
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "pewdiepie",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 29402217861,
+                    "timestamp": 1757472748100
+                }
+            ]
+        }
+    ]
+}

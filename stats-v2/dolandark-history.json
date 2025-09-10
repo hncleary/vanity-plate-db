@@ -1,0 +1,136 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "DolanDark",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1530000,
+                    "timestamp": 1757472748917
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DolanDarker",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1080000,
+                    "timestamp": 1757472754650
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DolanDarkest",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 337000,
+                    "timestamp": 1757472760255
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "darkdolan",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1757394037613
+                }
+            ]
+        },
+        {
+            "platformName": "SoundCloud",
+            "username": "dolan-dark",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 13227,
+                    "timestamp": 1757472791443
+                }
+            ]
+        },
+        {
+            "platformName": "Threads",
+            "username": "darkdolan",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 146300,
+                    "timestamp": 1757472782994
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "DolanDark420",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2300,
+                    "timestamp": 1757472806674
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "DolanDark",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1500000,
+                    "timestamp": 1757472798779
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "DolanDarkv3",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 46000,
+                    "timestamp": 1757472813983
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DolanDark",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 72048311,
+                    "timestamp": 1757472748917
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DolanDarker",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 323213038,
+                    "timestamp": 1757472754650
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DolanDarkest",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 84787221,
+                    "timestamp": 1757472760255
+                }
+            ]
+        }
+    ]
+}
