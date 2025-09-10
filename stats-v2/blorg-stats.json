@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1757473292937,
+            "timeRetrieved": 1757475125295,
             "link": "https://www.youtube.com/@Blorgworldwide/",
             "displayName": "Blorg",
             "username": "Blorgworldwide",
@@ -35,7 +35,7 @@
     "spotifyStats": [
         {
             "platformName": "Spotify",
-            "timeRetrieved": 1757473311843,
+            "timeRetrieved": 1757475145721,
             "link": "https://open.spotify.com/artist/2IvNkB1MfnjQKzx5W0i048",
             "username": "2IvNkB1MfnjQKzx5W0i048",
             "followerCount": 0,
@@ -50,7 +50,7 @@
     "soundcloudStats": [
         {
             "platformName": "SoundCloud",
-            "timeRetrieved": 1757473320184,
+            "timeRetrieved": 1757475153632,
             "link": "https://soundcloud.com/blorgworldwide",
             "displayName": "Blorg",
             "username": "blorgworldwide",
@@ -65,7 +65,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1757473327572,
+            "timeRetrieved": 1757475162342,
             "link": "https://twitter.com/blorgworldwide",
             "displayName": "",
             "username": "blorgworldwide",
@@ -81,7 +81,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1757473334220,
+            "timeRetrieved": 1757475169763,
             "link": "https://www.tiktok.com/@blorgworldwide?lang=en",
             "displayName": "BLORG",
             "username": "blorgworldwide",

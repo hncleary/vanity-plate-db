@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1757472875498,
+            "timeRetrieved": 1757476054729,
             "link": "https://www.youtube.com/@Ninja/",
             "displayName": "Ninja",
             "username": "Ninja",
@@ -17,7 +17,7 @@
         },
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1757472881021,
+            "timeRetrieved": 1757476059901,
             "link": "https://www.youtube.com/@AFKWNINJA/",
             "displayName": "AFKWNINJA",
             "username": "AFKWNINJA",
@@ -47,7 +47,7 @@
     "threadsStats": [
         {
             "platformName": "Threads",
-            "timeRetrieved": 1757472904627,
+            "timeRetrieved": 1757476083822,
             "link": "https://www.threads.net/@Ninja",
             "displayName": "Tyler “Ninja” Blevins (@ninja) • Threads, Say more\">",
             "username": "Ninja",
@@ -64,7 +64,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1757472911922,
+            "timeRetrieved": 1757476090885,
             "link": "https://twitter.com/Ninja",
             "displayName": "",
             "username": "Ninja",
@@ -79,7 +79,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1757472920048,
+            "timeRetrieved": 1757476098427,
             "link": "https://www.twitch.tv/ninja",
             "displayName": "Ninja",
             "username": "ninja",
@@ -93,7 +93,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1757472927077,
+            "timeRetrieved": 1757476106735,
             "link": "https://www.tiktok.com/@ninja?lang=en",
             "displayName": "Ninja",
             "username": "ninja",
@@ -108,7 +108,7 @@
     "facebookStats": [
         {
             "platformName": "Facebook",
-            "timeRetrieved": 1757472934539,
+            "timeRetrieved": 1757476114269,
             "link": "https://www.facebook.com/NinjaTB",
             "displayName": "Ninja",
             "username": "NinjaTB",
@@ -116,7 +116,7 @@
             "followerLabel": "Followers",
             "followingCount": -1,
             "iconBase64": "data:image/jpeg;base64,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",
-            "iconUrl": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/428366509_981732139991119_2344172791922136075_n.jpg?stp=c138.101.714.714a_dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=G9TOvLQBy-kQ7kNvwFhf2a5&_nc_oc=Adk29Bbt1_BfKZAZU50HbXoGaIkqxUFlJpjQ-nrJi1dhwJQ6GxHZjkKWhX7Lm7dmQzA&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&_nc_gid=X9zo1zg8SPdNOnmy172yUA&oh=00_AfY2Vwu68a6EQXpvs6evsOQ1ANPH-CwwXK6ACcrWV8FE0A&oe=68C6B268"
+            "iconUrl": "https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-1/428366509_981732139991119_2344172791922136075_n.jpg?stp=c138.101.714.714a_dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=G9TOvLQBy-kQ7kNvwFhf2a5&_nc_oc=Adk29Bbt1_BfKZAZU50HbXoGaIkqxUFlJpjQ-nrJi1dhwJQ6GxHZjkKWhX7Lm7dmQzA&_nc_zt=24&_nc_ht=scontent-dfw5-1.xx&_nc_gid=2YiXOiaE60Mb5E8Wf5Izkw&oh=00_AfZ4laeXVAu-kutQJEmpJWG2O7nKEhOuzMlwQLevlImTPQ&oe=68C6B268"
         }
     ]
 }
