@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "ConnorEatsPants",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 283000,
+                    "timestamp": 1767027452616
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "connoreatspants",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "connoreatspants",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 334000,
+                    "timestamp": 1767027489353
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "connoreatspants",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 726000,
+                    "timestamp": 1767027482072
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "ConnorEatsPants",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 952900,
+                    "timestamp": 1767027474949
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "ConnorEatsPants",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 22142178,
+                    "timestamp": 1767027452616
+                }
+            ]
+        }
+    ]
+}

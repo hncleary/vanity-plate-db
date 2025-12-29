@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "TBJZL",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5080000,
+                    "timestamp": 1767028518214
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "tobiright",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "tobiright",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 11,
+                    "timestamp": 1767028553518
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "tobiright",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767028546815
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "TBJZL",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 401700,
+                    "timestamp": 1767028539613
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TBJZL",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 592806261,
+                    "timestamp": 1767028518214
+                }
+            ]
+        }
+    ]
+}

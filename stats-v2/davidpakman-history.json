@@ -1,0 +1,38 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "TheDavidPakmanShow",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3420000,
+                    "timestamp": 1767029033517
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "davidpakman",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Twitter",
+            "username": "davidpakman",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TheDavidPakmanShow",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3303119666,
+                    "timestamp": 1767029033517
+                }
+            ]
+        }
+    ]
+}

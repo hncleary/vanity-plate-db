@@ -1,0 +1,66 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "sxephil",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "PhilipDeFranco",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6610000,
+                    "timestamp": 1767031574592
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "philipdefranco",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "philipdefranco",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3700000,
+                    "timestamp": 1767031602991
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "PhillyD",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1767031595775
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "sxephil",
+            "countUnits": 1,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "PhilipDeFranco",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 2513514503,
+                    "timestamp": 1767031574592
+                }
+            ]
+        }
+    ]
+}

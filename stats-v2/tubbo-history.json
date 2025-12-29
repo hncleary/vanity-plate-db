@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Tubbo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2720000,
+                    "timestamp": 1767029616006
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "tubbo",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "tubbo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 80,
+                    "timestamp": 1767029652919
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "tubbo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5200000,
+                    "timestamp": 1767029645281
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "tubbo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1118,
+                    "timestamp": 1767029637288
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Tubbo",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 77873106,
+                    "timestamp": 1767029616006
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Asmongold",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "AsmongoldTV",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "asmongold",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 131000,
+                    "timestamp": 1767030830394
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "asmongold",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4,
+                    "timestamp": 1767030852074
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "asmongold",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3600000,
+                    "timestamp": 1767030844975
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Asmongold",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1100000,
+                    "timestamp": 1767030837393
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Asmongold",
+            "countUnits": 1,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "AsmongoldTV",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

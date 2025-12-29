@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "VanossGaming",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 26000000,
+                    "timestamp": 1767031786220
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "vanossgaming",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "vanossgaming",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 270,
+                    "timestamp": 1767031823041
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "vanossgaming",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767031816041
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "VanossGaming",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2800000,
+                    "timestamp": 1767031808164
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "VanossGaming",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 16742423095,
+                    "timestamp": 1767031786220
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "theodd1sout",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 20600000,
+                    "timestamp": 1767029999463
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "theodd1sout",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "theodd1sout",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 331,
+                    "timestamp": 1767030027566
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "theodd1sout",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1700000,
+                    "timestamp": 1767030020754
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "theodd1sout",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 5589586275,
+                    "timestamp": 1767029999463
+                }
+            ]
+        }
+    ]
+}

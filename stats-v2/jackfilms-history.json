@@ -1,0 +1,54 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "jacksfilms",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4950000,
+                    "timestamp": 1767029543208
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "jacksfilms",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "jacksfilms",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 377,
+                    "timestamp": 1767029570875
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "jacksfilms",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1600000,
+                    "timestamp": 1767029563400
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jacksfilms",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 2793467960,
+                    "timestamp": 1767029543208
+                }
+            ]
+        }
+    ]
+}

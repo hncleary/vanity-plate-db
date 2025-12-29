@@ -1,0 +1,33 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "stampylonghead",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "stampylonghead",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 93,
+                    "timestamp": 1767030494368
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "stampylonghead",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "stampylonghead",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Sykkuno",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2730000,
+                    "timestamp": 1767028128515
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "sykkuno",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "sykkuno",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6803,
+                    "timestamp": 1767028165305
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "sykkuno",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3900000,
+                    "timestamp": 1767028158036
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Sykkuno",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1700000,
+                    "timestamp": 1767028150764
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Sykkuno",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 514896423,
+                    "timestamp": 1767028128515
+                }
+            ]
+        }
+    ]
+}

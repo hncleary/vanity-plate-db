@@ -1,19 +1,69 @@
 {
     "sums": [
         {
+            "username": "5up",
+            "displayName": "5up",
+            "totalFollowers": 1557603
+        },
+        {
             "username": "airrack",
             "displayName": "airrack",
             "totalFollowers": 22645300
         },
         {
+            "username": "amouranth",
+            "displayName": "Amouranth",
+            "totalFollowers": 9801851
+        },
+        {
+            "username": "antfrost",
+            "displayName": "Antfrost",
+            "totalFollowers": 2481002
+        },
+        {
+            "username": "asmongold",
+            "displayName": "Asmongold",
+            "totalFollowers": 4831002
+        },
+        {
             "username": "aztrosist",
             "displayName": "aztrosist",
-            "totalFollowers": 1462599
+            "totalFollowers": 1391176
+        },
+        {
+            "username": "bad",
+            "displayName": "Bad",
+            "totalFollowers": 288
+        },
+        {
+            "username": "badboyhalo",
+            "displayName": "BadBoyHalo",
+            "totalFollowers": 5655613
+        },
+        {
+            "username": "behzinga",
+            "displayName": "Behzinga",
+            "totalFollowers": 8155061
+        },
+        {
+            "username": "berleezy",
+            "displayName": "Berleezy",
+            "totalFollowers": 4760800
         },
         {
             "username": "blorg",
             "displayName": "Blorg",
-            "totalFollowers": 850123
+            "totalFollowers": 850744
+        },
+        {
+            "username": "boogie2988",
+            "displayName": "Boogie2988",
+            "totalFollowers": 4727599
+        },
+        {
+            "username": "callmecarson",
+            "displayName": "CallMeCarson",
+            "totalFollowers": 3449144
         },
         {
             "username": "caseyneistat",
@@ -21,9 +71,29 @@
             "totalFollowers": 19693200
         },
         {
+            "username": "charliewinsmore",
+            "displayName": "Charles White",
+            "totalFollowers": 6373
+        },
+        {
+            "username": "codyko",
+            "displayName": "Cody Ko",
+            "totalFollowers": 11529999
+        },
+        {
             "username": "coldones",
             "displayName": "Cold Ones",
             "totalFollowers": 5738300
+        },
+        {
+            "username": "colinfurze",
+            "displayName": "Colin Furze",
+            "totalFollowers": 15400026
+        },
+        {
+            "username": "connoreatspants",
+            "displayName": "ConnorEatsPants",
+            "totalFollowers": 2295899
         },
         {
             "username": "corridor",
@@ -33,12 +103,12 @@
         {
             "username": "critikal",
             "displayName": "Critikal",
-            "totalFollowers": 29194042
+            "totalFollowers": 29194030
         },
         {
             "username": "cyranek",
             "displayName": "Cyranek",
-            "totalFollowers": 1522015
+            "totalFollowers": 1522058
         },
         {
             "username": "dailydose",
@@ -46,39 +116,179 @@
             "totalFollowers": 22047000
         },
         {
+            "username": "dannygonzalez",
+            "displayName": "Danny Gonzalez",
+            "totalFollowers": 4491699
+        },
+        {
+            "username": "dantdm",
+            "displayName": "DanTDM",
+            "totalFollowers": 7499997
+        },
+        {
+            "username": "dashiegames",
+            "displayName": "DashieGames",
+            "totalFollowers": 7077039
+        },
+        {
+            "username": "daviddobrik",
+            "displayName": "David Dobrik",
+            "totalFollowers": 46699998
+        },
+        {
+            "username": "davidpakman",
+            "displayName": "David Pakman",
+            "totalFollowers": 3419998
+        },
+        {
+            "username": "disguisedtoast",
+            "displayName": "Disguised Toast",
+            "totalFollowers": 8090000
+        },
+        {
             "username": "dolandark",
             "displayName": "Dolan Dark",
             "totalFollowers": 5687515
         },
         {
+            "username": "dream",
+            "displayName": "Dream",
+            "totalFollowers": 46314095.99999999
+        },
+        {
+            "username": "drewgooden",
+            "displayName": "Drew Gooden",
+            "totalFollowers": 843179
+        },
+        {
             "username": "dunkey",
             "displayName": "dunkey",
-            "totalFollowers": 10415800
+            "totalFollowers": 10415900
+        },
+        {
+            "username": "eddyburback",
+            "displayName": "Eddy Burback",
+            "totalFollowers": 430898
+        },
+        {
+            "username": "emiru",
+            "displayName": "Emiru",
+            "totalFollowers": 4447641
+        },
+        {
+            "username": "emmachamberlain",
+            "displayName": "Emma Chamberlain",
+            "totalFollowers": 527697
+        },
+        {
+            "username": "ethanklein",
+            "displayName": "Ethan Klein",
+            "totalFollowers": 10019999
+        },
+        {
+            "username": "foolish",
+            "displayName": "Foolish Gamers",
+            "totalFollowers": 3299998
+        },
+        {
+            "username": "fruitberries",
+            "displayName": "Fruitberries",
+            "totalFollowers": 574016
+        },
+        {
+            "username": "georgenotfound",
+            "displayName": "GeorgeNotFound",
+            "totalFollowers": 26609999
         },
         {
             "username": "glorb",
             "displayName": "Glorb",
-            "totalFollowers": 2976815
+            "totalFollowers": 2977893
         },
         {
             "username": "grandayy",
             "displayName": "Grandayy",
-            "totalFollowers": 7702726
+            "totalFollowers": 7700941
+        },
+        {
+            "username": "gusjohnson",
+            "displayName": "Gus Johnson",
+            "totalFollowers": 379798
         },
         {
             "username": "gus",
             "displayName": "Gus Johnson",
-            "totalFollowers": 4580907
+            "totalFollowers": 4381907
+        },
+        {
+            "username": "h2odelirious",
+            "displayName": "H2ODelirious",
+            "totalFollowers": 13699998
+        },
+        {
+            "username": "h3h3",
+            "displayName": "H3H3 Productions",
+            "totalFollowers": 10019999
+        },
+        {
+            "username": "hasanabi",
+            "displayName": "HasanAbi",
+            "totalFollowers": 4770004
+        },
+        {
+            "username": "hbomb94",
+            "displayName": "HBomb94",
+            "totalFollowers": 958115
+        },
+        {
+            "username": "idubbbz",
+            "displayName": "iDubbbz",
+            "totalFollowers": 9600032
+        },
+        {
+            "username": "illumina",
+            "displayName": "Illumina",
+            "totalFollowers": 133
         },
         {
             "username": "ishowspeed",
             "displayName": "iShowSpeed",
-            "totalFollowers": 138600000
+            "totalFollowers": 141200000
+        },
+        {
+            "username": "jackmanifold",
+            "displayName": "Jack Manifold",
+            "totalFollowers": 3630832
+        },
+        {
+            "username": "jacksepticeye",
+            "displayName": "Jacksepticeye",
+            "totalFollowers": 36499997
+        },
+        {
+            "username": "jackfilms",
+            "displayName": "Jacksfilms",
+            "totalFollowers": 6550376
+        },
+        {
+            "username": "jaidenanimations",
+            "displayName": "Jaiden Animations",
+            "totalFollowers": 16800097
+        },
+        {
+            "username": "jakepaul",
+            "displayName": "Jake Paul",
+            "totalFollowers": 71699999
         },
         {
             "username": "jejkobbb",
             "displayName": "Jejkobbb",
             "totalFollowers": 356370
+        },
+        {
+            "username": "jennxpenn",
+            "displayName": "Jennxpenn",
+            "totalFollowers": 4400502
         },
         {
             "username": "jschlatt",
@@ -91,9 +301,34 @@
             "totalFollowers": 4252937
         },
         {
+            "username": "kaicenat",
+            "displayName": "Kai Cenat",
+            "totalFollowers": 30619999
+        },
+        {
+            "username": "karljacobs",
+            "displayName": "Karl Jacobs",
+            "totalFollowers": 21999998
+        },
+        {
+            "username": "keemstar",
+            "displayName": "KEEMSTAR",
+            "totalFollowers": 8144550
+        },
+        {
             "username": "kostamoinen",
             "displayName": "Kostamoinen",
-            "totalFollowers": 4963800
+            "totalFollowers": 4963900
+        },
+        {
+            "username": "ksi",
+            "displayName": "KSI",
+            "totalFollowers": 43741998
+        },
+        {
+            "username": "kurtisconner",
+            "displayName": "Kurtis Conner",
+            "totalFollowers": 8969999
         },
         {
             "username": "lazar",
@@ -101,9 +336,19 @@
             "totalFollowers": 34217000
         },
         {
+            "username": "lilypichu",
+            "displayName": "LilyPichu",
+            "totalFollowers": 5242899
+        },
+        {
             "username": "linustech",
             "displayName": "Linus Tech Tips",
             "totalFollowers": 36843897
+        },
+        {
+            "username": "loganpaul",
+            "displayName": "Logan Paul",
+            "totalFollowers": 91999999
         },
         {
             "username": "ludwig",
@@ -116,6 +361,11 @@
             "totalFollowers": 84800000
         },
         {
+            "username": "markiplier",
+            "displayName": "Markiplier",
+            "totalFollowers": 64199998
+        },
+        {
             "username": "mkbhd",
             "displayName": "Marques Brownlee",
             "totalFollowers": 37842000
@@ -123,7 +373,12 @@
         {
             "username": "maxxjamez",
             "displayName": "Maxx Jamez",
-            "totalFollowers": 103244
+            "totalFollowers": 103270
+        },
+        {
+            "username": "maya",
+            "displayName": "Maya",
+            "totalFollowers": 12418
         },
         {
             "username": "mega64",
@@ -131,19 +386,39 @@
             "totalFollowers": 954400
         },
         {
+            "username": "michaelreeves",
+            "displayName": "Michael Reeves",
+            "totalFollowers": 3000008
+        },
+        {
             "username": "mikopath",
             "displayName": "Mikopath",
-            "totalFollowers": 65596
+            "totalFollowers": 65381
+        },
+        {
+            "username": "miniminter",
+            "displayName": "Miniminter",
+            "totalFollowers": 23900000
         },
         {
             "username": "mintblitz",
             "displayName": "Mint Blitz",
-            "totalFollowers": 526000
+            "totalFollowers": 558500
         },
         {
             "username": "mrbeast",
             "displayName": "Mr. Beast",
-            "totalFollowers": 885413561
+            "totalFollowers": 885513662
+        },
+        {
+            "username": "nickmercs",
+            "displayName": "NICKMERCS",
+            "totalFollowers": 7489999
+        },
+        {
+            "username": "nihachu",
+            "displayName": "Nihachu",
+            "totalFollowers": 4800017
         },
         {
             "username": "ninja",
@@ -151,9 +426,19 @@
             "totalFollowers": 74503700
         },
         {
+            "username": "noelmiller",
+            "displayName": "Noel Miller",
+            "totalFollowers": 18590
+        },
+        {
+            "username": "nogla",
+            "displayName": "Nogla",
+            "totalFollowers": 250
+        },
+        {
             "username": "oboeshoesgames",
             "displayName": "oboeshoesgames",
-            "totalFollowers": 446576
+            "totalFollowers": 402577
         },
         {
             "username": "octopox",
@@ -161,14 +446,49 @@
             "totalFollowers": 2841
         },
         {
+            "username": "petezahhutt",
+            "displayName": "PeteZahHutt",
+            "totalFollowers": 1622004
+        },
+        {
             "username": "pewdiepie",
             "displayName": "PewDiePie",
-            "totalFollowers": 131691946
+            "totalFollowers": 131691733
+        },
+        {
+            "username": "philipdefranco",
+            "displayName": "Philip DeFranco",
+            "totalFollowers": 11309998
         },
         {
             "username": "pinkieoats",
             "displayName": "Pinkie Oats",
-            "totalFollowers": 28630
+            "totalFollowers": 28505
+        },
+        {
+            "username": "pointcrow",
+            "displayName": "PointCrow",
+            "totalFollowers": 3894499
+        },
+        {
+            "username": "pokimane",
+            "displayName": "Pokimane",
+            "totalFollowers": 20131081
+        },
+        {
+            "username": "purpled",
+            "displayName": "Purpled",
+            "totalFollowers": 1104466
+        },
+        {
+            "username": "quackity",
+            "displayName": "Quackity",
+            "totalFollowers": 12560032
+        },
+        {
+            "username": "quarterjade",
+            "displayName": "QuarterJade",
+            "totalFollowers": 3262399
         },
         {
             "username": "rabbert",
@@ -176,9 +496,29 @@
             "totalFollowers": 22609400
         },
         {
+            "username": "ranboo",
+            "displayName": "Ranboo",
+            "totalFollowers": 3485926
+        },
+        {
+            "username": "ryangeorge",
+            "displayName": "Ryan George",
+            "totalFollowers": 1830011
+        },
+        {
             "username": "ryitus",
             "displayName": "Ryitus",
             "totalFollowers": 18285
+        },
+        {
+            "username": "ryukahr",
+            "displayName": "Ryukahr",
+            "totalFollowers": 1576199
+        },
+        {
+            "username": "sapnap",
+            "displayName": "Sapnap",
+            "totalFollowers": 10790007
         },
         {
             "username": "scottthewoz",
@@ -186,24 +526,84 @@
             "totalFollowers": 3408500
         },
         {
+            "username": "seapeekay",
+            "displayName": "Seapeekay",
+            "totalFollowers": 959664
+        },
+        {
+            "username": "shroud",
+            "displayName": "shroud",
+            "totalFollowers": 10276900
+        },
+        {
+            "username": "skeppy",
+            "displayName": "Skeppy",
+            "totalFollowers": 9039999
+        },
+        {
+            "username": "slimecicle",
+            "displayName": "Slimecicle",
+            "totalFollowers": 6929999
+        },
+        {
+            "username": "smallant",
+            "displayName": "SmallAnt",
+            "totalFollowers": 5128961
+        },
+        {
             "username": "smosh",
             "displayName": "Smosh",
-            "totalFollowers": 69324701
+            "totalFollowers": 69323797
+        },
+        {
+            "username": "stampylonghead",
+            "displayName": "Stampy",
+            "totalFollowers": 91
+        },
+        {
+            "username": "summit1g",
+            "displayName": "summit1g",
+            "totalFollowers": 8183501
         },
         {
             "username": "sven",
             "displayName": "Sven Johnson",
-            "totalFollowers": 1553201
+            "totalFollowers": 1553342
+        },
+        {
+            "username": "sykkuno",
+            "displayName": "Sykkuno",
+            "totalFollowers": 8336802
+        },
+        {
+            "username": "tobiright",
+            "displayName": "TBJZL",
+            "totalFollowers": 5481710
+        },
+        {
+            "username": "technoblade",
+            "displayName": "Technoblade",
+            "totalFollowers": 25955000
+        },
+        {
+            "username": "tednivison",
+            "displayName": "Ted Nivison",
+            "totalFollowers": 4546199
         },
         {
             "username": "test",
             "displayName": "Testing",
-            "totalFollowers": 588046592
+            "totalFollowers": 588031479
+        },
+        {
+            "username": "tfue",
+            "displayName": "Tfue",
+            "totalFollowers": 20600202
         },
         {
             "username": "gametheory",
             "displayName": "The Game Theorists",
-            "totalFollowers": 46001600
+            "totalFollowers": 46002600
         },
         {
             "username": "gamingcave",
@@ -211,9 +611,24 @@
             "totalFollowers": 528
         },
         {
+            "username": "theodd1sout",
+            "displayName": "TheOdd1sOut",
+            "totalFollowers": 22300330
+        },
+        {
             "username": "thrilldawill",
             "displayName": "ThrillDaWill",
-            "totalFollowers": 139614
+            "totalFollowers": 139613
+        },
+        {
+            "username": "timthetatman",
+            "displayName": "TimTheTatman",
+            "totalFollowers": 12419999
+        },
+        {
+            "username": "tommyinnit",
+            "displayName": "TommyInnit",
+            "totalFollowers": 38299999
         },
         {
             "username": "trevorwallace",
@@ -221,15 +636,55 @@
             "totalFollowers": 27802026
         },
         {
+            "username": "tubbo",
+            "displayName": "Tubbo",
+            "totalFollowers": 7921197
+        },
+        {
+            "username": "valkyrae",
+            "displayName": "Valkyrae",
+            "totalFollowers": 13970000
+        },
+        {
+            "username": "vanossgaming",
+            "displayName": "VanossGaming",
+            "totalFollowers": 28800269
+        },
+        {
+            "username": "vikkstar123",
+            "displayName": "Vikkstar123",
+            "totalFollowers": 11319104
+        },
+        {
             "username": "vsauce",
             "displayName": "VSauce",
-            "totalFollowers": 33132800
+            "totalFollowers": 33132900
+        },
+        {
+            "username": "wilbursoot",
+            "displayName": "Wilbur Soot",
+            "totalFollowers": 7925399
+        },
+        {
+            "username": "williamosman",
+            "displayName": "William Osman",
+            "totalFollowers": 857152
+        },
+        {
+            "username": "xqc",
+            "displayName": "xQc",
+            "totalFollowers": 16170511
+        },
+        {
+            "username": "zerkaa",
+            "displayName": "Zerkaa",
+            "totalFollowers": 9789999
         },
         {
             "username": "zimonitrome",
             "displayName": "ZimoNitrome",
-            "totalFollowers": 362014
+            "totalFollowers": 362023
         }
     ],
-    "timeRetrieved": 1767017742698
+    "timeRetrieved": 1767033234792
 }

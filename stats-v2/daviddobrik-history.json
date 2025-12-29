@@ -1,0 +1,66 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "DavidDobrik",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 17200000,
+                    "timestamp": 1767029201290
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Dobrik",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "daviddobrik",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "daviddobrik",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 25100000,
+                    "timestamp": 1767029235523
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "DavidDobrik",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4400000,
+                    "timestamp": 1767029228149
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DavidDobrik",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 7515305650,
+                    "timestamp": 1767029201290
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Dobrik",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

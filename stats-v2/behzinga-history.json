@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Behzinga",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4920000,
+                    "timestamp": 1767032281843
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "behzinga",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "behzinga",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 62,
+                    "timestamp": 1767032318787
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "behzinga",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 535000,
+                    "timestamp": 1767032311436
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Behzinga",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2700000,
+                    "timestamp": 1767032303957
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Behzinga",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 585137611,
+                    "timestamp": 1767032281843
+                }
+            ]
+        }
+    ]
+}

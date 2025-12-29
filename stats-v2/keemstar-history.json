@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "KEEMSTAR",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 189000,
+                    "timestamp": 1767031134103
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DramaAlert",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5250000,
+                    "timestamp": 1767031139719
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "keemstar",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 174000,
+                    "timestamp": 1767031146947
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "keemstar",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 550,
+                    "timestamp": 1767031169193
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "keemstar",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 131000,
+                    "timestamp": 1767031161857
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "KEEMSTAR",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2400000,
+                    "timestamp": 1767031154109
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "KEEMSTAR",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 693826,
+                    "timestamp": 1767031134103
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DramaAlert",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1267707754,
+                    "timestamp": 1767031139719
+                }
+            ]
+        }
+    ]
+}

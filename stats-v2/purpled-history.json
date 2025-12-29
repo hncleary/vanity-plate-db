@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Purpled",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4330,
+                    "timestamp": 1767028086463
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "purpled",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "purpled",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 33,
+                    "timestamp": 1767028122520
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "purpled",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1100000,
+                    "timestamp": 1767028115601
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Purpled",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 104,
+                    "timestamp": 1767028108266
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Purpled",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3235870,
+                    "timestamp": 1767028086463
+                }
+            ]
+        }
+    ]
+}

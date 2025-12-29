@@ -1,0 +1,66 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "jacksepticeye",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 31100000,
+                    "timestamp": 1767027495964
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "jacksepticeye",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "jacksepticeye",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5400000,
+                    "timestamp": 1767027533234
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "jacksepticeye",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767027525281
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Jack_Septic_Eye",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Facebook",
+            "username": "Jacksepticeye",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jacksepticeye",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 17437539731,
+                    "timestamp": 1767027495964
+                }
+            ]
+        }
+    ]
+}

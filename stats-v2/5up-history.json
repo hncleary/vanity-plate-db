@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "5up",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 649000,
+                    "timestamp": 1767028688363
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "5up",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "5up",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 597,
+                    "timestamp": 1767028725117
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "5up",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 908000,
+                    "timestamp": 1767028717977
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "5uppp",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7,
+                    "timestamp": 1767028710163
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "5up",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 214887069,
+                    "timestamp": 1767028688363
+                }
+            ]
+        }
+    ]
+}

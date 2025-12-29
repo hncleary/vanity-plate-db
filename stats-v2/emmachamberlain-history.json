@@ -1,0 +1,39 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "emma chamberlain",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "emmachamberlain",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "emmachamberlain",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 527700,
+                    "timestamp": 1767026916557
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "emmachamberlain",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "emma chamberlain",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "CallMeCarson",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2500000,
+                    "timestamp": 1767029116685
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "callmecarson",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "callmecarson",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 66,
+                    "timestamp": 1767029152578
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "callmecarson",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 179,
+                    "timestamp": 1767029146009
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "CallMeCarsonYT",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 948900,
+                    "timestamp": 1767029138179
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "CallMeCarson",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 421648902,
+                    "timestamp": 1767029116685
+                }
+            ]
+        }
+    ]
+}

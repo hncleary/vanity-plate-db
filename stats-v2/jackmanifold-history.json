@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "JackManifoldTV",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1830000,
+                    "timestamp": 1767030663420
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "jackmanifold",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 329,
+                    "timestamp": 1767030670936
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "jackmanifold",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767030693469
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "jackmanifold",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 503,
+                    "timestamp": 1767030685712
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "JackManifoldTV",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1800000,
+                    "timestamp": 1767030678483
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "JackManifoldTV",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 93514701,
+                    "timestamp": 1767030663420
+                }
+            ]
+        }
+    ]
+}

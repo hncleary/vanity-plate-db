@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "TedNivison",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2350000,
+                    "timestamp": 1767032324018
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "tednivison",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "tednivison",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1100000,
+                    "timestamp": 1767032359997
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "tednivison",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 312000,
+                    "timestamp": 1767032353018
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "tednivison",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 784200,
+                    "timestamp": 1767032345813
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TedNivison",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 219271319,
+                    "timestamp": 1767032324018
+                }
+            ]
+        }
+    ]
+}

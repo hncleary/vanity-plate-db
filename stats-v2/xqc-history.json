@@ -1,0 +1,92 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "xQc",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7580,
+                    "timestamp": 1767031021626
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "xQcOW",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2460000,
+                    "timestamp": 1767031028041
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "xqc",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2905,
+                    "timestamp": 1767031035593
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "xqc",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 26,
+                    "timestamp": 1767031057591
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "xqc",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 12200000,
+                    "timestamp": 1767031050828
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "xQc",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1500000,
+                    "timestamp": 1767031043515
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "xQc",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 813420,
+                    "timestamp": 1767031021626
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "xQcOW",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1826921883,
+                    "timestamp": 1767031028041
+                }
+            ]
+        }
+    ]
+}

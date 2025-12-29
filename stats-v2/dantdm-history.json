@@ -1,0 +1,61 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "TheDiamondMinecart",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "dantdm",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "dantdm",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3700000,
+                    "timestamp": 1767029899948
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "dantdm",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1700000,
+                    "timestamp": 1767029892890
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "DanTDM",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2100000,
+                    "timestamp": 1767029885399
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "DanTDM",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TheDiamondMinecart",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "kaicenat",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7420000,
+                    "timestamp": 1767029457547
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "kaicenat",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "kaicenat",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767029494693
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "kaicenat",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 20100000,
+                    "timestamp": 1767029486931
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "KaiCenat",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3100000,
+                    "timestamp": 1767029479609
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "kaicenat",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 425039097,
+                    "timestamp": 1767029457547
+                }
+            ]
+        }
+    ]
+}

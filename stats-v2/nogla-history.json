@@ -1,0 +1,55 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Nogla",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "nogla",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 19,
+                    "timestamp": 1767030299157
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "nogla",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 233,
+                    "timestamp": 1767030320863
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "nogla",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767030313462
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Nogla",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Nogla",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "NICKMERCS",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4090000,
+                    "timestamp": 1767028642944
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "nickmercs",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "nickmercs",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1400000,
+                    "timestamp": 1767028681916
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "nickmercs",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767028673780
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "NICKMERCS",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1767028666359
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "NICKMERCS",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 924400272,
+                    "timestamp": 1767028642944
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Fruitberries",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 574000,
+                    "timestamp": 1767027582338
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "fruitberries",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "fruitberries",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767027620040
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "fruitberries",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767027612416
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Fruitberries",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 17,
+                    "timestamp": 1767027604447
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Fruitberries",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 83969834,
+                    "timestamp": 1767027582338
+                }
+            ]
+        }
+    ]
+}

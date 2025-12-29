@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Nihachu",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 18,
+                    "timestamp": 1767028600144
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "nihachu",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "nihachu",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767028637195
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "nihachu",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2600000,
+                    "timestamp": 1767028629880
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Nihachu",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2200000,
+                    "timestamp": 1767028622664
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Nihachu",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 97,
+                    "timestamp": 1767028600144
+                }
+            ]
+        }
+    ]
+}

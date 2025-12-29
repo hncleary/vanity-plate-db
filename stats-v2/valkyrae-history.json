@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Valkyrae",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4070000.0000000005,
+                    "timestamp": 1767031175386
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "valkyrae",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1767031182311
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "valkyrae",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2400000,
+                    "timestamp": 1767031203838
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "valkyrae",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1600000,
+                    "timestamp": 1767031196837
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Valkyrae",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2900000,
+                    "timestamp": 1767031189528
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Valkyrae",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 914503664,
+                    "timestamp": 1767031175386
+                }
+            ]
+        }
+    ]
+}

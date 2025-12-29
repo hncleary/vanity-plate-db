@@ -1,0 +1,54 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "kurtisconner",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5570000,
+                    "timestamp": 1767032909011
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "kurtisconner",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "kurtisconner",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2400000,
+                    "timestamp": 1767032938472
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "kurtisconner",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1767032931013
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "kurtisconner",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1137653586,
+                    "timestamp": 1767032909011
+                }
+            ]
+        }
+    ]
+}

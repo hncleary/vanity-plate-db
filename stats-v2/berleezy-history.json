@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Berleezy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2850000,
+                    "timestamp": 1767031098913
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "berleezy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1767031106856
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "berleezy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 133900,
+                    "timestamp": 1767031128483
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "berleezy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 723000,
+                    "timestamp": 1767031121565
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Berleezy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 53900,
+                    "timestamp": 1767031114004
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Berleezy",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 932312358,
+                    "timestamp": 1767031098913
+                }
+            ]
+        }
+    ]
+}

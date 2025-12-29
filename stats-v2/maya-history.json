@@ -1,0 +1,60 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Maya",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 270,
+                    "timestamp": 1767028357087
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "maya",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "maya",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2556,
+                    "timestamp": 1767028393766
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "maya",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767028385925
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "maya",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 9593,
+                    "timestamp": 1767028378321
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Maya",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

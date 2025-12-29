@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "DashieGames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7070000,
+                    "timestamp": 1767030033567
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "dashiegames",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "dashiegames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767030070031
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "dashiegames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6500,
+                    "timestamp": 1767030063480
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "DashieGames",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 540,
+                    "timestamp": 1767030055697
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DashieGames",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3394935788,
+                    "timestamp": 1767030033567
+                }
+            ]
+        }
+    ]
+}

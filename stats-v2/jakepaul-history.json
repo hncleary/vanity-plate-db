@@ -1,0 +1,87 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "jakepaul",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 20900000,
+                    "timestamp": 1767032101913
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "JakePaul",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 20900000,
+                    "timestamp": 1767032107915
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "jakepaul",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "jakepaul",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 19300000,
+                    "timestamp": 1767032136392
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "jakepaul",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4400000,
+                    "timestamp": 1767032129128
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "JakePaul",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6200000,
+                    "timestamp": 1767032143738
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jakepaul",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 7926380378,
+                    "timestamp": 1767032101913
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "JakePaul",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 7926380378,
+                    "timestamp": 1767032107915
+                }
+            ]
+        }
+    ]
+}

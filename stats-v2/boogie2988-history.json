@@ -1,0 +1,54 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "boogie2988",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3890000,
+                    "timestamp": 1767028293818
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "boogie2988",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Twitch",
+            "username": "boogie2988",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 405000,
+                    "timestamp": 1767028322923
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Boogie2988",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 432600,
+                    "timestamp": 1767028315357
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "boogie2988",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 945079622,
+                    "timestamp": 1767028293818
+                }
+            ]
+        }
+    ]
+}

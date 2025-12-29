@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Skeppy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6140000,
+                    "timestamp": 1767027846080
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "skeppy",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "skeppy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767027883715
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "skeppy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1767027875968
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Skeppy",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1900000,
+                    "timestamp": 1767027867990
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Skeppy",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1713090223,
+                    "timestamp": 1767027846080
+                }
+            ]
+        }
+    ]
+}

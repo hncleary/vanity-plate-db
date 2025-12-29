@@ -1,0 +1,82 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "LoganPaul",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LoganPaulVlogs",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 23600000,
+                    "timestamp": 1767030923285
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "loganpaul",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 27000000,
+                    "timestamp": 1767030930934
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "loganpaul",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 19000000,
+                    "timestamp": 1767030946068
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "LoganPaul",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6400000,
+                    "timestamp": 1767030938724
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "LoganPaul",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 16000000,
+                    "timestamp": 1767030952923
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LoganPaul",
+            "countUnits": 1,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LoganPaulVlogs",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 6116481143,
+                    "timestamp": 1767030923285
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Amouranth",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "amouranth",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "amouranth",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1853,
+                    "timestamp": 1767027925683
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "amouranth",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6100000,
+                    "timestamp": 1767027917898
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Amouranth",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3700000,
+                    "timestamp": 1767027910405
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Amouranth",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

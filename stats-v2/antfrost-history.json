@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Antfrost",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 673000,
+                    "timestamp": 1767032060415
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "antfrost",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "antfrost",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3,
+                    "timestamp": 1767032095951
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "antfrost",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 608000,
+                    "timestamp": 1767032089256
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Antfrost",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1200000,
+                    "timestamp": 1767032081962
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Antfrost",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 2685672,
+                    "timestamp": 1767032060415
+                }
+            ]
+        }
+    ]
+}

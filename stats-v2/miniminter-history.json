@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Miniminter",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 10500000,
+                    "timestamp": 1767030784488
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "miniminter",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6000000,
+                    "timestamp": 1767030791764
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "miniminter",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2300000,
+                    "timestamp": 1767030813858
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "miniminter",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2100000,
+                    "timestamp": 1767030806726
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Miniminter",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1767030798993
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Miniminter",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 4359056826,
+                    "timestamp": 1767030784488
+                }
+            ]
+        }
+    ]
+}

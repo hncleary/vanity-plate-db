@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "WilburSoot",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 608000,
+                    "timestamp": 1767033128741
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "wilbursoot",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "wilbursoot",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 17400,
+                    "timestamp": 1767033164646
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "wilbursoot",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4400000,
+                    "timestamp": 1767033157277
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "WilburSoot",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2900000,
+                    "timestamp": 1767033149279
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "WilburSoot",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 6794875,
+                    "timestamp": 1767033128741
+                }
+            ]
+        }
+    ]
+}

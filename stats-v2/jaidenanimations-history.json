@@ -1,0 +1,59 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "jaidenanimations",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 15000000,
+                    "timestamp": 1767031209124
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "jaidenanimations",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 97,
+                    "timestamp": 1767031216615
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "jaidenanimations",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767031231094
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "JaidenAnimation",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1800000,
+                    "timestamp": 1767031224200
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "jaidenanimations",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3064405820,
+                    "timestamp": 1767031209124
+                }
+            ]
+        }
+    ]
+}

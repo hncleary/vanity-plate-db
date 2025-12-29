@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "summit1g",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 807000,
+                    "timestamp": 1767029740089
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "summit1g",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "summit1g",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2,
+                    "timestamp": 1767029777042
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "summit1g",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6400000,
+                    "timestamp": 1767029769667
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "summit1g",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 976500,
+                    "timestamp": 1767029761731
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "summit1g",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 201116916,
+                    "timestamp": 1767029740089
+                }
+            ]
+        }
+    ]
+}

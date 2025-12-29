@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Seapeekay",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 650000,
+                    "timestamp": 1767028990718
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "seapeekay",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "seapeekay",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 65,
+                    "timestamp": 1767029027539
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "seapeekay",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767029019897
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Seapeekay",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 309600,
+                    "timestamp": 1767029011313
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Seapeekay",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 136439387,
+                    "timestamp": 1767028990718
+                }
+            ]
+        }
+    ]
+}

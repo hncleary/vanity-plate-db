@@ -1,0 +1,76 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "codyko",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5510000,
+                    "timestamp": 1767029275795
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "codyko2",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1920000,
+                    "timestamp": 1767029281244
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "codyko",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "codyko",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2500000,
+                    "timestamp": 1767029310487
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "codyko",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1600000,
+                    "timestamp": 1767029302931
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "codyko",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1578555900,
+                    "timestamp": 1767029275795
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "codyko2",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 598616892,
+                    "timestamp": 1767029281244
+                }
+            ]
+        }
+    ]
+}

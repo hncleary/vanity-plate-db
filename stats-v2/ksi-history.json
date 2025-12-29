@@ -1,0 +1,88 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "KSI",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 17000000,
+                    "timestamp": 1767027219996
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "KSIOlajidebtHD",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "ksi",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "ksi",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 12200000,
+                    "timestamp": 1767027260422
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "ksi",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 442000,
+                    "timestamp": 1767027253621
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "KSI",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 8300000.000000001,
+                    "timestamp": 1767027246029
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "KSIOlajidebt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5800000,
+                    "timestamp": 1767027267775
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "KSI",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 4631671189,
+                    "timestamp": 1767027219996
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "KSIOlajidebtHD",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

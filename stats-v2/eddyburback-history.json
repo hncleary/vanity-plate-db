@@ -1,0 +1,44 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Eddy Burback",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "eddyburback",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "eddyburback",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767029270045
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "eddyburback",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 430900,
+                    "timestamp": 1767029263324
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Eddy Burback",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

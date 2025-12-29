@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "LilyPichu",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3080000,
+                    "timestamp": 1767031963006
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "lilypichu",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "lilypichu",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 562900,
+                    "timestamp": 1767031999445
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "lilypichu",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767031991387
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "LilyPichu",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1600000,
+                    "timestamp": 1767031984145
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "LilyPichu",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 622969721,
+                    "timestamp": 1767031963006
+                }
+            ]
+        }
+    ]
+}

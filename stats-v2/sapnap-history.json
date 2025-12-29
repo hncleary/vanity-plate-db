@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Sapnap",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4490000,
+                    "timestamp": 1767029159013
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "sapnap",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "sapnap",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 8,
+                    "timestamp": 1767029195514
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "sapnap",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3100000,
+                    "timestamp": 1767029188754
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "sapnap",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3200000,
+                    "timestamp": 1767029181525
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Sapnap",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 176090669,
+                    "timestamp": 1767029159013
+                }
+            ]
+        }
+    ]
+}

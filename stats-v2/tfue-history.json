@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Tfue",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 203,
+                    "timestamp": 1767029380136
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "tfue",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "tfue",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5300000,
+                    "timestamp": 1767029416674
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "tfue",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 11300000,
+                    "timestamp": 1767029409162
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Tfue",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4000000,
+                    "timestamp": 1767029401740
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Tfue",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1801,
+                    "timestamp": 1767029380136
+                }
+            ]
+        }
+    ]
+}

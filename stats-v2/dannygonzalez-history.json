@@ -1,0 +1,49 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Danny Gonzalez",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "dannygonzalez",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1767031451021
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "dannygonzalez",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2600000,
+                    "timestamp": 1767031466349
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "DannyGonzalez",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 891700,
+                    "timestamp": 1767031458821
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Danny Gonzalez",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

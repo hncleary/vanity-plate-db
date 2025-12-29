@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "iDubbbzTV",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6910000,
+                    "timestamp": 1767027138047
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "idubbbztv2",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2690000,
+                    "timestamp": 1767027144359
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "idubbbz",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Twitter",
+            "username": "idubbbztv",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 33,
+                    "timestamp": 1767027166408
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "iDubbbzTV",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1252205813,
+                    "timestamp": 1767027138047
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "idubbbztv2",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 167898055,
+                    "timestamp": 1767027144359
+                }
+            ]
+        }
+    ]
+}

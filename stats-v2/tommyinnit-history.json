@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "tommyinnit",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 15000000,
+                    "timestamp": 1767026787996
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "tommyinnit",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "tommyinnit",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 11800000,
+                    "timestamp": 1767026829563
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "tommyinnit",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7300000,
+                    "timestamp": 1767026820957
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "tommyinnit",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4200000,
+                    "timestamp": 1767026812482
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "tommyinnit",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 2614119239,
+                    "timestamp": 1767026787996
+                }
+            ]
+        }
+    ]
+}

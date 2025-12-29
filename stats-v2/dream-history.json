@@ -1,0 +1,98 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "dream",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 33299999.999999996,
+                    "timestamp": 1767027397454
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "dreamXD",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4139999.9999999995,
+                    "timestamp": 1767027403281
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "dreamwastaken",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "dreamwastaken",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 97,
+                    "timestamp": 1767027446612
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "dreamwastaken",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 874000,
+                    "timestamp": 1767027439219
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "dreamwastaken",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2300000,
+                    "timestamp": 1767027425152
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "dream",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5700000,
+                    "timestamp": 1767027432115
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "dream",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 3850754220,
+                    "timestamp": 1767027397454
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "dreamXD",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 327157849,
+                    "timestamp": 1767027403281
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Illumina",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "illumina",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "illumina",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 16,
+                    "timestamp": 1767027350650
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "illumina",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 112,
+                    "timestamp": 1767027343329
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Illumina1337",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7,
+                    "timestamp": 1767027335683
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Illumina",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Quackity",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6160000,
+                    "timestamp": 1767032471653
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "quackity",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "quackity",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 34,
+                    "timestamp": 1767032507751
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "quackity",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6400000,
+                    "timestamp": 1767032500213
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "QuackityHQ",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Quackity",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 521398351,
+                    "timestamp": 1767032471653
+                }
+            ]
+        }
+    ]
+}

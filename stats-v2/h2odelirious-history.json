@@ -1,0 +1,49 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "H2ODelirious",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 13700000,
+                    "timestamp": 1767031828664
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "h2odelirious",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Twitch",
+            "username": "h2odelirious",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767031857976
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "H2ODelirious",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "H2ODelirious",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 4628780345,
+                    "timestamp": 1767031828664
+                }
+            ]
+        }
+    ]
+}

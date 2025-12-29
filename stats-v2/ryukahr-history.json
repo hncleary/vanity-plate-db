@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Ryukahr",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 821000,
+                    "timestamp": 1767028044959
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "ryukahr",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "ryukahr",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 511100,
+                    "timestamp": 1767028080161
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "ryukahr",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 201000,
+                    "timestamp": 1767028072602
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Ryukahr",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 43100,
+                    "timestamp": 1767028065456
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Ryukahr",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 532492363,
+                    "timestamp": 1767028044959
+                }
+            ]
+        }
+    ]
+}

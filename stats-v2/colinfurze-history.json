@@ -1,0 +1,54 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "colinfurze",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 13300000,
+                    "timestamp": 1767029422646
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "colinfurze",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "colinfurze",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2100000,
+                    "timestamp": 1767029451481
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "colinfurze",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 27,
+                    "timestamp": 1767029444211
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "colinfurze",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1899353305,
+                    "timestamp": 1767029422646
+                }
+            ]
+        }
+    ]
+}

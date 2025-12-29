@@ -1,0 +1,70 @@
+{
+    "id": "emmachamberlain",
+    "displayName": "Emma Chamberlain",
+    "youtubeStats": [
+        {
+            "platformName": "YouTube",
+            "timeRetrieved": 1767026887646,
+            "link": "https://www.youtube.com/@emma chamberlain/",
+            "displayName": "",
+            "username": "emma chamberlain",
+            "followerCount": -1,
+            "followerLabel": "Subscribers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalViews": -1
+        }
+    ],
+    "instaStats": [
+        {
+            "platformName": "Instagram",
+            "timeRetrieved": -1,
+            "link": "https://www.instagram.com/emmachamberlain",
+            "displayName": "",
+            "username": "emmachamberlain",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalPosts": -1
+        }
+    ],
+    "threadsStats": [],
+    "spotifyStats": [],
+    "newgroundsStats": [],
+    "soundcloudStats": [],
+    "twitterStats": [
+        {
+            "platformName": "Twitter",
+            "timeRetrieved": 1767026909713,
+            "link": "https://twitter.com/emmachamberlain",
+            "displayName": "",
+            "username": "emmachamberlain",
+            "followerCount": -1,
+            "followerLabel": "Followers",
+            "followingCount": -1,
+            "iconBase64": "",
+            "iconUrl": "",
+            "totalTweets": -1
+        }
+    ],
+    "twitchStats": [],
+    "tiktokStats": [
+        {
+            "platformName": "Tik Tok",
+            "timeRetrieved": 1767026916557,
+            "link": "https://www.tiktok.com/@emmachamberlain?lang=en",
+            "displayName": "emma chamberlain",
+            "username": "emmachamberlain",
+            "followerCount": 527700,
+            "followerLabel": "Followers",
+            "followingCount": 2,
+            "iconBase64": "",
+            "iconUrl": "",
+            "likes": 1500000
+        }
+    ],
+    "facebookStats": []
+}

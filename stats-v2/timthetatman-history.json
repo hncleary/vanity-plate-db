@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "TimTheTatman",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5620000,
+                    "timestamp": 1767032366388
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "timthetatman",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "timthetatman",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4099999.9999999995,
+                    "timestamp": 1767032401840
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "timthetatman",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767032394900
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "TimTheTatman",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2700000,
+                    "timestamp": 1767032387471
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "TimTheTatman",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1548738463,
+                    "timestamp": 1767032366388
+                }
+            ]
+        }
+    ]
+}

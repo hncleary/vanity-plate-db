@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "DisguisedToast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3790000,
+                    "timestamp": 1767028475886
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "disguisedtoast",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "disguisedtoast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1,
+                    "timestamp": 1767028512096
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "disguisedtoast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2800000,
+                    "timestamp": 1767028504774
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "DisguisedToast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1500000,
+                    "timestamp": 1767028497109
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DisguisedToast",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1560099624,
+                    "timestamp": 1767028475886
+                }
+            ]
+        }
+    ]
+}

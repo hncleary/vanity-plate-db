@@ -1,0 +1,55 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Michael Reeves",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "michaelreeves",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "michaelreeves",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 10,
+                    "timestamp": 1767027692972
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "michaelreeves",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1500000,
+                    "timestamp": 1767027685912
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "michaelreeves",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1500000,
+                    "timestamp": 1767027678695
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Michael Reeves",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

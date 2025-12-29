@@ -1,0 +1,55 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Foolish Gamers",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "foolishgamers",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "foolishgamers",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767027309331
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "foolish",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2200000,
+                    "timestamp": 1767027301924
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "FoolishGamers",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1100000,
+                    "timestamp": 1767027294460
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Foolish Gamers",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

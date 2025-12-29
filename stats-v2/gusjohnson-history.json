@@ -1,0 +1,44 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Gus Johnson",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "gusjohnson",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "gusjohnson",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767027959419
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Gusbuckets",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 379800,
+                    "timestamp": 1767027952613
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Gus Johnson",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

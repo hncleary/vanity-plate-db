@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "h3h3productions",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5520000,
+                    "timestamp": 1767028400068
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "h3podcast",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2600000,
+                    "timestamp": 1767028406489
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "h3h3productions",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Twitter",
+            "username": "h3h3productions",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1900000,
+                    "timestamp": 1767028427954
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "h3h3productions",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1383409193,
+                    "timestamp": 1767028400068
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "h3podcast",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1530670941,
+                    "timestamp": 1767028406489
+                }
+            ]
+        }
+    ]
+}

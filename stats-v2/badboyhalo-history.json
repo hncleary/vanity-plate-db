@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "BadBoyHalo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 55400,
+                    "timestamp": 1767028434466
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "badboyhalo",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "badboyhalo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 214,
+                    "timestamp": 1767028470325
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "badboyhalo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2600000,
+                    "timestamp": 1767028463093
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "badboyhalo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1767028455920
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "BadBoyHalo",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 4969110,
+                    "timestamp": 1767028434466
+                }
+            ]
+        }
+    ]
+}

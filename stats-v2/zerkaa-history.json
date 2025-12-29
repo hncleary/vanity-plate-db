@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Zerkaa",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4690000,
+                    "timestamp": 1767029500718
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "zerkaa",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "zerkaa",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1400000,
+                    "timestamp": 1767029537467
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "zerkaa",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1500000,
+                    "timestamp": 1767029530263
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "ZerkaaHD",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2200000,
+                    "timestamp": 1767029522697
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Zerkaa",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 891481801,
+                    "timestamp": 1767029500718
+                }
+            ]
+        }
+    ]
+}

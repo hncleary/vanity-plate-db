@@ -1,0 +1,59 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Jennxpenn",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3400000,
+                    "timestamp": 1767030958846
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "jennxpenn",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1767030966048
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "jennxpenn",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 154,
+                    "timestamp": 1767030980075
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Jennxpenn",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 348,
+                    "timestamp": 1767030972994
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Jennxpenn",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 384356584,
+                    "timestamp": 1767030958846
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Technoblade",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 21300000,
+                    "timestamp": 1767028874940
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "technoblade",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 855000,
+                    "timestamp": 1767028890951
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "technothepig",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3800000,
+                    "timestamp": 1767028883459
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Technoblade",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 2033393969,
+                    "timestamp": 1767028874940
+                }
+            ]
+        }
+    ]
+}

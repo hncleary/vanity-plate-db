@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "GeorgeNotFound",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 9810000,
+                    "timestamp": 1767032757493
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "georgenotfound",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "georgenotfound",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 8300000.000000001,
+                    "timestamp": 1767032793591
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "georgenotfound",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4800000,
+                    "timestamp": 1767032786428
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "GeorgeNotFound",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3700000,
+                    "timestamp": 1767032778721
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "GeorgeNotFound",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 694856670,
+                    "timestamp": 1767032757493
+                }
+            ]
+        }
+    ]
+}

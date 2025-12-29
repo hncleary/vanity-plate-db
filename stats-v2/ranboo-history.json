@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Ranboo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3480000,
+                    "timestamp": 1767031343227
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "ranboo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2735,
+                    "timestamp": 1767031350610
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "ranboo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 92,
+                    "timestamp": 1767031371612
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "ranboo",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3100,
+                    "timestamp": 1767031364359
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "RanbooLive",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Ranboo",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 59794217,
+                    "timestamp": 1767031343227
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "PointCrow",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2720000,
+                    "timestamp": 1767027802826
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "pointcrow",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "pointcrow",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 212000,
+                    "timestamp": 1767027840714
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "pointcrow",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 779000,
+                    "timestamp": 1767027833179
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "PointCrow",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 183500,
+                    "timestamp": 1767027824964
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "PointCrow",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 737429171,
+                    "timestamp": 1767027802826
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Emiru",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1560000,
+                    "timestamp": 1767030138390
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "emiru",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 41,
+                    "timestamp": 1767030145787
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "emiru",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1767030167400
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "emiru",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767030160061
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "emiru",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 887600,
+                    "timestamp": 1767030153009
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Emiru",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 991655626,
+                    "timestamp": 1767030138390
+                }
+            ]
+        }
+    ]
+}

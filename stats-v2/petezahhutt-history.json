@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "PeteZahHutt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 856000,
+                    "timestamp": 1767028558822
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "petezahhutt",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "petezahhutt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5,
+                    "timestamp": 1767028594507
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "petezahhutt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 458000,
+                    "timestamp": 1767028586457
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "PeteZahHutt",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 308000,
+                    "timestamp": 1767028579663
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "PeteZahHutt",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 229617441,
+                    "timestamp": 1767028558822
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "DrewGooden",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 80,
+                    "timestamp": 1767028258410
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "drewgooden",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "drewgooden",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 47100,
+                    "timestamp": 1767028288500
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "drewisgooden",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 796000,
+                    "timestamp": 1767028280830
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "DrewGooden",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1939,
+                    "timestamp": 1767028258410
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "RyanGeorge",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1830000,
+                    "timestamp": 1767033095918
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "ryangeorge",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "ryangeorge",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3,
+                    "timestamp": 1767033122889
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "RyanGeorge",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 9,
+                    "timestamp": 1767033116431
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "RyanGeorge",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 686851533,
+                    "timestamp": 1767033095918
+                }
+            ]
+        }
+    ]
+}

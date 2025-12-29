@@ -1,0 +1,88 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "markiplier",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 38100000,
+                    "timestamp": 1767029061192
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "MarkiplierGAME",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "markiplier",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "markiplier",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7500000,
+                    "timestamp": 1767029103314
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "markiplier",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 2500000,
+                    "timestamp": 1767029096208
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "markiplier",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 12700000,
+                    "timestamp": 1767029088514
+                }
+            ]
+        },
+        {
+            "platformName": "Facebook",
+            "username": "markiplier",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3400000,
+                    "timestamp": 1767029110391
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "markiplier",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 23086988648,
+                    "timestamp": 1767029061192
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "MarkiplierGAME",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

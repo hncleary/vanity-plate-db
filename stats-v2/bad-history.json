@@ -1,0 +1,55 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Bad",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 124,
+                    "timestamp": 1767029782827
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "bad",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "bad",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 166,
+                    "timestamp": 1767029818444
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "bad",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767029811795
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Bad",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Bad",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Karl Jacobs",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "karljacobs",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "karljacobs",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 13800000,
+                    "timestamp": 1767029859606
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "karljacobs",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3500000,
+                    "timestamp": 1767029852518
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "KarlJacobs_",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4700000,
+                    "timestamp": 1767029845018
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Karl Jacobs",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

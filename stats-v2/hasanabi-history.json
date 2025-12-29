@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "hasanabi",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1770000,
+                    "timestamp": 1767030173517
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "hasanabi",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767030181020
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "hasanabi",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 5,
+                    "timestamp": 1767030202774
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "hasanabi",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1767030195716
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "hasanabi",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "YouTube",
+            "username": "hasanabi",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 946209579,
+                    "timestamp": 1767030173517
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "pokimane",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6630000,
+                    "timestamp": 1767030749289
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "pokimane",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 994,
+                    "timestamp": 1767030756505
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "pokimane",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 87,
+                    "timestamp": 1767030778949
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "pokimane",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 9400000,
+                    "timestamp": 1767030771612
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "pokimanelol",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4099999.9999999995,
+                    "timestamp": 1767030763829
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "pokimane",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 78584772,
+                    "timestamp": 1767030749289
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Charles White",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "charliewinsmore",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Twitch",
+            "username": "charliewinsmore",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767027653215
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "charliewinsmore",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6375,
+                    "timestamp": 1767027645670
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Charles White",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

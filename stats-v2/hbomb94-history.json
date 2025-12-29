@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "HBomb94",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 464000,
+                    "timestamp": 1767032945040
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "hbomb94",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "hbomb94",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 4116,
+                    "timestamp": 1767032981411
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "hbomb94",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767032974266
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "HBomb94",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 490000,
+                    "timestamp": 1767032967214
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "HBomb94",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 82780045,
+                    "timestamp": 1767032945040
+                }
+            ]
+        }
+    ]
+}

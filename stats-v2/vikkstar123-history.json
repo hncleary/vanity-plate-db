@@ -1,0 +1,65 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "Vikkstar123",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 7560000,
+                    "timestamp": 1767027356531
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "vikkstar123",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "vikkstar123",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 105,
+                    "timestamp": 1767027391955
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "vikkstar123",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 759000,
+                    "timestamp": 1767027385216
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "Vikkstar123",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1767027377626
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "Vikkstar123",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 2204215646,
+                    "timestamp": 1767027356531
+                }
+            ]
+        }
+    ]
+}

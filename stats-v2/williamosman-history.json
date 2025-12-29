@@ -1,0 +1,49 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "William Osman",
+            "countUnits": 0,
+            "historicalCounts": []
+        },
+        {
+            "platformName": "Instagram",
+            "username": "williamosman",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 653,
+                    "timestamp": 1767031383822
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "williamosman",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 569900,
+                    "timestamp": 1767031398302
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "WilliamOsman",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 286600,
+                    "timestamp": 1767031391303
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "William Osman",
+            "countUnits": 1,
+            "historicalCounts": []
+        }
+    ]
+}

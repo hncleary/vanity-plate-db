@@ -1,0 +1,70 @@
+{
+    "histories": [
+        {
+            "platformName": "YouTube",
+            "username": "shroud",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 6820000,
+                    "timestamp": 1767030585419
+                }
+            ]
+        },
+        {
+            "platformName": "Instagram",
+            "username": "shroud",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1767030592761
+                }
+            ]
+        },
+        {
+            "platformName": "Tik Tok",
+            "username": "shroud",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 656900,
+                    "timestamp": 1767030614584
+                }
+            ]
+        },
+        {
+            "platformName": "Twitch",
+            "username": "shroud",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767030607562
+                }
+            ]
+        },
+        {
+            "platformName": "Twitter",
+            "username": "shroud",
+            "countUnits": 0,
+            "historicalCounts": [
+                {
+                    "count": 1800000,
+                    "timestamp": 1767030599828
+                }
+            ]
+        },
+        {
+            "platformName": "YouTube",
+            "username": "shroud",
+            "countUnits": 1,
+            "historicalCounts": [
+                {
+                    "count": 1322640814,
+                    "timestamp": 1767030585419
+                }
+            ]
+        }
+    ]
+}
