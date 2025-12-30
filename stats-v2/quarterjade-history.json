@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "quarterjade",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 730000,
+                    "timestamp": 1767103616770
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -58,6 +63,10 @@
                 {
                     "count": 504273710,
                     "timestamp": 1767031864183
+                },
+                {
+                    "count": 504394749,
+                    "timestamp": 1767103609612
                 }
             ]
         }

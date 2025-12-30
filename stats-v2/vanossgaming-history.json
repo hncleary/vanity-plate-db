@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "vanossgaming",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 24,
+                    "timestamp": 1767103714197
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -36,6 +41,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767031816041
+                },
+                {
+                    "count": 7900,
+                    "timestamp": 1767103728474
                 }
             ]
         },
@@ -58,6 +67,10 @@
                 {
                     "count": 16742423095,
                     "timestamp": 1767031786220
+                },
+                {
+                    "count": 16743217626,
+                    "timestamp": 1767103707107
                 }
             ]
         }
