@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767103848785,
+            "timeRetrieved": 1767189824618,
             "link": "https://www.youtube.com/@Michael Reeves/",
             "displayName": "",
             "username": "Michael Reeves",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767103870374,
+            "timeRetrieved": 1767189847029,
             "link": "https://twitter.com/michaelreeves",
             "displayName": "",
             "username": "michaelreeves",
@@ -53,11 +53,11 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1767103878309,
+            "timeRetrieved": 1767189855020,
             "link": "https://www.twitch.tv/michaelreeves",
             "displayName": "michaelreeves",
             "username": "michaelreeves",
-            "followerCount": 1500000,
+            "followerCount": 0,
             "followerLabel": "Followers",
             "followingCount": -1,
             "iconBase64": "",
@@ -67,7 +67,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767103885128,
+            "timeRetrieved": 1767189861604,
             "link": "https://www.tiktok.com/@michaelreeves?lang=en",
             "displayName": "Michael Reeves",
             "username": "michaelreeves",

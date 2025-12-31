@@ -21,7 +21,12 @@
             "platformName": "Instagram",
             "username": "markiplier",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 12000000,
+                    "timestamp": 1767188499644
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -42,6 +47,10 @@
                 {
                     "count": 2500000,
                     "timestamp": 1767029096208
+                },
+                {
+                    "count": 0,
+                    "timestamp": 1767188514682
                 }
             ]
         },
@@ -79,6 +88,10 @@
                 {
                     "count": 23088335924,
                     "timestamp": 1767104321441
+                },
+                {
+                    "count": 23090222754,
+                    "timestamp": 1767188487401
                 }
             ]
         },

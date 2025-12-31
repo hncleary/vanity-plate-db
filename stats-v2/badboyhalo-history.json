@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "badboyhalo",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 906000,
+                    "timestamp": 1767188432318
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -62,6 +67,10 @@
                 {
                     "count": 4969558,
                     "timestamp": 1767103368393
+                },
+                {
+                    "count": 4970192,
+                    "timestamp": 1767188424801
                 }
             ]
         }

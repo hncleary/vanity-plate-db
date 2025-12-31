@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "petezahhutt",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 448,
+                    "timestamp": 1767188330904
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -66,6 +71,10 @@
                 {
                     "count": 229617802,
                     "timestamp": 1767102141790
+                },
+                {
+                    "count": 229618380,
+                    "timestamp": 1767188323145
                 }
             ]
         }
