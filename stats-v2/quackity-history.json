@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "quackity",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 5000000,
+                    "timestamp": 1767217110371
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -40,6 +45,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767192908644
+                },
+                {
+                    "count": 6400000,
+                    "timestamp": 1767217124822
                 }
             ]
         },
@@ -65,6 +74,10 @@
                 {
                     "count": 521468998,
                     "timestamp": 1767192879945
+                },
+                {
+                    "count": 521526864,
+                    "timestamp": 1767217103369
                 }
             ]
         }

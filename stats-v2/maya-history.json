@@ -19,7 +19,12 @@
             "platformName": "Instagram",
             "username": "maya",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 587000,
+                    "timestamp": 1767216108956
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -56,6 +61,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767190281587
+                },
+                {
+                    "count": 969000,
+                    "timestamp": 1767216124165
                 }
             ]
         },
@@ -75,6 +84,10 @@
                 {
                     "count": 9596,
                     "timestamp": 1767190274009
+                },
+                {
+                    "count": 9595,
+                    "timestamp": 1767216116889
                 }
             ]
         },

@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767188904700,
+            "timeRetrieved": 1767218508681,
             "link": "https://www.youtube.com/@Eddy Burback/",
             "displayName": "",
             "username": "Eddy Burback",
@@ -19,16 +19,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": -1,
+            "timeRetrieved": 1767218515376,
             "link": "https://www.instagram.com/eddyburback",
-            "displayName": "",
+            "displayName": "eddyburback",
             "username": "eddyburback",
-            "followerCount": -1,
+            "followerCount": 269000,
             "followerLabel": "Followers",
-            "followingCount": -1,
+            "followingCount": 964,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": -1
+            "totalPosts": 208
         }
     ],
     "threadsStats": [],
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767188926468,
+            "timeRetrieved": 1767218523057,
             "link": "https://twitter.com/eddyburback",
             "displayName": "",
             "username": "eddyburback",
@@ -54,7 +54,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767188933748,
+            "timeRetrieved": 1767218530405,
             "link": "https://www.tiktok.com/@eddyburback?lang=en",
             "displayName": "",
             "username": "eddyburback",

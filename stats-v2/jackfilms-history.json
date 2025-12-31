@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "jacksfilms",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 373000,
+                    "timestamp": 1767217082538
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",

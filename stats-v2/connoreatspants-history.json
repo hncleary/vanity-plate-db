@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "connoreatspants",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 268000,
+                    "timestamp": 1767216517429
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -40,6 +45,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767188612940
+                },
+                {
+                    "count": 726000,
+                    "timestamp": 1767216532049
                 }
             ]
         },
@@ -55,6 +64,10 @@
                 {
                     "count": 952800,
                     "timestamp": 1767101784699
+                },
+                {
+                    "count": 952700,
+                    "timestamp": 1767216524519
                 }
             ]
         },
@@ -74,6 +87,10 @@
                 {
                     "count": 22142492,
                     "timestamp": 1767188584903
+                },
+                {
+                    "count": 22142701,
+                    "timestamp": 1767216510432
                 }
             ]
         }

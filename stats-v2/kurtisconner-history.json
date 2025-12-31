@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "kurtisconner",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1767214983487
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -55,6 +60,10 @@
                 {
                     "count": 1138201190,
                     "timestamp": 1767190470324
+                },
+                {
+                    "count": 1138573149,
+                    "timestamp": 1767214976224
                 }
             ]
         }

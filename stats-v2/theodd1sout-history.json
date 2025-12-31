@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "theodd1sout",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1767216143634
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",

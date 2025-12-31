@@ -26,7 +26,12 @@
             "platformName": "Instagram",
             "username": "idubbbz",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 959000,
+                    "timestamp": 1767216594171
+                }
+            ]
         },
         {
             "platformName": "Twitter",
@@ -55,6 +60,10 @@
                 {
                     "count": 1252229104,
                     "timestamp": 1767191870694
+                },
+                {
+                    "count": 1252244562,
+                    "timestamp": 1767216580981
                 }
             ]
         },
@@ -74,6 +83,10 @@
                 {
                     "count": 167898800,
                     "timestamp": 1767191876244
+                },
+                {
+                    "count": 167899398,
+                    "timestamp": 1767216586855
                 }
             ]
         }

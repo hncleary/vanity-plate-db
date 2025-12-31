@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "lilypichu",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1767215180679
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -52,6 +57,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767189895195
+                },
+                {
+                    "count": 2400000,
+                    "timestamp": 1767215194685
                 }
             ]
         },
@@ -82,6 +91,10 @@
                 {
                     "count": 623131323,
                     "timestamp": 1767189867187
+                },
+                {
+                    "count": 623222007,
+                    "timestamp": 1767215173449
                 }
             ]
         }

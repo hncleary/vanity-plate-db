@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767189949145,
+            "timeRetrieved": 1767218447084,
             "link": "https://www.youtube.com/@Gus Johnson/",
             "displayName": "",
             "username": "Gus Johnson",
@@ -19,16 +19,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": -1,
+            "timeRetrieved": 1767218454016,
             "link": "https://www.instagram.com/gusjohnson",
             "displayName": "",
             "username": "gusjohnson",
-            "followerCount": -1,
+            "followerCount": 24,
             "followerLabel": "Followers",
-            "followingCount": -1,
+            "followingCount": 3,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": -1
+            "totalPosts": 5
         }
     ],
     "threadsStats": [],
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767189970128,
+            "timeRetrieved": 1767218461276,
             "link": "https://twitter.com/Gusbuckets",
             "displayName": "",
             "username": "Gusbuckets",
@@ -54,7 +54,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767189976757,
+            "timeRetrieved": 1767218468374,
             "link": "https://www.tiktok.com/@gusjohnson?lang=en",
             "displayName": "Gus Johnson",
             "username": "gusjohnson",

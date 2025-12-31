@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767191904224,
+            "timeRetrieved": 1767216137009,
             "link": "https://www.youtube.com/@theodd1sout/",
             "displayName": "TheOdd1sOut",
             "username": "theodd1sout",
@@ -19,16 +19,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": -1,
+            "timeRetrieved": 1767216143634,
             "link": "https://www.instagram.com/theodd1sout",
-            "displayName": "",
+            "displayName": "TheOdd1sOut",
             "username": "theodd1sout",
-            "followerCount": -1,
+            "followerCount": 3000000,
             "followerLabel": "Followers",
-            "followingCount": -1,
+            "followingCount": 142,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": -1
+            "totalPosts": 268
         }
     ],
     "threadsStats": [],
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767191926663,
+            "timeRetrieved": 1767216150732,
             "link": "https://twitter.com/theodd1sout",
             "displayName": "",
             "username": "theodd1sout",
@@ -54,7 +54,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767191933629,
+            "timeRetrieved": 1767216157908,
             "link": "https://www.tiktok.com/@theodd1sout?lang=en",
             "displayName": "james",
             "username": "theodd1sout",

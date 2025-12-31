@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "purpled",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 72,
+                    "timestamp": 1767217318067
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -40,6 +45,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767192951599
+                },
+                {
+                    "count": 1100000,
+                    "timestamp": 1767217333395
                 }
             ]
         },
@@ -51,6 +60,10 @@
                 {
                     "count": 104,
                     "timestamp": 1767028108266
+                },
+                {
+                    "count": 103,
+                    "timestamp": 1767217325571
                 }
             ]
         },
@@ -70,6 +83,10 @@
                 {
                     "count": 3236242,
                     "timestamp": 1767192922263
+                },
+                {
+                    "count": 3236542,
+                    "timestamp": 1767217310599
                 }
             ]
         }

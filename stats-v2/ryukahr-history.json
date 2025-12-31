@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "ryukahr",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 309000,
+                    "timestamp": 1767218543252
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -40,6 +45,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767193241506
+                },
+                {
+                    "count": 201000,
+                    "timestamp": 1767218558180
                 }
             ]
         },
@@ -51,6 +60,10 @@
                 {
                     "count": 43100,
                     "timestamp": 1767028065456
+                },
+                {
+                    "count": 43000,
+                    "timestamp": 1767218550709
                 }
             ]
         },
@@ -70,6 +83,10 @@
                 {
                     "count": 532552897,
                     "timestamp": 1767193212248
+                },
+                {
+                    "count": 532587735,
+                    "timestamp": 1767218535845
                 }
             ]
         }

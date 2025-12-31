@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "seapeekay",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 158000,
+                    "timestamp": 1767217282794
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -36,6 +41,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767029019897
+                },
+                {
+                    "count": 290000,
+                    "timestamp": 1767217297401
                 }
             ]
         },
@@ -66,6 +75,10 @@
                 {
                     "count": 136440236,
                     "timestamp": 1767193627521
+                },
+                {
+                    "count": 136440797,
+                    "timestamp": 1767217275505
                 }
             ]
         }

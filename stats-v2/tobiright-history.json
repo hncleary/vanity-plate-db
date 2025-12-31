@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "tobiright",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 287,
+                    "timestamp": 1767216025994
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -66,6 +71,10 @@
                 {
                     "count": 592924462,
                     "timestamp": 1767187889561
+                },
+                {
+                    "count": 593024484,
+                    "timestamp": 1767216018536
                 }
             ]
         }

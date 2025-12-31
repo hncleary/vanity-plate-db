@@ -19,7 +19,12 @@
             "platformName": "Instagram",
             "username": "wilbursoot",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1767218481891
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -33,6 +38,10 @@
                 {
                     "count": 17500,
                     "timestamp": 1767103033012
+                },
+                {
+                    "count": 17600,
+                    "timestamp": 1767218503879
                 }
             ]
         },
@@ -48,6 +57,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767190398281
+                },
+                {
+                    "count": 4400000,
+                    "timestamp": 1767218496470
                 }
             ]
         },
@@ -78,6 +91,10 @@
                 {
                     "count": 6799004,
                     "timestamp": 1767190369379
+                },
+                {
+                    "count": 6804125,
+                    "timestamp": 1767218474297
                 }
             ]
         }

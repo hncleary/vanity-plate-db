@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767193026447,
+            "timeRetrieved": 1767218737062,
             "link": "https://www.youtube.com/@Karl Jacobs/",
             "displayName": "",
             "username": "Karl Jacobs",
@@ -19,16 +19,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": -1,
+            "timeRetrieved": 1767218744370,
             "link": "https://www.instagram.com/karljacobs",
-            "displayName": "",
+            "displayName": "KarlJacobs",
             "username": "karljacobs",
-            "followerCount": -1,
+            "followerCount": 6000000,
             "followerLabel": "Followers",
-            "followingCount": -1,
+            "followingCount": 599,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": -1
+            "totalPosts": 159
         }
     ],
     "threadsStats": [],
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767193048378,
+            "timeRetrieved": 1767218751465,
             "link": "https://twitter.com/KarlJacobs_",
             "displayName": "",
             "username": "KarlJacobs_",
@@ -53,11 +53,11 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1767193056120,
+            "timeRetrieved": 1767218758759,
             "link": "https://www.twitch.tv/karljacobs",
             "displayName": "karljacobs",
             "username": "karljacobs",
-            "followerCount": 0,
+            "followerCount": 3500000,
             "followerLabel": "Followers",
             "followingCount": -1,
             "iconBase64": "",
@@ -67,7 +67,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767193062968,
+            "timeRetrieved": 1767218766085,
             "link": "https://www.tiktok.com/@karljacobs?lang=en",
             "displayName": "Karl",
             "username": "karljacobs",

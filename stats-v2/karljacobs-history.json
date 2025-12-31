@@ -10,7 +10,12 @@
             "platformName": "Instagram",
             "username": "karljacobs",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 6000000,
+                    "timestamp": 1767218744370
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -35,6 +40,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767193056120
+                },
+                {
+                    "count": 3500000,
+                    "timestamp": 1767218758759
                 }
             ]
         },

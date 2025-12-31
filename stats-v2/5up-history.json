@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "5up",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 5033,
+                    "timestamp": 1767217246954
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -40,6 +45,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767190322195
+                },
+                {
+                    "count": 908000,
+                    "timestamp": 1767217261332
                 }
             ]
         },
@@ -70,6 +79,10 @@
                 {
                     "count": 214960841,
                     "timestamp": 1767190294189
+                },
+                {
+                    "count": 215017084,
+                    "timestamp": 1767217240165
                 }
             ]
         }

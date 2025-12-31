@@ -26,7 +26,12 @@
             "platformName": "Instagram",
             "username": "dreamwastaken",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1767218703691
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -55,6 +60,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767190147577
+                },
+                {
+                    "count": 873000,
+                    "timestamp": 1767218725677
                 }
             ]
         },
@@ -96,6 +105,10 @@
                 {
                     "count": 3853391349,
                     "timestamp": 1767190106383
+                },
+                {
+                    "count": 3856808845,
+                    "timestamp": 1767218691412
                 }
             ]
         },
@@ -115,6 +128,10 @@
                 {
                     "count": 327697388,
                     "timestamp": 1767190112055
+                },
+                {
+                    "count": 328130279,
+                    "timestamp": 1767218696668
                 }
             ]
         }

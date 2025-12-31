@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "boogie2988",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767216489001
+                }
+            ]
         },
         {
             "platformName": "Twitch",
@@ -29,6 +34,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767191127360
+                },
+                {
+                    "count": 405000,
+                    "timestamp": 1767216504239
                 }
             ]
         },
@@ -59,6 +68,10 @@
                 {
                     "count": 945097345,
                     "timestamp": 1767191098457
+                },
+                {
+                    "count": 945110744,
+                    "timestamp": 1767216481427
                 }
             ]
         }

@@ -10,7 +10,12 @@
             "platformName": "Instagram",
             "username": "gusjohnson",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 24,
+                    "timestamp": 1767218454016
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",

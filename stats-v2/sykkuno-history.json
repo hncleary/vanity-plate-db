@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "sykkuno",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 792000,
+                    "timestamp": 1767215989978
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -74,6 +79,10 @@
                 {
                     "count": 514955083,
                     "timestamp": 1767188823090
+                },
+                {
+                    "count": 514983803,
+                    "timestamp": 1767215982954
                 }
             ]
         }

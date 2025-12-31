@@ -10,7 +10,12 @@
             "platformName": "Instagram",
             "username": "eddyburback",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 269000,
+                    "timestamp": 1767218515376
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",

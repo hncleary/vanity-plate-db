@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767193434678,
+            "timeRetrieved": 1767217075475,
             "link": "https://www.youtube.com/@jacksfilms/",
             "displayName": "jacksfilms",
             "username": "jacksfilms",
@@ -19,16 +19,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": -1,
+            "timeRetrieved": 1767217082538,
             "link": "https://www.instagram.com/jacksfilms",
-            "displayName": "",
+            "displayName": "JackDouglass",
             "username": "jacksfilms",
-            "followerCount": -1,
+            "followerCount": 373000,
             "followerLabel": "Followers",
-            "followingCount": -1,
+            "followingCount": 546,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": -1
+            "totalPosts": 868
         }
     ],
     "threadsStats": [],
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767193456507,
+            "timeRetrieved": 1767217090193,
             "link": "https://twitter.com/jacksfilms",
             "displayName": "",
             "username": "jacksfilms",
@@ -54,7 +54,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767193464154,
+            "timeRetrieved": 1767217097784,
             "link": "https://www.tiktok.com/@jacksfilms?lang=en",
             "displayName": "Jacksfilms",
             "username": "jacksfilms",

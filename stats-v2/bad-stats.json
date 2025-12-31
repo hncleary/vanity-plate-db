@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767188103988,
+            "timeRetrieved": 1767219974007,
             "link": "https://www.youtube.com/@Bad/",
             "displayName": "bad",
             "username": "Bad",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767188125517,
+            "timeRetrieved": 1767219995766,
             "link": "https://twitter.com/Bad",
             "displayName": "",
             "username": "Bad",
@@ -53,7 +53,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1767188133007,
+            "timeRetrieved": 1767220003343,
             "link": "https://www.twitch.tv/bad",
             "displayName": "bad",
             "username": "bad",
@@ -67,13 +67,13 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767188140445,
+            "timeRetrieved": 1767220010865,
             "link": "https://www.tiktok.com/@bad?lang=en",
             "displayName": "bad",
             "username": "bad",
             "followerCount": 166,
             "followerLabel": "Followers",
-            "followingCount": 73,
+            "followingCount": 74,
             "iconBase64": "",
             "iconUrl": "",
             "likes": 0
