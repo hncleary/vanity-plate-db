@@ -26,7 +26,12 @@
             "platformName": "Instagram",
             "username": "h3h3productions",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1767370846934
+                }
+            ]
         },
         {
             "platformName": "Twitter",
@@ -59,6 +64,10 @@
                 {
                     "count": 1383428355,
                     "timestamp": 1767217561767
+                },
+                {
+                    "count": 1383449191,
+                    "timestamp": 1767370825650
                 }
             ]
         },
@@ -82,6 +91,10 @@
                 {
                     "count": 1530845115,
                     "timestamp": 1767217567872
+                },
+                {
+                    "count": 1531000165,
+                    "timestamp": 1767370832048
                 }
             ]
         }

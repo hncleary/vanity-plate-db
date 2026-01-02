@@ -10,7 +10,12 @@
             "platformName": "Instagram",
             "username": "michaelreeves",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 3,
+                    "timestamp": 1767371365406
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",

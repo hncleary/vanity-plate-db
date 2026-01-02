@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "callmecarson",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 979,
+                    "timestamp": 1767370957106
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -63,6 +68,10 @@
                 {
                     "count": 948700,
                     "timestamp": 1767193730049
+                },
+                {
+                    "count": 948500,
+                    "timestamp": 1767370964155
                 }
             ]
         },
@@ -86,6 +95,10 @@
                 {
                     "count": 421665248,
                     "timestamp": 1767220741246
+                },
+                {
+                    "count": 421746466,
+                    "timestamp": 1767370950363
                 }
             ]
         }

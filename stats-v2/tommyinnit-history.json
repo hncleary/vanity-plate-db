@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "tommyinnit",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1767369748975
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -70,6 +75,10 @@
                 {
                     "count": 2614584139,
                     "timestamp": 1767220520061
+                },
+                {
+                    "count": 2615116760,
+                    "timestamp": 1767369741434
                 }
             ]
         }

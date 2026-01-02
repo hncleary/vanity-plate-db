@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "zerkaa",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1767369315733
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -74,6 +79,10 @@
                 {
                     "count": 891521055,
                     "timestamp": 1767191174810
+                },
+                {
+                    "count": 891550532,
+                    "timestamp": 1767369308224
                 }
             ]
         }

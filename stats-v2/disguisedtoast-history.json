@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "disguisedtoast",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 807000,
+                    "timestamp": 1767369833565
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -70,6 +75,10 @@
                 {
                     "count": 1560654153,
                     "timestamp": 1767220477999
+                },
+                {
+                    "count": 1561024272,
+                    "timestamp": 1767369825904
                 }
             ]
         }

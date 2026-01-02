@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "tfue",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 4000000,
+                    "timestamp": 1767371242214
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -44,6 +49,10 @@
                 {
                     "count": 0,
                     "timestamp": 1767188654060
+                },
+                {
+                    "count": 11400000,
+                    "timestamp": 1767371257102
                 }
             ]
         },
@@ -74,6 +83,10 @@
                 {
                     "count": 1804,
                     "timestamp": 1767219392441
+                },
+                {
+                    "count": 1809,
+                    "timestamp": 1767371235502
                 }
             ]
         }

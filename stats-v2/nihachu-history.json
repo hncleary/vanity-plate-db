@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "nihachu",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 52,
+                    "timestamp": 1767369466112
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",

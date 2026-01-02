@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "timthetatman",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 3000000,
+                    "timestamp": 1767369916627
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -78,6 +83,10 @@
                 {
                     "count": 1549170845,
                     "timestamp": 1767220647638
+                },
+                {
+                    "count": 1550002217,
+                    "timestamp": 1767369909473
                 }
             ]
         }

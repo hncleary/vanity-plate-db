@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767217850169,
+            "timeRetrieved": 1767371010625,
             "link": "https://www.youtube.com/@emma chamberlain/",
             "displayName": "",
             "username": "emma chamberlain",
@@ -19,16 +19,16 @@
     "instaStats": [
         {
             "platformName": "Instagram",
-            "timeRetrieved": -1,
+            "timeRetrieved": 1767371017615,
             "link": "https://www.instagram.com/emmachamberlain",
-            "displayName": "",
+            "displayName": "emmachamberlain",
             "username": "emmachamberlain",
-            "followerCount": -1,
+            "followerCount": 14000000,
             "followerLabel": "Followers",
-            "followingCount": -1,
+            "followingCount": 39,
             "iconBase64": "",
             "iconUrl": "",
-            "totalPosts": -1
+            "totalPosts": 757
         }
     ],
     "threadsStats": [],
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767217871896,
+            "timeRetrieved": 1767371024740,
             "link": "https://twitter.com/emmachamberlain",
             "displayName": "",
             "username": "emmachamberlain",
@@ -54,11 +54,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767217879117,
+            "timeRetrieved": 1767371032287,
             "link": "https://www.tiktok.com/@emmachamberlain?lang=en",
             "displayName": "emma chamberlain",
             "username": "emmachamberlain",
-            "followerCount": 527900,
+            "followerCount": 528000,
             "followerLabel": "Followers",
             "followingCount": 2,
             "iconBase64": "",

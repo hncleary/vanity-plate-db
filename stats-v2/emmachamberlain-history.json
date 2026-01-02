@@ -10,7 +10,12 @@
             "platformName": "Instagram",
             "username": "emmachamberlain",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 14000000,
+                    "timestamp": 1767371017615
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -28,6 +33,10 @@
                 {
                     "count": 527900,
                     "timestamp": 1767192512731
+                },
+                {
+                    "count": 528000,
+                    "timestamp": 1767371032287
                 }
             ]
         },

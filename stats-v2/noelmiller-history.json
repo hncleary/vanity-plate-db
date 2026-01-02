@@ -25,7 +25,12 @@
             "platformName": "Instagram",
             "username": "noelmiller",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 1535,
+                    "timestamp": 1767369438277
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -75,6 +80,10 @@
                 {
                     "count": 6506711,
                     "timestamp": 1767220921573
+                },
+                {
+                    "count": 6511478,
+                    "timestamp": 1767369430613
                 }
             ]
         }

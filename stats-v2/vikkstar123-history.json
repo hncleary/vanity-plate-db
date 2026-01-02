@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "vikkstar123",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 1331,
+                    "timestamp": 1767371045362
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",

@@ -21,7 +21,12 @@
             "platformName": "Instagram",
             "username": "ksi",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 13000000,
+                    "timestamp": 1767371639564
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -91,6 +96,10 @@
                 {
                     "count": 4634103328,
                     "timestamp": 1767193469865
+                },
+                {
+                    "count": 4635707524,
+                    "timestamp": 1767371627782
                 }
             ]
         },

@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "sapnap",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 188,
+                    "timestamp": 1767370167179
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -70,6 +75,10 @@
                 {
                     "count": 176358055,
                     "timestamp": 1767220378069
+                },
+                {
+                    "count": 177039739,
+                    "timestamp": 1767370159500
                 }
             ]
         }
