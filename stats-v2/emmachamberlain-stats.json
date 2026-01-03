@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767371010625,
+            "timeRetrieved": 1767474090384,
             "link": "https://www.youtube.com/@emma chamberlain/",
             "displayName": "",
             "username": "emma chamberlain",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767371024740,
+            "timeRetrieved": 1767474111474,
             "link": "https://twitter.com/emmachamberlain",
             "displayName": "",
             "username": "emmachamberlain",
@@ -54,11 +54,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767371032287,
+            "timeRetrieved": 1767474118680,
             "link": "https://www.tiktok.com/@emmachamberlain?lang=en",
             "displayName": "emma chamberlain",
             "username": "emmachamberlain",
-            "followerCount": 528000,
+            "followerCount": 528300,
             "followerLabel": "Followers",
             "followingCount": 2,
             "iconBase64": "",
