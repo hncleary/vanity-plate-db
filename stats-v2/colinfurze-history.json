@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "colinfurze",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 0,
+                    "timestamp": 1767579547703
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -67,6 +72,10 @@
                 {
                     "count": 1900122671,
                     "timestamp": 1767478320775
+                },
+                {
+                    "count": 1900246962,
+                    "timestamp": 1767579540424
                 }
             ]
         }

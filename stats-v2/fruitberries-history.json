@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "fruitberries",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 2,
+                    "timestamp": 1767578959448
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -82,6 +87,10 @@
                 {
                     "count": 83974016,
                     "timestamp": 1767475878823
+                },
+                {
+                    "count": 83974941,
+                    "timestamp": 1767578951594
                 }
             ]
         }
