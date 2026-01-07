@@ -21,7 +21,12 @@
             "platformName": "Instagram",
             "username": "daviddobrik",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 10000000,
+                    "timestamp": 1767759604097
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -77,6 +82,10 @@
                 {
                     "count": 7519160597,
                     "timestamp": 1767581979268
+                },
+                {
+                    "count": 7520361668,
+                    "timestamp": 1767759591710
                 }
             ]
         },

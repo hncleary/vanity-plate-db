@@ -19,7 +19,12 @@
             "platformName": "Instagram",
             "username": "tubbo",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 222,
+                    "timestamp": 1767759184953
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -94,6 +99,10 @@
                 {
                     "count": 77886598,
                     "timestamp": 1767583426378
+                },
+                {
+                    "count": 77891696,
+                    "timestamp": 1767759177498
                 }
             ]
         }
