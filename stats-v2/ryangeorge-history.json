@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "ryangeorge",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 69,
+                    "timestamp": 1768758441997
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -75,6 +80,10 @@
                 {
                     "count": 687511626,
                     "timestamp": 1767765777900
+                },
+                {
+                    "count": 689192305,
+                    "timestamp": 1768758434084
                 }
             ]
         }

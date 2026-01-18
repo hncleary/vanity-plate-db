@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1767759212908,
+            "timeRetrieved": 1768764586931,
             "link": "https://www.youtube.com/@Illumina/",
             "displayName": "",
             "username": "Illumina",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1767759234458,
+            "timeRetrieved": 1768764608252,
             "link": "https://twitter.com/Illumina1337",
             "displayName": "",
             "username": "Illumina1337",
@@ -53,11 +53,11 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1767759242267,
+            "timeRetrieved": 1768764615822,
             "link": "https://www.twitch.tv/illumina",
             "displayName": "Illumina",
             "username": "illumina",
-            "followerCount": 112,
+            "followerCount": 0,
             "followerLabel": "Followers",
             "followingCount": -1,
             "iconBase64": "",
@@ -67,7 +67,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1767759249170,
+            "timeRetrieved": 1768764623499,
             "link": "https://www.tiktok.com/@illumina?lang=en",
             "displayName": "Illumina",
             "username": "illumina",

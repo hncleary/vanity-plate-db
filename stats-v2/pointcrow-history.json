@@ -19,7 +19,12 @@
             "platformName": "Instagram",
             "username": "pointcrow",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 86000,
+                    "timestamp": 1768758752033
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -49,6 +54,10 @@
                 {
                     "count": 212700,
                     "timestamp": 1767763262955
+                },
+                {
+                    "count": 212800,
+                    "timestamp": 1768758773993
                 }
             ]
         },
@@ -87,6 +96,10 @@
                 {
                     "count": 183500,
                     "timestamp": 1767027824964
+                },
+                {
+                    "count": 183200,
+                    "timestamp": 1768758759372
                 }
             ]
         },
@@ -126,6 +139,10 @@
                 {
                     "count": 740228083,
                     "timestamp": 1767763224954
+                },
+                {
+                    "count": 743073235,
+                    "timestamp": 1768758744980
                 }
             ]
         }
