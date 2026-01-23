@@ -16,6 +16,10 @@
                 {
                     "count": 7580000,
                     "timestamp": 1768759155592
+                },
+                {
+                    "count": 7600000,
+                    "timestamp": 1769135714772
                 }
             ]
         },
@@ -23,7 +27,12 @@
             "platformName": "Instagram",
             "username": "kaicenat",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 17000000,
+                    "timestamp": 1769135721776
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -110,6 +119,10 @@
                 {
                     "count": 424426984,
                     "timestamp": 1768759155592
+                },
+                {
+                    "count": 425349486,
+                    "timestamp": 1769135714772
                 }
             ]
         }

@@ -30,7 +30,12 @@
             "platformName": "Instagram",
             "username": "codyko",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 1000000,
+                    "timestamp": 1769140432435
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -105,6 +110,10 @@
                 {
                     "count": 605070087,
                     "timestamp": 1768763163896
+                },
+                {
+                    "count": 606386963,
+                    "timestamp": 1769140425814
                 }
             ]
         }
