@@ -8,6 +8,10 @@
                 {
                     "count": 464000,
                     "timestamp": 1767032945040
+                },
+                {
+                    "count": 463000,
+                    "timestamp": 1769885981621
                 }
             ]
         },
@@ -15,7 +19,12 @@
             "platformName": "Instagram",
             "username": "hbomb94",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 199,
+                    "timestamp": 1769885988505
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -45,6 +54,10 @@
                 {
                     "count": 4112,
                     "timestamp": 1769139522994
+                },
+                {
+                    "count": 4110,
+                    "timestamp": 1769886010641
                 }
             ]
         },
@@ -103,6 +116,10 @@
                 {
                     "count": 489200,
                     "timestamp": 1769139508973
+                },
+                {
+                    "count": 488900,
+                    "timestamp": 1769885995240
                 }
             ]
         },
@@ -150,6 +167,10 @@
                 {
                     "count": 82789963,
                     "timestamp": 1769139487161
+                },
+                {
+                    "count": 82793106,
+                    "timestamp": 1769885981621
                 }
             ]
         }

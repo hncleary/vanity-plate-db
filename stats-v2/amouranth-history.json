@@ -10,7 +10,12 @@
             "platformName": "Instagram",
             "username": "amouranth",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 838000,
+                    "timestamp": 1769881142446
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -36,6 +41,10 @@
                 {
                     "count": 1854,
                     "timestamp": 1769138316402
+                },
+                {
+                    "count": 1855,
+                    "timestamp": 1769881165120
                 }
             ]
         },
@@ -67,6 +76,10 @@
                 {
                     "count": 0,
                     "timestamp": 1768761167569
+                },
+                {
+                    "count": 6100000,
+                    "timestamp": 1769881157588
                 }
             ]
         },

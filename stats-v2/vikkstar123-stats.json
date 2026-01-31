@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1769139186723,
+            "timeRetrieved": 1769885302595,
             "link": "https://www.youtube.com/@Vikkstar123/",
             "displayName": "Vikkstar123",
             "username": "Vikkstar123",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1769139208662,
+            "timeRetrieved": 1769885325036,
             "link": "https://twitter.com/Vikkstar123",
             "displayName": "",
             "username": "Vikkstar123",
@@ -53,7 +53,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1769139215447,
+            "timeRetrieved": 1769885331955,
             "link": "https://www.twitch.tv/vikkstar123",
             "displayName": "Vikkstar123",
             "username": "vikkstar123",
@@ -67,11 +67,11 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1769139222943,
+            "timeRetrieved": 1769885339074,
             "link": "https://www.tiktok.com/@vikkstar123?lang=en",
             "displayName": "vikk",
             "username": "vikkstar123",
-            "followerCount": 104,
+            "followerCount": 103,
             "followerLabel": "Followers",
             "followingCount": 0,
             "iconBase64": "",

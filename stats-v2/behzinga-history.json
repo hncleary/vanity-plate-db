@@ -8,6 +8,10 @@
                 {
                     "count": 4920000,
                     "timestamp": 1767032281843
+                },
+                {
+                    "count": 4910000,
+                    "timestamp": 1769885868942
                 }
             ]
         },
@@ -15,7 +19,12 @@
             "platformName": "Instagram",
             "username": "behzinga",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 427,
+                    "timestamp": 1769885883949
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -56,6 +65,10 @@
                 {
                     "count": 536000,
                     "timestamp": 1768763854205
+                },
+                {
+                    "count": 537000,
+                    "timestamp": 1769885898853
                 }
             ]
         },
@@ -118,6 +131,10 @@
                 {
                     "count": 585325946,
                     "timestamp": 1769138778841
+                },
+                {
+                    "count": 585377198,
+                    "timestamp": 1769885868942
                 }
             ]
         }
