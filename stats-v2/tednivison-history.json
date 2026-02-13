@@ -15,7 +15,12 @@
             "platformName": "Instagram",
             "username": "tednivison",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 650000,
+                    "timestamp": 1770956138299
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -60,6 +65,10 @@
                 {
                     "count": 0,
                     "timestamp": 1769883276390
+                },
+                {
+                    "count": 311000,
+                    "timestamp": 1770956152412
                 }
             ]
         },
@@ -103,6 +112,10 @@
                 {
                     "count": 782400,
                     "timestamp": 1769883268986
+                },
+                {
+                    "count": 781800,
+                    "timestamp": 1770956145581
                 }
             ]
         },
@@ -150,6 +163,10 @@
                 {
                     "count": 220825392,
                     "timestamp": 1769883247173
+                },
+                {
+                    "count": 221369207,
+                    "timestamp": 1770956131591
                 }
             ]
         }

@@ -4,7 +4,7 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1769884445794,
+            "timeRetrieved": 1770951830011,
             "link": "https://www.youtube.com/@Nogla/",
             "displayName": "",
             "username": "Nogla",
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1769884460812,
+            "timeRetrieved": 1770951852455,
             "link": "https://twitter.com/Nogla",
             "displayName": "",
             "username": "Nogla",
@@ -53,11 +53,11 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1769884467507,
+            "timeRetrieved": 1770951860302,
             "link": "https://www.twitch.tv/nogla",
-            "displayName": "nogla",
+            "displayName": "Nogla",
             "username": "nogla",
-            "followerCount": 0,
+            "followerCount": 105000,
             "followerLabel": "Followers",
             "followingCount": -1,
             "iconBase64": "",
@@ -67,7 +67,7 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1769884474233,
+            "timeRetrieved": 1770951867697,
             "link": "https://www.tiktok.com/@nogla?lang=en",
             "displayName": "user67091754440",
             "username": "nogla",

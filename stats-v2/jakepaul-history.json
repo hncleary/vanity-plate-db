@@ -34,7 +34,12 @@
             "platformName": "Instagram",
             "username": "jakepaul",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 29000000,
+                    "timestamp": 1770950521768
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -44,6 +49,10 @@
                 {
                     "count": 19300000,
                     "timestamp": 1767032136392
+                },
+                {
+                    "count": 19400000,
+                    "timestamp": 1770950536697
                 }
             ]
         },
@@ -117,6 +126,10 @@
                 {
                     "count": 7947049103,
                     "timestamp": 1769881362028
+                },
+                {
+                    "count": 7953148913,
+                    "timestamp": 1770950507700
                 }
             ]
         },
@@ -168,6 +181,10 @@
                 {
                     "count": 7947049103,
                     "timestamp": 1769881367956
+                },
+                {
+                    "count": 7953148913,
+                    "timestamp": 1770950514430
                 }
             ]
         }

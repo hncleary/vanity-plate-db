@@ -4,16 +4,16 @@
     "youtubeStats": [
         {
             "platformName": "YouTube",
-            "timeRetrieved": 1769887513786,
+            "timeRetrieved": 1770954703455,
             "link": "https://www.youtube.com/@Ranboo/",
             "displayName": "Ranboo",
             "username": "Ranboo",
-            "followerCount": 3470000,
+            "followerCount": 3460000,
             "followerLabel": "Subscribers",
             "followingCount": -1,
             "iconBase64": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/4QAqRXhpZgAASUkqAAgAAAABADEBAgAHAAAAGgAAAAAAAABQaWNhc2EAAP/bAIQAAwICBggICAgICggHCAgICAYICggICAgICAgICAgICAgICAgICAgICAgICAgICggICAgJCQkICAsMCggNCAgJCAEDBAQGBQYKBgYKDQoKDg0KDQ0NDQ0NDQ0KCA0NCg0KCg0NDQ0IDQoNCA0NCg0IDQ0NDQ0IDw0IDg0IDQ0NCA0I/8AAEQgAoACgAwERAAIRAQMRAf/EABwAAQACAwEBAQAAAAAAAAAAAAAHCAEGCQUCBP/EAC8QAAICAQQBAwMDBAIDAAAAAAECAAMEBQYREhMHCCEJFCIjMTIkQUJRcfAVgdH/xAAbAQEAAgMBAQAAAAAAAAAAAAAABAUBAgMGB//EADARAQACAQMDAgQEBgMAAAAAAAABAgMEERIhMUET8AUiUWEycYGxFCORwdHhFTM0/9oADAMBAAIRAxEAPwDoxPRvnhAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBMDBMxu249doAY3YnozG5HUmQmWCAgICAgICAgICAgICAmDcmJkVA+pJ6/Uabo7aXRZkrqurhKsRcN7a70rFylrfJUOQtjqMfwhg96vYoDKLBIWovtG0Lr4fgm1+cx0j37+iu+k+n/q9tTT8bWq8u3VMdaq8jUdMybbMqzFq6lilldrOxSpQA74Vy2Us3PQp5yI/HJjjlvusrW02eeE9PpK7XtP90WBunTVy6R4MqrinOxiSTj3cfujlQLabBw6OvJHYK3RlZZLxZecKPV6b0LbePEpt5kuEGSZakBAQEBAQEBAQEBAQEBNZZRr7hPXfT9u6ZfqWWQRWAlFXJD5N7sFStOAxABIZ2Ct0rDN+4CnjkvwjeUvT4bZbRx9x5UH9guPg7o3Dnbh1vKpytXqYPhYBawLQh7Kt9NdhIerHHKVUo9nhJNti9rKnWvxRytylea3lp8UYsUfLPeXUIt/9+f2H+/+PjkyynbZ5mOW8bOdnsQNa733eml8vo5UsXATxi8ZI8CggBjyWzgjfPZa2LksQ0gYp/mTs9Hrf/PXl39/6dEgJaQ83LMywQEBAQEBAQEBAQEBAQE0seP6OeeteiW4d67rus1vGy9M27ouRbRjUW9q/vfDcyq9beMCxcrqLLLkYqtLhKbX7G2Vs0tkv1jo9F6tNJhiMfW07NR+qT7ZtD03Dw9b0yhdPyTmph3rjFaKLBYmRet/iCj+qW5FHep1coWJRxWXqxnxRSN4dvh+ovk3rf32evo3sd9RdUxasfUdy99JupWzrVkZt99tdhPWu9bKqQ6Gi2x3FmTevlIr6uD50Vw3t3lpOrwVtM1x/N+nvuuV7b/bRpG2MH7LADWM7m7IyLgn3GQ/LFfI1aIvWpT0rQABV+flmdmmY8fCFPqNXfP+KNvt7+qVwZIiUTbZ9TZqQEBAQEBAQEBAQEBAQExMbhxNdoOymf1YtAS7aZtYsDi6lh5KcEAMzC7GKuCCWXpkO3C9SGVTzwCrQ9V2Xfw3/t/SVjPRPXUbQdJybLOyHSsO97bGT5UYyM1juvFfHALF1HU/JHInWk/KhaivLPNfO6n+9vfruPW83I0vZGA2Z4yazqVqBqawyBfP0tUUVJXYXNbZLsLeiHw2AtU0a2e1p2otMeix4a8s8/o1LfG7vXLbuIuq52Rh6jh45ByqRXh3lUtbxr9wtGPjX+NLCrB8S3uvkXuzJWy16zbLSN57fo7Y8ekyzxrHWfvP+ZXQ9rnuGx9z6TVqVVVmM/dsfIqcErXegUuKbf2uqHP42fix/wAkrPAkvHk5xEqXV6eNPfjvv9EuyRug77k2CAgICAgICAgICAgICYkeLu/ZmDqGPZiZtNWXjW8Cyq5Q9b9T2Xsp+D1YBh/ogH/XHO1OUbS648lsduVZRB7xtByK9n6xj6bUF8emtSlVJNITErCi5a1rQ8hMUOBSFAsUdOQD8cc0TFJ2TdDMTni1kVfS/wB77fs23Tj4ngx8+ix01OsuBfZc1lz0XE2dWeq6nlq1TmusrcgHKOTw09qxG3lK+JYss33jea+ETe6/fGq713ANn6OwTT8G7tquQpd62sqsRbjeo6KUwnBRKg/6t4bhwVXrpe05LcY7JOmxU0uL1b91qd67s29sHbidEFdGMgxcWqtf1c7OZCeW+R2stZWvusd/xQPwf4qe9pjFVX0pbV5uU9uvX6I09qn1HtF1jGFesXYWj6p9y2OlRe1KMisrW1NyW2p4qi7u9Pha92DVB+VFyKNceorPfo66r4dek/y+q4tF6sAykMrAMpBBVgfkEEcggj5BBIk2LbqeazWdpfYM23a92Y3CZCAgICAgICAgICAgYM5zG7NbTWd4Ug9xX0uNu6h95m6WLdMzDi2GjExvAmn25Vdbmrmo18463OK0sFLJWPlwgJYtBvpvML3B8Ttyit46eZfl+nd6aptfbupatrdY0qyy+y7IfIrKXVYWIvStSAGtPe42lKkHa1jWFrdipfGKvpxNpZ19/wCIyVx06x9vfhFOzdg5vqdr9+rZ/lxds6YXwsKlWtDX89uFoLAVpdYVTIzLgvKgY9HRwA1XOsTmtvPZLyXrosXGv4vfuE2+5X2R+nOJomTk3Yw0oYVDvXk49lwuNhIKJYnZ1yTa6ioLYjMqs3Q1/wAh1yYqVjdC0+tzZM0U8PR+lfufUsjayJmB/HiZt2HgvYLO1mGK6LVCtYT3qquutprKcIERawB4jzvppnj1c/idaxlia/Tr+bXfe97p9VOZRtTa7udZyrFqy7aPizER1BWmu0kCi1g4ey/jmmv+LK5BXTNlmZ40SNHpK1r6uWOnj+vv81ydkYGZVh4lWbaMrLqx6asm5UFYvvStVtt6AkL5HBYgEgEnjkfJmYt+PVTZ9uc8e3h7c7I5AQEBAQEBAQEBAQEBNZPyRn7h/QrF3HplmlZN2Ri0220Xu+MUFh8FgsCEWK6MrcfswIDKjfPQA8MmPlGybptTbDbeY3bLszaGn6Pp+Ph4wGPhYGOtKd2/jXWv5Pa547O3y9jnjlix4/tM1pFI6OOS85rzNp6y51b+1jO9TNxrpuE7VbX0ixb8i8I/W91Nim1eep8+SjtTQp6dKu9hDkKrQLTOW20dl/irXQ4d7/ilY/3Y+4nTtk6JRh6dXSmW9Yw9Nxwv4UIqMDlXBCn4qQP8layxuQCFfjvkyRjjaELT6e2pyepbsoZ7JvdttvQMrJzdVxcrM1LPyHN2oIKbDRVc/awpWxV+XcvZcagHYFRw/CpImLJFJ3ldavTXy140naP3dfPTr1G07VsOjP0+5MrFyE712JyP2JVkdWAeuytgyPW4DIykEcy2x25RvHZ5PLitinjbu2SdXAgICAgICAgICAgICAgIGueo+xcbVMDM07JNi0ZuPbh2ml/HaEtUqxR+GAYc/wCSsp/ZldSynlenKsw7Yck47xeO8Is0zZunbI27aNMw8vUkw1FzVU8W52ZbbaiNa5HUfBfu4qTiupT0rPABj7elTol876vLxyTtCoPsc2RXvLWtS3XrhpzLMXIrpxMJnZ68dlRXqfxOT+hQjBaQf0zd5bChYKVjYojJeZst9bedNijHjjovD7jBoNGg6nZqtNL6dXhZHlr6Voz962CVYxY1BMm2whaSj1uLihDAgESskRxmJU2m5+rXirP9InRtQTQc6+8lcTK1BrMGvgdFFaePJsqbyM3RrVFfQogVqHYNZ5D146XeInfsnfFbV5Vjz5/svUwP/RJvKFLtMx0hnmbR1azv2km7BAQEBAQEBAQEBAQEBMAJiYiWd533UI9afYXruFqNutbKzf8Axd9zF78LuuPQSanVjRxW9LhmJYUZNbKtlzsllXjUGuvhtE8qr7Frsdqenn6+/wBGpZPs/wDU/c1+PTuzUqqNMxm5tXHajvkgursFx8OqjHawhFRbr/ijgOtblrPJr6eS/wCLs7zqtNgjfHHXx76tl9X/AHHalXm07I2HjhcnCUY2TlIiPThJWFFgUlLK0WkuBkZNq8Lcy1qrOQCtfb5KNcWni0Tnzz3/AG8fT/bxdW9gvqOUbMG6cqzUOhv8S5OoV1G7qzmmu/zqqV+VmqT+mROjFjXWG8Yejkn5t2Y1+CZ4RXp23TX9P33Karr2Dm42r/lqelZRxL7RT4fOh5Cl1RK6BfXYtldi1hSAKmZFNnLdsGSbbxPdC1+nrS0Xp2mO33Wuk9TkBAQEBAQEBAQEBAQEBATXYiI8sMDweDwePg/vwf7Hj+/H+ppaOnRtG02ru5nfTt35habuLdmHrF9WJqeTl96my+KGuNN+dZm/rPxXy3ei8Vtb+a9nrDgWMK7DaK2nl77vTa+lr4qTjjePO306bf38dFo/cz74tu7fw7WTIx8/UWqJxMTGtS5mdvit72qYrRQD+RZ2DMqkIrnhTIyZoiNoVWl0WTJPWOMIt+n16ejQNFzte162vAyNZvGbkWZtgoKUIXNJt72Ctbb7br7ggrSwCxVYHjhOWKIpHKyXr5nNkrix9Yj6eJ9w3R/qe+n/AJRWMzIIPH6gwcoVDk8AktWHHwQ3yg6j4bqQVnf+Jqj/APG5dt+iyWzN64Oo41OZg3VZeLepeq2l1etwGKsOQfhkdWR0bh0dWVlBUgdq5It1hX5MVsc7XjZ7c6uJMhAQEBAQEBAQEBAQEBNZgV29wHsO2puO9szMqvxs50St8nDu8T2CtClXlrdbaLGQFR5Gq8pWtEL9VCiJbTxbqtMWvyY44xtt93kekX049laPamQuPbqGQiKgfULFvrDD+VgxxWlIZ/79kfqAAvHZ+2saetess5fiWW3SNtp+n3VkXZ9/qTuzUUysizG29t9vs66sdm/qCt16I9XLWY6W5LJbZZlBQ/2yUVhP2euPt6ttp7LKs10WKNo5Wnr79/VdSj2b7HrxjijR9MFPA7M+OjXfgAA7ZL83dlAb8jYSoaz5Hks7yfRrsqa67NOTjyVR+lKfFm7rw8Wxr9Lx8yv7R+wauz9XKqrtUj8S1mPVUxdT+Q6/DfiRx03eYjssvikfJWZ7uiolnDzpMsEBAQEBAQEBAQEBAQEBAwxmluzLmM+Xub073Bq+SmnPrOha1ktlK2MLF8IOQ9qBSqWLVkU13vW1boK7x4yLF6EJVzFsNt/D080xa3HETO1o/d8bi95e+d6+fS9r6a2DiXKcfIzGsfzUoxr7l87mnGxeayVatRde9bsa/wAugXM5b5OkQY9Jh0scrz1XS9pntmxNraUuDURdk2v9znZA5HnyCoXhO3ytNQHSpOF4XliC9ljtLxY+Ede6m1uonPaNuya5JhCnpJNmpAQEBAQEBAQEBAQEBAQEBMM7ss3/AD/7mIg3YmzBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQP/2Q==",
             "iconUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nU-7qBH4MkvXhxPJ-MRApIb8_myr4-xq61STOHrLGUpg=s160-c-k-c0x00ffffff-no-rj",
-            "totalViews": 60400467
+            "totalViews": 60034193
         }
     ],
     "instaStats": [
@@ -38,7 +38,7 @@
     "twitterStats": [
         {
             "platformName": "Twitter",
-            "timeRetrieved": 1769887535295,
+            "timeRetrieved": 1770954725092,
             "link": "https://twitter.com/RanbooLive",
             "displayName": "",
             "username": "RanbooLive",
@@ -53,7 +53,7 @@
     "twitchStats": [
         {
             "platformName": "Twitch",
-            "timeRetrieved": 1769887542554,
+            "timeRetrieved": 1770954732001,
             "link": "https://www.twitch.tv/ranboo",
             "displayName": "さくらんぼう",
             "username": "ranboo",
@@ -67,13 +67,13 @@
     "tiktokStats": [
         {
             "platformName": "Tik Tok",
-            "timeRetrieved": 1769887549667,
+            "timeRetrieved": 1770954738956,
             "link": "https://www.tiktok.com/@ranboo?lang=en",
             "displayName": "ranboo",
             "username": "ranboo",
             "followerCount": 92,
             "followerLabel": "Followers",
-            "followingCount": 253,
+            "followingCount": 259,
             "iconBase64": "",
             "iconUrl": "",
             "likes": 58
