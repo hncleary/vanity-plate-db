@@ -12,6 +12,10 @@
                 {
                     "count": 4099999.9999999995,
                     "timestamp": 1768762549609
+                },
+                {
+                    "count": 4110000.0000000005,
+                    "timestamp": 1773191809314
                 }
             ]
         },
@@ -19,7 +23,12 @@
             "platformName": "Instagram",
             "username": "nickmercs",
             "countUnits": 0,
-            "historicalCounts": []
+            "historicalCounts": [
+                {
+                    "count": 2000000,
+                    "timestamp": 1773191816904
+                }
+            ]
         },
         {
             "platformName": "Tik Tok",
@@ -68,6 +77,10 @@
                 {
                     "count": 0,
                     "timestamp": 1770952352925
+                },
+                {
+                    "count": 6800000,
+                    "timestamp": 1773191831377
                 }
             ]
         },
@@ -79,6 +92,10 @@
                 {
                     "count": 2000000,
                     "timestamp": 1767028666359
+                },
+                {
+                    "count": 2100000,
+                    "timestamp": 1773191824530
                 }
             ]
         },
@@ -134,6 +151,10 @@
                 {
                     "count": 932686459,
                     "timestamp": 1770952323754
+                },
+                {
+                    "count": 936789063,
+                    "timestamp": 1773191809314
                 }
             ]
         }
